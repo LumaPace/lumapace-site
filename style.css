@@ -21,14 +21,14 @@ h1{font-size:clamp(42px,8vw,68px)}h2{font-size:clamp(32px,5vw,46px)}h3{font-size
 @media(min-width:900px){.hero .wrap{grid-template-columns:1.1fr .9fr}}
 .hero p.lead{font-size:19px;color:var(--muted);max-width:520px}
 .ctas{display:flex;flex-wrap:wrap;gap:12px;margin:28px 0 14px}
-.phone{border-radius:34px;overflow:hidden;border:8px solid #2f3330;box-shadow:0 30px 60px rgba(59,85,71,.18);background:#fff;max-width:300px;margin:0 auto}
+.phone{position:relative;width:min(250px,64vw);margin:0 auto;padding:9px;border-radius:40px;background:#2f3330;box-shadow:0 0 0 1px #474c48 inset,0 24px 50px rgba(59,85,71,.20)}.phone::before{content:"";position:absolute;top:17px;left:50%;transform:translateX(-50%);width:56px;height:6px;border-radius:6px;background:#1c1f1d;z-index:1;opacity:.85}.phone img{display:block;width:100%;height:auto;aspect-ratio:9/18;object-fit:cover;object-position:top center;border-radius:31px;background:#fff}
 .pill{display:inline-block;background:var(--sage-mist);color:var(--sage-deep);font-size:12px;font-weight:600;padding:5px 12px;border-radius:99px}
 section{padding:72px 0}
 .steps{display:grid;gap:18px;margin-top:28px}@media(min-width:760px){.steps{grid-template-columns:repeat(3,1fr)}}
 .card{background:var(--paper);border:1px solid var(--line);border-radius:var(--r-lg);padding:26px;box-shadow:var(--shadow)}
 .num{width:36px;height:36px;border-radius:50%;background:var(--sage-tint);color:var(--sage-deep);display:grid;place-items:center;font-weight:600;margin-bottom:14px}
 .feat{display:grid;gap:40px;align-items:center;margin-top:56px}@media(min-width:860px){.feat{grid-template-columns:1fr 1fr}.feat.rev .phone{order:2}}
-.feat .phone{max-width:260px}
+.feat .phone{width:min(220px,58vw)}
 .alt{background:var(--cream-soft);border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
 .eps{display:grid;gap:18px;margin-top:28px}@media(min-width:760px){.eps{grid-template-columns:1fr 1fr}}
 .ep{border-radius:var(--r-xl);padding:28px;color:#fff;min-height:200px;display:flex;flex-direction:column;justify-content:flex-end}
