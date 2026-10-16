@@ -39,7 +39,7 @@ section{padding:72px 0}
 .plan .price{font-family:'Cormorant Garamond',serif;font-size:40px;margin:6px 0 0}
 .plan ul{padding-left:18px;color:var(--muted)}
 .badge-gp{display:inline-block;position:relative}.badge-gp img{height:64px}
-.soon .badge-gp{opacity:.85}
+.soon .badge-gp{opacity:.55;pointer-events:none}
 .getapp{text-align:center;background:linear-gradient(160deg,var(--sage-tint),var(--lav-mist));border-radius:var(--r-xl);padding:48px 24px}
 footer{padding:40px 0;color:var(--muted);font-size:14px;border-top:1px solid var(--line)}
 footer .wrap{display:flex;flex-wrap:wrap;gap:16px;justify-content:space-between}footer a{color:var(--muted);margin-right:16px}
