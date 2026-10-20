@@ -1,0 +1,152 @@
+{
+ "source": "faster-whisper small.en word timestamps aligned to script phrases",
+ "matchedWords": 223,
+ "scriptWords": 238,
+ "cues": [
+  {
+   "start": 9.03,
+   "end": 11.02,
+   "text": "Hi!"
+  },
+  {
+   "start": 10.87,
+   "end": 24.12,
+   "text": "Today you're making tea for yourself."
+  },
+  {
+   "start": 23.97,
+   "end": 49.42,
+   "text": "You're getting ready to travel."
+  },
+  {
+   "start": 49.27,
+   "end": 59.9,
+   "text": "While you drink your tea, you're packing your bag."
+  },
+  {
+   "start": 59.75,
+   "end": 65.98,
+   "text": "To pack your bag means to put the things you need into your bag,"
+  },
+  {
+   "start": 65.83,
+   "end": 82.68,
+   "text": "usually because you're getting ready to go somewhere."
+  },
+  {
+   "start": 82.53,
+   "end": 93.06,
+   "text": "You're carefully folding your clothes and putting them in your bag."
+  },
+  {
+   "start": 92.91,
+   "end": 107.34,
+   "text": "To fold means to make clothes smaller by putting one part over another."
+  },
+  {
+   "start": 107.19,
+   "end": 122.82,
+   "text": "You zip up your bag, and now you're ready to go."
+  },
+  {
+   "start": 122.67,
+   "end": 145.14,
+   "text": "You put your bag in the car and take the highway to the airport."
+  },
+  {
+   "start": 144.99,
+   "end": 147.06,
+   "text": "Listen."
+  },
+  {
+   "start": 146.91,
+   "end": 158.86,
+   "text": "You can hear the cars on the highway."
+  },
+  {
+   "start": 158.71,
+   "end": 172.14,
+   "text": "A highway is a big road that connects places, where cars usually drive fast."
+  },
+  {
+   "start": 171.99,
+   "end": 202.48,
+   "text": "There's not much traffic today."
+  },
+  {
+   "start": 202.33,
+   "end": 213.86,
+   "text": "You arrive at the airport and park your car in the parking lot."
+  },
+  {
+   "start": 213.71,
+   "end": 222.74,
+   "text": "You roll your suitcase to the check-in counter."
+  },
+  {
+   "start": 222.59,
+   "end": 259.78,
+   "text": "To roll your suitcase means to move your suitcase using its wheels."
+  },
+  {
+   "start": 259.63,
+   "end": 286.46,
+   "text": "You arrive at the check-in counter and check your bag."
+  },
+  {
+   "start": 286.31,
+   "end": 288.42,
+   "text": "Listen."
+  },
+  {
+   "start": 288.27,
+   "end": 299.42,
+   "text": "This is the sound of the conveyor belt."
+  },
+  {
+   "start": 299.27,
+   "end": 302.84,
+   "text": "The conveyor belt is a long,"
+  },
+  {
+   "start": 302.69,
+   "end": 319.78,
+   "text": "moving surface that carries your checked bag toward the plane."
+  },
+  {
+   "start": 319.63,
+   "end": 331.42,
+   "text": "You patiently walk to the boarding area to find your gate."
+  },
+  {
+   "start": 331.27,
+   "end": 336.72,
+   "text": "The boarding area is the part of the airport where passengers wait"
+  },
+  {
+   "start": 336.57,
+   "end": 359.06,
+   "text": "near their gate before getting on the plane."
+  },
+  {
+   "start": 358.91,
+   "end": 364.95,
+   "text": "Oh, they're calling your flight."
+  },
+  {
+   "start": 364.8,
+   "end": 370.96,
+   "text": "It's time to board the plane and enjoy this calm flight."
+  },
+  {
+   "start": 370.81,
+   "end": 373.3,
+   "text": "Enjoy it."
+  },
+  {
+   "start": 373.15,
+   "end": 376.0,
+   "text": "Bye!"
+  }
+ ]
+}

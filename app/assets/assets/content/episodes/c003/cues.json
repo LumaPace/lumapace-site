@@ -1,0 +1,532 @@
+{
+ "source": "faster-whisper small.en word timestamps aligned to script phrases",
+ "matchedWords": 760,
+ "scriptWords": 862,
+ "cues": [
+  {
+   "start": 1.19,
+   "end": 2.62,
+   "text": "Hi."
+  },
+  {
+   "start": 2.47,
+   "end": 4.28,
+   "text": "Welcome."
+  },
+  {
+   "start": 4.13,
+   "end": 10.04,
+   "text": "Welcome to this meditation while you learn English."
+  },
+  {
+   "start": 9.89,
+   "end": 28.98,
+   "text": "Wherever you're sitting or lying down right now, let yourself be calm, exactly as you are."
+  },
+  {
+   "start": 28.83,
+   "end": 29.98,
+   "text": "No rushing to get comfortable, just arrive slowly."
+  },
+  {
+   "start": 29.83,
+   "end": 40.22,
+   "text": "Close your eyes, or let your eyes soften."
+  },
+  {
+   "start": 40.07,
+   "end": 53.18,
+   "text": "Nothing to hurry through here."
+  },
+  {
+   "start": 53.03,
+   "end": 55.21,
+   "text": "Just a few quiet minutes."
+  },
+  {
+   "start": 55.06,
+   "end": 57.92,
+   "text": "Okay?"
+  },
+  {
+   "start": 57.77,
+   "end": 58.42,
+   "text": "Inhale slowly."
+  },
+  {
+   "start": 58.07,
+   "end": 70.44,
+   "text": "And exhale, letting your shoulders drop a little as you do."
+  },
+  {
+   "start": 70.29,
+   "end": 73.96,
+   "text": "One more time."
+  },
+  {
+   "start": 73.81,
+   "end": 79.18,
+   "text": "Inhale\u2026"
+  },
+  {
+   "start": 79.03,
+   "end": 88.48,
+   "text": "and exhale."
+  },
+  {
+   "start": 88.33,
+   "end": 95.3,
+   "text": "I want you to think of a moment recently when you had to wait for something."
+  },
+  {
+   "start": 95.15,
+   "end": 99.56,
+   "text": "Maybe a line somewhere."
+  },
+  {
+   "start": 99.41,
+   "end": 104.4,
+   "text": "Maybe a message that hadn't come yet."
+  },
+  {
+   "start": 104.25,
+   "end": 109.48,
+   "text": "Maybe just a moment where someone else was speaking,and you had to"
+  },
+  {
+   "start": 109.33,
+   "end": 114.38,
+   "text": "wait for them to finish so that you could say something."
+  },
+  {
+   "start": 114.23,
+   "end": 125.24,
+   "text": "Bring that feeling gently into your mind."
+  },
+  {
+   "start": 125.09,
+   "end": 133.46,
+   "text": "Notice what happens in your body when waiting feels hard."
+  },
+  {
+   "start": 133.31,
+   "end": 137.64,
+   "text": "Sometimes your leg starts moving."
+  },
+  {
+   "start": 137.49,
+   "end": 143.18,
+   "text": "Maybe your breath gets a little shorter."
+  },
+  {
+   "start": 143.03,
+   "end": 149.16,
+   "text": "Maybe your mind starts thinking about what will happen next instead of"
+  },
+  {
+   "start": 149.01,
+   "end": 155.06,
+   "text": "focusing on the present"
+  },
+  {
+   "start": 154.91,
+   "end": 163.6,
+   "text": "Inhale slowly."
+  },
+  {
+   "start": 163.45,
+   "end": 173.04,
+   "text": "This feeling of always wanting things to happen faster is called impatience."
+  },
+  {
+   "start": 172.89,
+   "end": 176.98,
+   "text": "You want to move ahead instead of waiting."
+  },
+  {
+   "start": 176.83,
+   "end": 182.96,
+   "text": "Often, it comes from feeling like it should already be your turn."
+  },
+  {
+   "start": 182.81,
+   "end": 192.14,
+   "text": "\u201cYour turn\u201d simply means the moment when it\u2019s time for you to do something."
+  },
+  {
+   "start": 191.99,
+   "end": 199.22,
+   "text": "Before your turn, other people or things may need to go first."
+  },
+  {
+   "start": 199.07,
+   "end": 210.28,
+   "text": "Think of a line at a supermarket checkout counter: everyone waits until it's their turn."
+  },
+  {
+   "start": 210.13,
+   "end": 222.08,
+   "text": "Exhale slowly."
+  },
+  {
+   "start": 221.93,
+   "end": 224.78,
+   "text": "Notice, honestly,"
+  },
+  {
+   "start": 224.63,
+   "end": 234.04,
+   "text": "if there is a part of you right now that feels like it's been waiting a little too long for its turn."
+  },
+  {
+   "start": 233.89,
+   "end": 238.02,
+   "text": "Maybe about something small today."
+  },
+  {
+   "start": 237.87,
+   "end": 244.7,
+   "text": "Maybe about something much bigger in your life."
+  },
+  {
+   "start": 244.55,
+   "end": 251.96,
+   "text": "Inhale again."
+  },
+  {
+   "start": 251.81,
+   "end": 258.14,
+   "text": "Here's something worth noticing about lines like that."
+  },
+  {
+   "start": 257.99,
+   "end": 265.7,
+   "text": "Everyone standing in them wants their turn just as much as you want yours."
+  },
+  {
+   "start": 265.55,
+   "end": 272.9,
+   "text": "Nobody's turn actually skips ahead just because someone wants it badly enough."
+  },
+  {
+   "start": 272.75,
+   "end": 282.98,
+   "text": "The line moves the way it moves, one person, one moment, at a time."
+  },
+  {
+   "start": 282.83,
+   "end": 293.32,
+   "text": "Exhale slowly."
+  },
+  {
+   "start": 293.17,
+   "end": 299.78,
+   "text": "There is a skill in learning to wait your turn."
+  },
+  {
+   "start": 299.63,
+   "end": 308.62,
+   "text": "It means letting things happen in the right order without rushing or forcing them."
+  },
+  {
+   "start": 308.47,
+   "end": 318.0,
+   "text": "You trust that your moment will come, even when it\u2019s someone else\u2019s turn right now."
+  },
+  {
+   "start": 317.85,
+   "end": 323.98,
+   "text": "Let's practice this, gently, right now."
+  },
+  {
+   "start": 323.83,
+   "end": 329.24,
+   "text": "Inhale slowly."
+  },
+  {
+   "start": 329.09,
+   "end": 334.46,
+   "text": "Imagine you\u2019re standing in that same line."
+  },
+  {
+   "start": 334.31,
+   "end": 343.58,
+   "text": "Instead of feeling restless or trying to move ahead, simply stand calmly where you are."
+  },
+  {
+   "start": 343.43,
+   "end": 346.58,
+   "text": "Your turn has not disappeared."
+  },
+  {
+   "start": 346.43,
+   "end": 354.44,
+   "text": "It just hasn't come yet."
+  },
+  {
+   "start": 354.29,
+   "end": 360.78,
+   "text": "Exhale, and let your shoulders drop with that same realization:"
+  },
+  {
+   "start": 360.63,
+   "end": 370.56,
+   "text": "not yet doesn't mean never."
+  },
+  {
+   "start": 370.41,
+   "end": 377.64,
+   "text": "Not yet doesn't mean never."
+  },
+  {
+   "start": 377.49,
+   "end": 386.2,
+   "text": "Notice your breath now, and let it move at its own natural rhythm,"
+  },
+  {
+   "start": 386.05,
+   "end": 392.08,
+   "text": "without rushing it either."
+  },
+  {
+   "start": 391.93,
+   "end": 401.96,
+   "text": "Even your breathing has its own turn, taking in air, and then, patiently, letting it go,"
+  },
+  {
+   "start": 401.81,
+   "end": 409.42,
+   "text": "one at a time, never trying to inhale and exhale simultaneously,"
+  },
+  {
+   "start": 409.27,
+   "end": 415.2,
+   "text": "never rushing that natural order."
+  },
+  {
+   "start": 415.05,
+   "end": 426.0,
+   "text": "So now inhale again, noticing this rhythm."
+  },
+  {
+   "start": 425.85,
+   "end": 441.48,
+   "text": "And exhale, noticing how naturally it happens, without force."
+  },
+  {
+   "start": 441.33,
+   "end": 447.28,
+   "text": "This is what it means to wait your turn."
+  },
+  {
+   "start": 447.13,
+   "end": 460.26,
+   "text": "You don't feel angry or tense."
+  },
+  {
+   "start": 460.11,
+   "end": 461.02,
+   "text": "You simply slow down and trust that your time will come,"
+  },
+  {
+   "start": 460.87,
+   "end": 471.64,
+   "text": "just like your breath comes naturally, not too early and not too late."
+  },
+  {
+   "start": 471.49,
+   "end": 477.42,
+   "text": "Let 's inhale again."
+  },
+  {
+   "start": 477.27,
+   "end": 482.64,
+   "text": "Bring to mind again whatever you're currently waiting for,"
+  },
+  {
+   "start": 482.49,
+   "end": 488.36,
+   "text": "whatever moment still feels a little out of reach right now."
+  },
+  {
+   "start": 488.21,
+   "end": 499.3,
+   "text": "Instead of pushing against it, try simply saying, quietly, \"My turn is coming.\""
+  },
+  {
+   "start": 499.15,
+   "end": 508.42,
+   "text": "\"My turn is coming.\""
+  },
+  {
+   "start": 508.27,
+   "end": 515.78,
+   "text": "Notice how that feels, even if it feels slightly unfamiliar."
+  },
+  {
+   "start": 515.63,
+   "end": 517.21,
+   "text": "That's alright."
+  },
+  {
+   "start": 517.06,
+   "end": 529.29,
+   "text": "Waiting patiently is a practice, not something that happens perfectly right away."
+  },
+  {
+   "start": 529.14,
+   "end": 543.08,
+   "text": "Now let\u2019s exhale completely."
+  },
+  {
+   "start": 542.93,
+   "end": 547.64,
+   "text": "You don't need to enjoy waiting."
+  },
+  {
+   "start": 547.49,
+   "end": 551.72,
+   "text": "You just need to trust, a little more,"
+  },
+  {
+   "start": 551.57,
+   "end": 556.46,
+   "text": "that waiting your turn doesn't mean being forgotten,"
+  },
+  {
+   "start": 556.31,
+   "end": 561.62,
+   "text": "it simply means the line is moving the way it's supposed to,"
+  },
+  {
+   "start": 561.47,
+   "end": 571.4,
+   "text": "and your moment is still somewhere ahead of you, closer now than it was a few minutes ago."
+  },
+  {
+   "start": 571.25,
+   "end": 578.06,
+   "text": "You can wait your turn."
+  },
+  {
+   "start": 577.91,
+   "end": 585.16,
+   "text": "And if you\u2019d like, you can repeat a few words after me."
+  },
+  {
+   "start": 585.01,
+   "end": 593.75,
+   "text": "My turn is coming, even if it hasn't arrived yet."
+  },
+  {
+   "start": 593.6,
+   "end": 599.2,
+   "text": "My turn is coming, even if it hasn't arrived yet."
+  },
+  {
+   "start": 599.05,
+   "end": 650.86,
+   "text": "I don't have to push for something that's already on its way."
+  },
+  {
+   "start": 650.71,
+   "end": 659.18,
+   "text": "I don't have to push for something that's already on its way."
+  },
+  {
+   "start": 659.03,
+   "end": 659.68,
+   "text": "Waiting doesn't mean I've been forgotten."
+  },
+  {
+   "start": 659.03,
+   "end": 659.68,
+   "text": "Waiting doesn't mean I've been forgotten."
+  },
+  {
+   "start": 659.03,
+   "end": 659.68,
+   "text": "I trust the timing of my own life, even the waiting parts."
+  },
+  {
+   "start": 659.03,
+   "end": 659.68,
+   "text": "I trust the timing of my own life, even the waiting parts."
+  },
+  {
+   "start": 659.03,
+   "end": 661.04,
+   "text": "Take one more slow inhale."
+  },
+  {
+   "start": 660.89,
+   "end": 679.6,
+   "text": "And exhale, completely."
+  },
+  {
+   "start": 679.45,
+   "end": 694.34,
+   "text": "Feeling a little bit more patient, than when you begin."
+  },
+  {
+   "start": 694.19,
+   "end": 703.02,
+   "text": "When you're ready to come back, start noticing small, real things around you."
+  },
+  {
+   "start": 702.87,
+   "end": 707.24,
+   "text": "Whatever is supporting your body right now."
+  },
+  {
+   "start": 707.09,
+   "end": 710.46,
+   "text": "Any sound nearby."
+  },
+  {
+   "start": 710.31,
+   "end": 719.16,
+   "text": "Your breath."
+  },
+  {
+   "start": 719.01,
+   "end": 719.66,
+   "text": "Your fingers."
+  },
+  {
+   "start": 719.16,
+   "end": 720.68,
+   "text": "Then your feet."
+  },
+  {
+   "start": 720.53,
+   "end": 730.48,
+   "text": "And whenever it feels right, let your eyes open."
+  },
+  {
+   "start": 730.33,
+   "end": 736.9,
+   "text": "Carry this with you, into whatever waiting comes next in your day."
+  },
+  {
+   "start": 736.75,
+   "end": 742.32,
+   "text": "Impatience may still visit sometimes, that's alright,"
+  },
+  {
+   "start": 742.17,
+   "end": 747.42,
+   "text": "it's simply energy without anywhere to go yet."
+  },
+  {
+   "start": 747.27,
+   "end": 755.36,
+   "text": "But you know, a little more clearly, how it feels to wait your turn, calmly,"
+  },
+  {
+   "start": 755.21,
+   "end": 765.0,
+   "text": "and unhurried, trusting that your moment is still coming."
+  }
+ ]
+}

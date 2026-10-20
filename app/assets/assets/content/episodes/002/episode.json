@@ -1,0 +1,77 @@
+{
+  "id": "002",
+  "slug": "sitting-in-a-quiet-garden",
+  "title": "Sitting in a Quiet Garden",
+  "summary": "A calm garden meditation with shade and shadow.",
+  "durationSeconds": 643,
+  "access": "free",
+  "published": true,
+  "number": 1,
+  "catalogNumber": "001",
+  "theme": "garden",
+  "script": "Hi, and welcome. I'm happy you made the choice to meditate today.\nBefore we start, just take a second to get yourself comfortable.\nMaybe you’re sitting on the couch. \nMaybe you’re on a pillow or lying down on your bed. \nThere’s no right or wrong position here. \nJust choose whatever feels good for you.\nTake a look around you, and then, when you’re ready, let your eyes close. \nOr keep them open if that feels more comfortable.\nYou don’t have to do anything special right now. \nYou don’t have to clear your mind or stop your thoughts. \nJust give yourself a few quiet minutes to slow down.\nFeel the place where your body is touching the surface underneath you, below you. \nNotice that you’re supported.\nLet your shoulders drop a little. Relax your hands. \nLet your body be comfortable.\nAnd now, take a slow breath in…\nAnd let it go.\nNo need to force anything. Just breathe normally.\nTake one more slow breath in…\nAnd slowly breathe out.\nToday, we’re going to imagine a peaceful, quiet garden and learn two words we might use when we talk about it: “shadow” and “shade.”\nLet's begin. \nImagine, in your mind, a garden. \nIt doesn't need to be a real place. \nSimply imagine whatever garden feels peaceful to you, full of soft green plants, and quiet corners to rest.\nPicture yourself sitting somewhere in this garden, comfortable and calm. \nMaybe on a bench. \nMaybe on the grass. \nWhatever feels right.\nImagine it’s a very hot, sunny day. \nThe sun is strong, and you want to get away from it. \nYou might say to a friend, “It’s too hot. Let’s find some shade.”\nShade is an area that is protected from the direct sunlight. \nA tree can provide shade, and you can sit or stand in the shade to get away from the sun.\nLook around this garden. \nImagine that there are lots of plants here that like the shade. \nThey grow well because they are protected from the strong sunlight.\nTake a slow breath in… and breathe out. \nImagine yourself sitting comfortably in the shade of a tree.\nNow, look down at the ground.\nCan you see the dark shape made by the tree? That is its shadow.\nA shadow is a dark shape made when something blocks the sunlight.\nYou can see your shadow on the ground. \nMaybe you’re standing next to a friend, and notice that your shadow is taller than theirs. \nYou could say, “Look at my shadow! It’s taller than yours.”\nShade is a cool area protected from direct sunlight, while a shadow is the dark shape made when something blocks the light.\nTake another slow breath in… and breathe out.\nYou are sitting in the shade, protected from the sun, while the tree’s shadow rests on the ground beside you.\nNotice how peaceful this garden feels. \nNo rush. No noise. \nJust quiet green plants, gentle sunlight, and this comfortable, cool shade surrounding you.\nLet your body feel just as calm as this garden. Let your breath move just as gently as the breeze through the leaves.\nTake a breath in… and let it out slowly.\nThis garden will always be here, whenever you need it. \nA quiet place to sit, protected in the shade, watching the shadows move gently across the ground.\nLet these gentle words settle into your mind.\nI can rest in this quiet, peaceful place.\nI am protected, like sitting in gentle shade.\nI am calm, like a shadow resting quietly on the ground.\nI am safe.\nI am at peace.\nTake another slow breath, and let these words settle a little deeper.\nStay here for a while longer, resting in this imagined garden, feeling the shade around you, and watching the shadow move softly nearby.\nThere's no need to rush away from this feeling. \nLet yourself stay here, calm and comfortable, for as long as you'd like.\nWhen you feel ready, begin to bring awareness back to the room around you gently. \nNotice the surface beneath you. \nNotice your breath, still slow, still steady.\nLet your fingers move first, just slightly. \nThen your toes. Small movements, gentle and unhurried.\nTake your time returning. \nThere's no hurry.\nWhenever you're ready, let your eyes open softly, taking in the light around you.\nCarry this quiet garden with you into the rest of your day. \nWhenever you need a moment of peace, remember this place, this shade, this shadow, resting quietly, always here, waiting for you to return.\nYou are calm. \nYou are at peace. \nAnd you are exactly where you need to be.",
+  "vocabulary": [
+    {
+      "word": "shadow",
+      "definition": "a dark shape made when something blocks the light",
+      "example": "A shadow is a dark shape made when something blocks the sunlight."
+    },
+    {
+      "word": "shade",
+      "definition": "an area protected from direct sunlight",
+      "example": "Shade is an area that is protected from the direct sunlight."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex01",
+      "sentence": "It’s too hot. Let’s find some _____.",
+      "options": [
+        "shadow",
+        "shade"
+      ],
+      "correctAnswer": "shade",
+      "heard": "You might say to a friend, “It’s too hot. Let’s find some shade.”"
+    },
+    {
+      "id": "ex02",
+      "sentence": "Can you see the dark shape made by the tree? That is its _____.",
+      "options": [
+        "shadow",
+        "shade"
+      ],
+      "correctAnswer": "shadow",
+      "heard": "Can you see the dark shape made by the tree? That is its shadow."
+    },
+    {
+      "id": "ex03",
+      "sentence": "A tree can provide _____, and you can sit or stand in it to get away from the sun.",
+      "options": [
+        "shadow",
+        "shade"
+      ],
+      "correctAnswer": "shade",
+      "heard": "A tree can provide shade, and you can sit or stand in the shade to get away from the sun."
+    },
+    {
+      "id": "ex04",
+      "sentence": "Look at my _____! It’s taller than yours.",
+      "options": [
+        "shadow",
+        "shade"
+      ],
+      "correctAnswer": "shadow",
+      "heard": "You could say, “Look at my shadow! It’s taller than yours.”"
+    }
+  ],
+  "audioAsset": "assets/content/episodes/002/audio.mp3",
+  "sourceAudio": "assets/content/episodes/002/audio.mp3",
+  "audioMd5": "2558d1f45538c9c6695709e6930fd7cb",
+  "source": "Google Drive FINALIZADOS 001 (read-only copy, 2026-10-14)",
+  "speakLines": [
+    "Shade is an area that is protected from the direct sunlight.",
+    "Imagine yourself sitting comfortably in the shade of a tree.",
+    "A shadow is a dark shape made when something blocks the sunlight.",
+    "You can see your shadow on the ground."
+  ]
+}

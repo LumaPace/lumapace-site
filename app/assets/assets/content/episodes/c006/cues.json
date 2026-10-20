@@ -1,0 +1,97 @@
+{
+ "source": "faster-whisper small.en word timestamps aligned to script phrases",
+ "matchedWords": 147,
+ "scriptWords": 149,
+ "cues": [
+  {
+   "start": 6.79,
+   "end": 14.26,
+   "text": "Listen, it's drizzling today."
+  },
+  {
+   "start": 14.11,
+   "end": 24.58,
+   "text": "It's drizzling today."
+  },
+  {
+   "start": 24.43,
+   "end": 44.62,
+   "text": "To drizzle is when rain falls very slowly."
+  },
+  {
+   "start": 44.47,
+   "end": 56.34,
+   "text": "It's drizzling, gently watering the plants."
+  },
+  {
+   "start": 56.19,
+   "end": 66.84,
+   "text": "Imagine yourself walking through this drizzle."
+  },
+  {
+   "start": 66.69,
+   "end": 84.3,
+   "text": "You can see the beautiful plants being watered by this gentle rain."
+  },
+  {
+   "start": 84.15,
+   "end": 94.82,
+   "text": "Imagine you're wearing a raincoat that protects you from it."
+  },
+  {
+   "start": 94.67,
+   "end": 111.8,
+   "text": "This raincoat makes you feel warm and dry."
+  },
+  {
+   "start": 111.65,
+   "end": 126.18,
+   "text": "But now, you can hear a storm coming from far away."
+  },
+  {
+   "start": 126.03,
+   "end": 152.78,
+   "text": "Listen to that sound, that sound is thunder."
+  },
+  {
+   "start": 152.63,
+   "end": 177.18,
+   "text": "Now imagine yourself finding a cozy cabin where you can take shelter from the storm."
+  },
+  {
+   "start": 177.03,
+   "end": 198.78,
+   "text": "Take shelter means to go somewhere safe to protect yourself."
+  },
+  {
+   "start": 198.63,
+   "end": 224.74,
+   "text": "You open the door to this cabin and it's so cozy."
+  },
+  {
+   "start": 224.59,
+   "end": 242.68,
+   "text": "There is a soft blanket waiting for you on the bed."
+  },
+  {
+   "start": 242.53,
+   "end": 264.18,
+   "text": "You shake the blanket out before getting into bed."
+  },
+  {
+   "start": 264.03,
+   "end": 300.09,
+   "text": "Then, you fluff your pillows and lie down on the bed."
+  },
+  {
+   "start": 299.94,
+   "end": 304.36,
+   "text": "Now you're falling asleep."
+  },
+  {
+   "start": 304.21,
+   "end": 322.0,
+   "text": "Good night."
+  }
+ ]
+}

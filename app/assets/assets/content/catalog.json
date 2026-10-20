@@ -1,0 +1,135 @@
+{
+ "source": "local-pack",
+ "notes": [
+  "31 finalized episodes copied read-only from Google Drive FINALIZADOS (2026-10-14; v22 + v23: 002/004/005/008/010/012/024/030); audio bytes unchanged (md5 in episode.json).",
+  "Subway Vocabulary is now listed as c002 (Drive 002). App id 002 stays Sitting in a Quiet Garden to avoid a clash. Its audio is no longer bundled (the listening check now uses Night Rain).",
+  "Listening questions for 001/006/009/011/013 are PENDING editorial approval and are not activated. Only approved Practice questions are used.",
+  "Premium audio is not bundled in the web build (no premium bypass)."
+ ],
+ "episodes": [
+  {
+   "id": "002",
+   "path": "episodes/002/episode.json"
+  },
+  {
+   "id": "c006",
+   "path": "episodes/c006/episode.json"
+  },
+  {
+   "id": "c002",
+   "path": "episodes/c002/episode.json"
+  },
+  {
+   "id": "c003",
+   "path": "episodes/c003/episode.json"
+  },
+  {
+   "id": "c004",
+   "path": "episodes/c004/episode.json"
+  },
+  {
+   "id": "c005",
+   "path": "episodes/c005/episode.json"
+  },
+  {
+   "id": "c007",
+   "path": "episodes/c007/episode.json"
+  },
+  {
+   "id": "c008",
+   "path": "episodes/c008/episode.json"
+  },
+  {
+   "id": "c009",
+   "path": "episodes/c009/episode.json"
+  },
+  {
+   "id": "c010",
+   "path": "episodes/c010/episode.json"
+  },
+  {
+   "id": "c011",
+   "path": "episodes/c011/episode.json"
+  },
+  {
+   "id": "c012",
+   "path": "episodes/c012/episode.json"
+  },
+  {
+   "id": "c013",
+   "path": "episodes/c013/episode.json"
+  },
+  {
+   "id": "c014",
+   "path": "episodes/c014/episode.json"
+  },
+  {
+   "id": "c015",
+   "path": "episodes/c015/episode.json"
+  },
+  {
+   "id": "c016",
+   "path": "episodes/c016/episode.json"
+  },
+  {
+   "id": "c017",
+   "path": "episodes/c017/episode.json"
+  },
+  {
+   "id": "c018",
+   "path": "episodes/c018/episode.json"
+  },
+  {
+   "id": "c020",
+   "path": "episodes/c020/episode.json"
+  },
+  {
+   "id": "003",
+   "path": "episodes/003/episode.json"
+  },
+  {
+   "id": "c022",
+   "path": "episodes/c022/episode.json"
+  },
+  {
+   "id": "c023",
+   "path": "episodes/c023/episode.json"
+  },
+  {
+   "id": "c024",
+   "path": "episodes/c024/episode.json"
+  },
+  {
+   "id": "c026",
+   "path": "episodes/c026/episode.json"
+  },
+  {
+   "id": "c027",
+   "path": "episodes/c027/episode.json"
+  },
+  {
+   "id": "c028",
+   "path": "episodes/c028/episode.json"
+  },
+  {
+   "id": "c029",
+   "path": "episodes/c029/episode.json"
+  },
+  {
+   "id": "c030",
+   "path": "episodes/c030/episode.json"
+  },
+  {
+   "id": "c031",
+   "path": "episodes/c031/episode.json"
+  },
+  {
+   "id": "c032",
+   "path": "episodes/c032/episode.json"
+  },
+  {
+   "id": "c033",
+   "path": "episodes/c033/episode.json"
+  }
+ ]
+}

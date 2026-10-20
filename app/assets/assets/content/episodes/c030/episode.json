@@ -1,0 +1,78 @@
+{
+  "id": "c030",
+  "slug": "visiting-a-city",
+  "title": "Visiting a City",
+  "summary": "A calm day sightseeing: museum, burst mode, monument, low season.",
+  "durationSeconds": 409,
+  "access": "premium",
+  "published": true,
+  "number": 28,
+  "catalogNumber": "030",
+  "theme": "travel",
+  "script": "Imagine you've just arrived at your vacation destination. \nPicture your dream city. Take a moment to look around.\nNow, imagine you’re getting out of a taxi.\nToday, you're going sightseeing in your favorite city.\nTo go sightseeing means to visit famous or interesting places as a tourist.\nYou look around and notice a beautiful museum nearby.\nYou slowly walk toward it, stop in front of the museum and take out your phone to take a few pictures.\nYou turn on burst mode to capture your best pose.\nThe burst mode is when you take many photos, one after the other, super fast while you hold down the button.\nNow imagine that you walk toward an impressive historical monument.\nA monument is a large structure, building, or statue built to remind people of an important person or historical event.\nYou stop to admire this monument, and it gives you a sense of peace.\nListen, you can hear only a few people taking pictures because it's slow season.\nLow-season is the time of year when fewer people travel.\nA few of them are taking pictures, others are having a conversation, and you're just enjoying this relaxing day.\nNow, imagine finding a quiet café nearby. You sit down, order your favorite drink, and look through the pictures you took today.\nYour day of sightseeing is coming to an end, but you'll have all these memories—and photos—to take home with you.\nBye.",
+  "vocabulary": [
+    {
+      "word": "to go sightseeing",
+      "definition": "to visit famous or interesting places as a tourist"
+    },
+    {
+      "word": "burst mode",
+      "definition": "when you take many photos, one after the other, super fast while you hold down the button"
+    },
+    {
+      "word": "monument",
+      "definition": "a large structure, building, or statue built to remind people of an important person or historical event"
+    },
+    {
+      "word": "low season",
+      "definition": "the time of year when fewer people travel"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "practice_1",
+      "sentence": "What does “go sightseeing” mean?",
+      "options": [
+        "To visit famous or interesting places as a tourist.",
+        "To travel to work every day.",
+        "To stay inside your hotel all day."
+      ],
+      "correctAnswer": "To visit famous or interesting places as a tourist."
+    },
+    {
+      "id": "practice_2",
+      "sentence": "What happens when you use burst mode?",
+      "options": [
+        "You record a long video.",
+        "You take many photos very quickly.",
+        "You delete all your photos."
+      ],
+      "correctAnswer": "You take many photos very quickly."
+    },
+    {
+      "id": "practice_3",
+      "sentence": "Why is a monument built?",
+      "options": [
+        "To sell tickets to tourists.",
+        "To give people a place to order drinks.",
+        "To remind people of an important person or historical event."
+      ],
+      "correctAnswer": "To remind people of an important person or historical event."
+    },
+    {
+      "id": "practice_4",
+      "sentence": "What does “low season” mean?",
+      "options": [
+        "The time of year when fewer people travel.",
+        "The time of year when everyone goes on vacation.",
+        "The time of day when museums close."
+      ],
+      "correctAnswer": "The time of year when fewer people travel."
+    }
+  ],
+  "audioAsset": null,
+  "sourceAudio": "assets/content/episodes/c030/audio.mp3",
+  "audioMd5": "e056e10ffdb1c15facb7e415da1b0d6e",
+  "source": "Google Drive FINALIZADOS 030 (read-only copy, 2026-10-14)",
+  "streamId": "c030"
+}

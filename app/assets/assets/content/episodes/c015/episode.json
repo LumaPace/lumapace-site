@@ -1,0 +1,86 @@
+{
+  "id": "c015",
+  "slug": "cooking-vocabulary",
+  "title": "Cooking Vocabulary",
+  "summary": "Bake a cake together: crack an egg, flour, pour, whisk, grease a pan, cool down.",
+  "durationSeconds": 460,
+  "access": "premium",
+  "published": true,
+  "number": 15,
+  "catalogNumber": "015",
+  "theme": "kitchen",
+  "script": "Listen, you're cracking an egg.\n\nToday, you’re going to bake a cake.\n\nYou pick up an egg and gently crack it into the bowl.\n\nListen. You're cracking the egg.\n\nTo crack an egg means to break its shell so you can use the egg inside.\n\nYou crack another egg…\n\nand place the empty shells to the side.\n\nNow, you pick up a bag of flour, by flour I don't mean the plant, I mean a white or brown powder used to make bread, cakes, cookies, and other things.\n\nSo you pick up a bag of flour and carefully pour some into a bowl.\n\nTo pour means to make something flow from one container into another.\n\nI'm pouring flour into the bowl.\n\nYou add some sugar…\n\nand slowly pour in the milk.\n\nNow, you pick up a whisk.\n\nA whisk is a kitchen tool that you use to mix ingredients together.\n\nYou gently whisk everything together.\n\nListen. The ingredients slowly begin to turn into a smooth mixture.\n\nNow, you take a cake pan and carefully grease it with a little butter.\n\nTo grease a pan means to put butter or oil on it so the food doesn’t stick.\n\nYou slowly pour the cake mixture into the pan.\n\nWatch it spread across the bottom.\n\nNow, carefully place the cake in the oven.\n\nClose the oven door…\n\nand let it bake.\n\nWhile you wait, take a slow breath in… and breathe out. The smell is amazing.\n\nImagine the warm smell of freshly baked cake slowly filling the kitchen. I hope you don't get so hungry…\n\nListen.\n\nYour cake is ready.\n\nYou carefully take it out of the oven and place it on the counter.\n\nYou let it cool down for a few minutes.\n\nTo cool down means to become less hot.\n\nOnce the cake has cooled down, you try it. Enjoy your cake!",
+  "vocabulary": [
+    {
+      "word": "to crack an egg",
+      "definition": "to break its shell so you can use the egg inside"
+    },
+    {
+      "word": "flour",
+      "definition": "a white or brown powder used to make bread, cakes, cookies, and other things"
+    },
+    {
+      "word": "to pour",
+      "definition": "to make something flow from one container into another"
+    },
+    {
+      "word": "whisk",
+      "definition": "a kitchen tool that you use to mix ingredients together"
+    },
+    {
+      "word": "to grease a pan",
+      "definition": "to put butter or oil on it so the food doesn’t stick"
+    },
+    {
+      "word": "to cool down",
+      "definition": "to become less hot"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "cooking-practice-1",
+      "sentence": "What does “crack an egg” mean?",
+      "options": [
+        "Mix the egg with milk",
+        "Break its shell so you can use the egg inside",
+        "Cook the egg in the oven"
+      ],
+      "correctAnswer": "Break its shell so you can use the egg inside"
+    },
+    {
+      "id": "cooking-practice-2",
+      "sentence": "What do you pour in after adding sugar?",
+      "options": [
+        "Milk",
+        "Oil",
+        "Water"
+      ],
+      "correctAnswer": "Milk"
+    },
+    {
+      "id": "cooking-practice-3",
+      "sentence": "Why do you grease the cake pan?",
+      "options": [
+        "To make the cake cool down",
+        "To mix the ingredients",
+        "To stop the food from sticking"
+      ],
+      "correctAnswer": "To stop the food from sticking"
+    },
+    {
+      "id": "cooking-practice-4",
+      "sentence": "What does “cool down” mean in the episode?",
+      "options": [
+        "Become sweeter",
+        "Become less hot",
+        "Become smoother"
+      ],
+      "correctAnswer": "Become less hot"
+    }
+  ],
+  "audioAsset": null,
+  "sourceAudio": "assets/content/episodes/c015/audio.mp3",
+  "audioMd5": "0d114b856774a7621d9de9e1c9031f22",
+  "source": "Google Drive FINALIZADOS 015 (read-only copy, 2026-10-14)",
+  "streamId": "c015"
+}

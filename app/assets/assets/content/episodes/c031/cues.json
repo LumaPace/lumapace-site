@@ -1,0 +1,662 @@
+{
+ "source": "faster-whisper small.en word timestamps aligned to script phrases",
+ "matchedWords": 778,
+ "scriptWords": 786,
+ "cues": [
+  {
+   "start": 0.31,
+   "end": 2.52,
+   "text": "Welcome."
+  },
+  {
+   "start": 2.37,
+   "end": 5.14,
+   "text": "This is your time."
+  },
+  {
+   "start": 4.99,
+   "end": 10.94,
+   "text": "Your time to relax, and your time to breathe."
+  },
+  {
+   "start": 10.79,
+   "end": 13.58,
+   "text": "Find a comfortable position."
+  },
+  {
+   "start": 13.43,
+   "end": 17.06,
+   "text": "You can sit, or you can lie down."
+  },
+  {
+   "start": 16.91,
+   "end": 20.7,
+   "text": "Just make sure your body feels supported."
+  },
+  {
+   "start": 20.55,
+   "end": 23.82,
+   "text": "If you want, you can close your eyes."
+  },
+  {
+   "start": 23.67,
+   "end": 30.04,
+   "text": "Or you can keep them softly open, looking down."
+  },
+  {
+   "start": 29.89,
+   "end": 34.1,
+   "text": "There is nothing to do right now."
+  },
+  {
+   "start": 33.95,
+   "end": 35.86,
+   "text": "Nothing to fix."
+  },
+  {
+   "start": 35.71,
+   "end": 37.8,
+   "text": "Nothing to solve."
+  },
+  {
+   "start": 37.65,
+   "end": 44.76,
+   "text": "Just be here, in this moment, with your breath."
+  },
+  {
+   "start": 44.61,
+   "end": 47.78,
+   "text": "Let your body settle."
+  },
+  {
+   "start": 47.63,
+   "end": 51.3,
+   "text": "Feel the surface beneath you."
+  },
+  {
+   "start": 51.15,
+   "end": 55.22,
+   "text": "Notice how it supports your weight."
+  },
+  {
+   "start": 55.07,
+   "end": 59.14,
+   "text": "Let your shoulders soften."
+  },
+  {
+   "start": 58.99,
+   "end": 62.68,
+   "text": "Let your hands rest."
+  },
+  {
+   "start": 62.53,
+   "end": 69.45,
+   "text": "Let your whole body feel heavy and calm."
+  },
+  {
+   "start": 69.3,
+   "end": 71.07,
+   "text": "Take a slow breath in\u2026"
+  },
+  {
+   "start": 70.92,
+   "end": 75.45,
+   "text": "and let it out slowly."
+  },
+  {
+   "start": 75.3,
+   "end": 77.99,
+   "text": "Again."
+  },
+  {
+   "start": 77.84,
+   "end": 78.79,
+   "text": "Breathe in\u2026"
+  },
+  {
+   "start": 78.64,
+   "end": 86.44,
+   "text": "and breathe out."
+  },
+  {
+   "start": 86.29,
+   "end": 94.32,
+   "text": "There are two words I'd like you to notice, right here, in this quiet moment."
+  },
+  {
+   "start": 94.17,
+   "end": 99.98,
+   "text": "The first word is inhale."
+  },
+  {
+   "start": 99.83,
+   "end": 108.5,
+   "text": "To inhale means to breathe in, to bring air softly into your body."
+  },
+  {
+   "start": 108.35,
+   "end": 112.94,
+   "text": "The second word is exhale."
+  },
+  {
+   "start": 112.79,
+   "end": 120.9,
+   "text": "To exhale means to breathe out, to let that air gently leave."
+  },
+  {
+   "start": 120.75,
+   "end": 125.48,
+   "text": "Inhale is the movement of taking in."
+  },
+  {
+   "start": 125.33,
+   "end": 130.7,
+   "text": "Exhale is the movement of letting go."
+  },
+  {
+   "start": 130.55,
+   "end": 136.9,
+   "text": "Inhale and Exhale are verbs."
+  },
+  {
+   "start": 136.75,
+   "end": 139.46,
+   "text": "Notice your next inhale."
+  },
+  {
+   "start": 139.31,
+   "end": 144.34,
+   "text": "Feel the air entering, cool and light."
+  },
+  {
+   "start": 144.19,
+   "end": 146.8,
+   "text": "Notice your next exhale."
+  },
+  {
+   "start": 146.65,
+   "end": 151.96,
+   "text": "Feeling the air leaving, soft and warm."
+  },
+  {
+   "start": 151.81,
+   "end": 161.69,
+   "text": "Today, we are going to relax the whole body, using these two movements as a gentle guide."
+  },
+  {
+   "start": 161.54,
+   "end": 164.69,
+   "text": "Bring your attention to the top of your head."
+  },
+  {
+   "start": 164.54,
+   "end": 173.04,
+   "text": "Take a slow inhale, and imagine the breath rising gently to meet it."
+  },
+  {
+   "start": 172.89,
+   "end": 178.96,
+   "text": "Now exhale, feeling any tightness there simply melt away,"
+  },
+  {
+   "start": 178.81,
+   "end": 183.46,
+   "text": "like it's floating off with the air."
+  },
+  {
+   "start": 183.31,
+   "end": 186.64,
+   "text": "Move to your forehead."
+  },
+  {
+   "start": 186.49,
+   "end": 190.7,
+   "text": "Inhale, bring your awareness there."
+  },
+  {
+   "start": 190.55,
+   "end": 194.72,
+   "text": "Exhale, and let it smooth completely."
+  },
+  {
+   "start": 194.57,
+   "end": 197.8,
+   "text": "Notice your eyes."
+  },
+  {
+   "start": 197.65,
+   "end": 200.54,
+   "text": "Inhale gently."
+  },
+  {
+   "start": 200.39,
+   "end": 207.12,
+   "text": "Exhale, and let your eyelids grow heavier, softer."
+  },
+  {
+   "start": 206.97,
+   "end": 209.92,
+   "text": "Bring attention to your jaw."
+  },
+  {
+   "start": 209.77,
+   "end": 214.92,
+   "text": "This is a place that often holds tension without us noticing."
+  },
+  {
+   "start": 214.77,
+   "end": 217.2,
+   "text": "Inhale slowly."
+  },
+  {
+   "start": 217.05,
+   "end": 223.84,
+   "text": "Exhale, and let your jaw loosen, unlocked and calm."
+  },
+  {
+   "start": 223.69,
+   "end": 228.92,
+   "text": "Let your lips part slightly, without effort."
+  },
+  {
+   "start": 228.77,
+   "end": 233.62,
+   "text": "Your whole body now feels still."
+  },
+  {
+   "start": 233.47,
+   "end": 236.6,
+   "text": "Peaceful."
+  },
+  {
+   "start": 236.45,
+   "end": 238.96,
+   "text": "Move to your neck."
+  },
+  {
+   "start": 238.81,
+   "end": 240.36,
+   "text": "Inhale."
+  },
+  {
+   "start": 240.21,
+   "end": 247.74,
+   "text": "Exhale, and feel the muscles there lengthen and soften."
+  },
+  {
+   "start": 247.59,
+   "end": 250.04,
+   "text": "Now your shoulders."
+  },
+  {
+   "start": 249.89,
+   "end": 255.18,
+   "text": "Inhale, and notice them rise just slightly."
+  },
+  {
+   "start": 255.03,
+   "end": 265.91,
+   "text": "Exhale, and let them drop, away from your ears, releasing everything they've been holding."
+  },
+  {
+   "start": 265.76,
+   "end": 268.47,
+   "text": "Move into your arms."
+  },
+  {
+   "start": 268.32,
+   "end": 273.97,
+   "text": "Inhale, sending your awareness down to your elbows."
+  },
+  {
+   "start": 273.82,
+   "end": 281.77,
+   "text": "Exhale, and feel your arms grow heavy, resting completely."
+  },
+  {
+   "start": 281.62,
+   "end": 285.89,
+   "text": "Your hands, your fingers."
+  },
+  {
+   "start": 285.74,
+   "end": 290.59,
+   "text": "Inhale, notice them fully."
+  },
+  {
+   "start": 290.44,
+   "end": 298.02,
+   "text": "Exhale, and let them soften, doing nothing at all."
+  },
+  {
+   "start": 297.87,
+   "end": 301.6,
+   "text": "Bring your awareness to your chest."
+  },
+  {
+   "start": 301.45,
+   "end": 304.6,
+   "text": "Notice something simple here."
+  },
+  {
+   "start": 304.45,
+   "end": 308.64,
+   "text": "When you inhale, your chest rises gently."
+  },
+  {
+   "start": 308.49,
+   "end": 315.44,
+   "text": "When you exhale, your chest falls gently."
+  },
+  {
+   "start": 315.29,
+   "end": 316.92,
+   "text": "Inhale\u2026"
+  },
+  {
+   "start": 316.77,
+   "end": 318.7,
+   "text": "rise."
+  },
+  {
+   "start": 318.55,
+   "end": 320.62,
+   "text": "Exhale\u2026"
+  },
+  {
+   "start": 320.47,
+   "end": 322.46,
+   "text": "fall."
+  },
+  {
+   "start": 322.31,
+   "end": 330.12,
+   "text": "This has been happening quietly, your whole life, without your help."
+  },
+  {
+   "start": 329.97,
+   "end": 336.82,
+   "text": "Stay here a moment, simply watching."
+  },
+  {
+   "start": 336.67,
+   "end": 339.06,
+   "text": "Inhale."
+  },
+  {
+   "start": 338.91,
+   "end": 341.62,
+   "text": "Exhale."
+  },
+  {
+   "start": 341.47,
+   "end": 343.5,
+   "text": "Rise."
+  },
+  {
+   "start": 343.35,
+   "end": 346.54,
+   "text": "Fall."
+  },
+  {
+   "start": 346.39,
+   "end": 352.16,
+   "text": "Let this same rhythm move further down your body."
+  },
+  {
+   "start": 352.01,
+   "end": 356.36,
+   "text": "Inhale, bring awareness to your stomach."
+  },
+  {
+   "start": 356.21,
+   "end": 360.76,
+   "text": "Exhale, and let it soften completely."
+  },
+  {
+   "start": 360.61,
+   "end": 364.2,
+   "text": "Move into your back."
+  },
+  {
+   "start": 364.05,
+   "end": 368.86,
+   "text": "Inhale, noticing your upper back."
+  },
+  {
+   "start": 368.71,
+   "end": 377.22,
+   "text": "Exhale, to feel it widen slightly, more relaxed than before."
+  },
+  {
+   "start": 377.07,
+   "end": 380.78,
+   "text": "Bring your breath into your lower back."
+  },
+  {
+   "start": 380.63,
+   "end": 383.72,
+   "text": "Inhale gently."
+  },
+  {
+   "start": 383.57,
+   "end": 390.11,
+   "text": "Exhale, and let this area grow soft."
+  },
+  {
+   "start": 389.96,
+   "end": 392.47,
+   "text": "Now your hips."
+  },
+  {
+   "start": 392.32,
+   "end": 397.22,
+   "text": "Inhale, and simply notice them."
+  },
+  {
+   "start": 397.07,
+   "end": 402.88,
+   "text": "Exhale, and let them feel wide and supported."
+  },
+  {
+   "start": 402.73,
+   "end": 406.08,
+   "text": "Move into your thighs."
+  },
+  {
+   "start": 405.93,
+   "end": 407.8,
+   "text": "Inhale."
+  },
+  {
+   "start": 407.65,
+   "end": 416.51,
+   "text": "Exhale, and let them grow heavy, sinking into the surface beneath you."
+  },
+  {
+   "start": 416.36,
+   "end": 421.13,
+   "text": "Past your knees, into your calves."
+  },
+  {
+   "start": 420.98,
+   "end": 423.91,
+   "text": "Inhale slowly."
+  },
+  {
+   "start": 423.76,
+   "end": 430.88,
+   "text": "Exhale, and feel any tightness disappear."
+  },
+  {
+   "start": 430.73,
+   "end": 435.52,
+   "text": "Finally, your ankles, and your feet."
+  },
+  {
+   "start": 435.37,
+   "end": 441.9,
+   "text": "Inhale, sending your awareness all the way down."
+  },
+  {
+   "start": 441.75,
+   "end": 450.17,
+   "text": "Exhale, and let your toes soften, one by one."
+  },
+  {
+   "start": 450.02,
+   "end": 452.8,
+   "text": "Notice your whole body now."
+  },
+  {
+   "start": 452.65,
+   "end": 461.63,
+   "text": "From your head to your feet, every part has softened, just a little more,"
+  },
+  {
+   "start": 461.48,
+   "end": 467.79,
+   "text": "with every inhale, and every exhale."
+  },
+  {
+   "start": 467.64,
+   "end": 474.91,
+   "text": "Stay here for a moment, simply noticing this rhythm continue on its own."
+  },
+  {
+   "start": 474.76,
+   "end": 478.47,
+   "text": "Inhale."
+  },
+  {
+   "start": 478.32,
+   "end": 480.89,
+   "text": "Exhale."
+  },
+  {
+   "start": 480.74,
+   "end": 482.59,
+   "text": "Calm."
+  },
+  {
+   "start": 482.44,
+   "end": 485.86,
+   "text": "Steady."
+  },
+  {
+   "start": 485.71,
+   "end": 495.18,
+   "text": "Let these gentle words settle into your mind, matching your breath."
+  },
+  {
+   "start": 495.03,
+   "end": 499.81,
+   "text": "Inhale calm."
+  },
+  {
+   "start": 499.66,
+   "end": 502.5,
+   "text": "Exhale tension."
+  },
+  {
+   "start": 502.35,
+   "end": 505.66,
+   "text": "Inhale peace."
+  },
+  {
+   "start": 505.51,
+   "end": 511.63,
+   "text": "Exhale everything you no longer need."
+  },
+  {
+   "start": 511.48,
+   "end": 519.19,
+   "text": "Take a few more slow breaths, and let these words become part of you."
+  },
+  {
+   "start": 519.04,
+   "end": 529.05,
+   "text": "Notice, one more time, this deep sense of calm spreading through your whole body."
+  },
+  {
+   "start": 528.9,
+   "end": 533.85,
+   "text": "Every inhale brings softness."
+  },
+  {
+   "start": 533.7,
+   "end": 538.71,
+   "text": "Every exhale releasing what's no longer needed."
+  },
+  {
+   "start": 538.56,
+   "end": 545.31,
+   "text": "Now, slowly, bring your attention back to the room around you."
+  },
+  {
+   "start": 545.16,
+   "end": 548.25,
+   "text": "Notice the surface beneath you again."
+  },
+  {
+   "start": 548.1,
+   "end": 554.65,
+   "text": "Notice your breath, still soft and slow."
+  },
+  {
+   "start": 554.5,
+   "end": 558.39,
+   "text": "Gently move your fingers."
+  },
+  {
+   "start": 558.24,
+   "end": 561.47,
+   "text": "Gently move your toes."
+  },
+  {
+   "start": 561.32,
+   "end": 569.98,
+   "text": "Let your body slowly wake up, feeling relaxed and calm."
+  },
+  {
+   "start": 569.83,
+   "end": 574.53,
+   "text": "Take one more slow inhale\u2026"
+  },
+  {
+   "start": 574.38,
+   "end": 582.04,
+   "text": "and let your exhale be long and gentle."
+  },
+  {
+   "start": 581.89,
+   "end": 588.44,
+   "text": "When you are ready, softly open your eyes."
+  },
+  {
+   "start": 588.29,
+   "end": 591.56,
+   "text": "Carry this calm with you."
+  },
+  {
+   "start": 591.41,
+   "end": 600.26,
+   "text": "Carry this deep sense of rest with you, into the rest of your day."
+  },
+  {
+   "start": 600.11,
+   "end": 602.46,
+   "text": "You are calm."
+  },
+  {
+   "start": 602.31,
+   "end": 606.16,
+   "text": "You are safe."
+  },
+  {
+   "start": 606.01,
+   "end": 828.0,
+   "text": "And you are exactly where you need to be."
+  }
+ ]
+}

@@ -1,0 +1,567 @@
+{
+ "source": "faster-whisper small.en word timestamps aligned to script phrases",
+ "matchedWords": 936,
+ "scriptWords": 938,
+ "cues": [
+  {
+   "start": 2.01,
+   "end": 9.98,
+   "text": "Hello lovely English learner, and welcome to this visualization meditation."
+  },
+  {
+   "start": 9.83,
+   "end": 23.13,
+   "text": "Take a moment to arrive here, exactly as you are, wherever your day has taken you so far."
+  },
+  {
+   "start": 22.98,
+   "end": 26.91,
+   "text": "Find a position that feels right for you."
+  },
+  {
+   "start": 26.76,
+   "end": 38.12,
+   "text": "Sitting, lying down, whatever your body prefers in this moment."
+  },
+  {
+   "start": 37.97,
+   "end": 45.51,
+   "text": "Let yourself settle in slowly, without rushing."
+  },
+  {
+   "start": 45.36,
+   "end": 57.36,
+   "text": "You can close your eyes gently, or let them rest softly, looking downward, unfocused."
+  },
+  {
+   "start": 57.21,
+   "end": 63.32,
+   "text": "For these next few minutes, there's nowhere else to be."
+  },
+  {
+   "start": 63.17,
+   "end": 74.3,
+   "text": "Just this quiet space, and a little time with your own breath."
+  },
+  {
+   "start": 74.15,
+   "end": 81.28,
+   "text": "Feel the surface beneath you, holding your body completely."
+  },
+  {
+   "start": 81.13,
+   "end": 84.68,
+   "text": "Let your shoulders drop."
+  },
+  {
+   "start": 84.53,
+   "end": 89.97,
+   "text": "Let your hands rest."
+  },
+  {
+   "start": 89.82,
+   "end": 96.55,
+   "text": "Take a slow breath in\u2026"
+  },
+  {
+   "start": 96.4,
+   "end": 101.9,
+   "text": "and let it out."
+  },
+  {
+   "start": 101.75,
+   "end": 104.32,
+   "text": "Once more."
+  },
+  {
+   "start": 104.17,
+   "end": 108.84,
+   "text": "In\u2026"
+  },
+  {
+   "start": 108.69,
+   "end": 115.28,
+   "text": "and out."
+  },
+  {
+   "start": 115.13,
+   "end": 121.42,
+   "text": "Today, we're going to explore two words that describe how connected we feel,"
+  },
+  {
+   "start": 121.27,
+   "end": 129.98,
+   "text": "either to the earth beneath us or to something far away from it."
+  },
+  {
+   "start": 129.83,
+   "end": 135.36,
+   "text": "The first word is grounded."
+  },
+  {
+   "start": 135.21,
+   "end": 145.3,
+   "text": "To feel grounded means to feel calm, present, and emotionally balanced."
+  },
+  {
+   "start": 145.15,
+   "end": 155.3,
+   "text": "For example, you might feel more grounded after spending time in nature."
+  },
+  {
+   "start": 155.15,
+   "end": 161.32,
+   "text": "\"Grounded\" can also mean that someone is not allowed to go out as a punishment."
+  },
+  {
+   "start": 161.17,
+   "end": 168.38,
+   "text": "For example, \u201cThe kid is grounded until Friday.\u201d"
+  },
+  {
+   "start": 168.23,
+   "end": 180.52,
+   "text": "But for this meditation, we\u2019re focusing on being grounded as feeling calm and present."
+  },
+  {
+   "start": 180.37,
+   "end": 185.34,
+   "text": "The second word we're learning today is ungrounded."
+  },
+  {
+   "start": 185.19,
+   "end": 195.74,
+   "text": "To feel ungrounded means to feel unsteady, disconnected, or not fully present."
+  },
+  {
+   "start": 195.59,
+   "end": 202.32,
+   "text": "You may feel like you\u2019re floating or moving without direction."
+  },
+  {
+   "start": 202.17,
+   "end": 207.26,
+   "text": "Both feelings are part of being human."
+  },
+  {
+   "start": 207.11,
+   "end": 216.25,
+   "text": "Today, we'll gently move from one toward the other."
+  },
+  {
+   "start": 216.1,
+   "end": 222.09,
+   "text": "Let's begin with a simple visualization."
+  },
+  {
+   "start": 221.94,
+   "end": 227.55,
+   "text": "Imagine, in your mind, a tall tree."
+  },
+  {
+   "start": 227.4,
+   "end": 234.39,
+   "text": "It doesn't matter what kind, choose whatever tree feels comfortable to you."
+  },
+  {
+   "start": 234.24,
+   "end": 242.61,
+   "text": "Notice this tree standing quietly, its trunk strong, its branches reaching upward,"
+  },
+  {
+   "start": 242.46,
+   "end": 245.01,
+   "text": "toward the sky."
+  },
+  {
+   "start": 244.86,
+   "end": 252.75,
+   "text": "Now imagine its roots, deep beneath the ground, spreading wide,"
+  },
+  {
+   "start": 252.6,
+   "end": 257.45,
+   "text": "holding this tree firmly in place."
+  },
+  {
+   "start": 257.3,
+   "end": 268.64,
+   "text": "These roots keep the tree grounded, no matter how strong the wind blows above."
+  },
+  {
+   "start": 268.49,
+   "end": 273.36,
+   "text": "Imagine, for a moment, that you are this tree."
+  },
+  {
+   "start": 273.21,
+   "end": 279.18,
+   "text": "Your body is the trunk, steady and strong."
+  },
+  {
+   "start": 279.03,
+   "end": 283.74,
+   "text": "Your legs, or the base of your body, are the roots,"
+  },
+  {
+   "start": 283.59,
+   "end": 288.34,
+   "text": "reaching down into the earth beneath you."
+  },
+  {
+   "start": 288.19,
+   "end": 291.56,
+   "text": "Feel this connection now."
+  },
+  {
+   "start": 291.41,
+   "end": 300.82,
+   "text": "Feel yourself grounded, steady, held firmly in place, just like this tree."
+  },
+  {
+   "start": 300.67,
+   "end": 312.78,
+   "text": "Take a slow breath in, imagining this groundedness settling deeper into your body."
+  },
+  {
+   "start": 312.63,
+   "end": 322.87,
+   "text": "Breathe out, feeling even more connected to the earth beneath you."
+  },
+  {
+   "start": 322.72,
+   "end": 327.59,
+   "text": "Sometimes, though, we feel ungrounded."
+  },
+  {
+   "start": 327.44,
+   "end": 333.87,
+   "text": "Our thoughts move quickly, jumping from place to place, and our body feels light,"
+  },
+  {
+   "start": 333.72,
+   "end": 338.95,
+   "text": "unsteady, like it might float away at any moment."
+  },
+  {
+   "start": 338.8,
+   "end": 346.27,
+   "text": "If you've ever felt this way, you already know this feeling."
+  },
+  {
+   "start": 346.12,
+   "end": 355.82,
+   "text": "It's not wrong, it simply means, for a moment, you've lost that steady connection."
+  },
+  {
+   "start": 355.67,
+   "end": 366.82,
+   "text": "Let's practice moving gently from ungrounded, back to grounded, wherever you need to."
+  },
+  {
+   "start": 366.67,
+   "end": 373.84,
+   "text": "Imagine now, just for a moment, that same leaf caught in the wind,"
+  },
+  {
+   "start": 373.69,
+   "end": 378.9,
+   "text": "moving without direction, ungrounded, uncertain."
+  },
+  {
+   "start": 378.75,
+   "end": 385.38,
+   "text": "Notice how this feels, light, and a little unsettled."
+  },
+  {
+   "start": 385.23,
+   "end": 396.14,
+   "text": "And now, imagine that leaf slowly drifting downward, landing gently on the earth."
+  },
+  {
+   "start": 395.99,
+   "end": 401.64,
+   "text": "The moment it touches the ground, it becomes still."
+  },
+  {
+   "start": 401.49,
+   "end": 404.12,
+   "text": "Connected."
+  },
+  {
+   "start": 403.97,
+   "end": 409.07,
+   "text": "Grounded once again."
+  },
+  {
+   "start": 408.92,
+   "end": 412.12,
+   "text": "This is what we are practicing today."
+  },
+  {
+   "start": 411.97,
+   "end": 419.57,
+   "text": "This gentle return, from ungrounded, back to grounded,"
+  },
+  {
+   "start": 419.42,
+   "end": 428.58,
+   "text": "whenever life makes us feel like that floating leaf."
+  },
+  {
+   "start": 428.43,
+   "end": 432.72,
+   "text": "Bring your attention back to your own body now."
+  },
+  {
+   "start": 432.57,
+   "end": 436.92,
+   "text": "Notice when you're touching the ground, or the surface beneath you."
+  },
+  {
+   "start": 436.77,
+   "end": 444.14,
+   "text": "This is your connection point, right here, right now."
+  },
+  {
+   "start": 443.99,
+   "end": 451.84,
+   "text": "Imagine roots extending from this point, deep into the earth below you."
+  },
+  {
+   "start": 451.69,
+   "end": 457.68,
+   "text": "Feel these roots holding you steady, keeping you grounded,"
+  },
+  {
+   "start": 457.53,
+   "end": 461.69,
+   "text": "no matter what's happening around you."
+  },
+  {
+   "start": 461.54,
+   "end": 469.38,
+   "text": "Take a slow breath in, feeling this steadiness."
+  },
+  {
+   "start": 469.23,
+   "end": 477.82,
+   "text": "Breathe out, releasing anything that feels unsettled, ungrounded,"
+  },
+  {
+   "start": 477.67,
+   "end": 485.23,
+   "text": "letting it drift away like a leaf caught in a gentle breeze."
+  },
+  {
+   "start": 485.08,
+   "end": 495.43,
+   "text": "Notice how it feels to be grounded, right now, in this exact moment."
+  },
+  {
+   "start": 495.28,
+   "end": 496.41,
+   "text": "Steady."
+  },
+  {
+   "start": 496.26,
+   "end": 498.31,
+   "text": "Calm."
+  },
+  {
+   "start": 498.16,
+   "end": 502.18,
+   "text": "Connected."
+  },
+  {
+   "start": 502.03,
+   "end": 505.78,
+   "text": "This feeling is always available to you,"
+  },
+  {
+   "start": 505.63,
+   "end": 511.96,
+   "text": "even on days when you feel ungrounded or uncertain."
+  },
+  {
+   "start": 511.81,
+   "end": 522.55,
+   "text": "You can always return here, to this simple connection with the ground beneath you."
+  },
+  {
+   "start": 522.4,
+   "end": 527.13,
+   "text": "Let's stay in this grounded feeling a little longer."
+  },
+  {
+   "start": 526.98,
+   "end": 533.39,
+   "text": "Notice your body, heavy, and supported."
+  },
+  {
+   "start": 533.24,
+   "end": 540.59,
+   "text": "Notice your breath, steady, and calm."
+  },
+  {
+   "start": 540.44,
+   "end": 550.05,
+   "text": "Notice the earth beneath you, holding you completely, exactly as it holds that strong,"
+  },
+  {
+   "start": 549.9,
+   "end": 556.55,
+   "text": "steady tree."
+  },
+  {
+   "start": 556.4,
+   "end": 563.86,
+   "text": "Let these gentle words settle into your mind."
+  },
+  {
+   "start": 563.71,
+   "end": 570.79,
+   "text": "I am connected to the ground beneath me."
+  },
+  {
+   "start": 570.64,
+   "end": 579.16,
+   "text": "I am steady, like roots reaching deep into the earth."
+  },
+  {
+   "start": 579.01,
+   "end": 587.32,
+   "text": "When I feel ungrounded, I can always return here."
+  },
+  {
+   "start": 587.17,
+   "end": 590.26,
+   "text": "I am safe."
+  },
+  {
+   "start": 590.11,
+   "end": 595.7,
+   "text": "I am grounded."
+  },
+  {
+   "start": 595.55,
+   "end": 604.64,
+   "text": "Take another slow breath, and let these words settle a little deeper."
+  },
+  {
+   "start": 604.49,
+   "end": 611.1,
+   "text": "Stay here for a while longer, simply feeling this connection."
+  },
+  {
+   "start": 610.95,
+   "end": 614.22,
+   "text": "This groundedness."
+  },
+  {
+   "start": 614.07,
+   "end": 617.36,
+   "text": "This steadiness."
+  },
+  {
+   "start": 617.21,
+   "end": 623.96,
+   "text": "There's no need to rush away from this feeling."
+  },
+  {
+   "start": 623.81,
+   "end": 631.96,
+   "text": "Whenever life feels uncertain, whenever you feel like that leaf in the wind,"
+  },
+  {
+   "start": 631.81,
+   "end": 635.9,
+   "text": "remember this simple practice."
+  },
+  {
+   "start": 635.75,
+   "end": 642.82,
+   "text": "Imagine your roots, deep in the earth, holding you steady,"
+  },
+  {
+   "start": 642.67,
+   "end": 650.02,
+   "text": "bringing you gently back to the ground."
+  },
+  {
+   "start": 649.87,
+   "end": 657.1,
+   "text": "When you feel ready, begin to bring a little awareness back to the room around you."
+  },
+  {
+   "start": 656.95,
+   "end": 661.68,
+   "text": "Notice the surface beneath you."
+  },
+  {
+   "start": 661.53,
+   "end": 671.37,
+   "text": "Notice your breath, still slow, still steady."
+  },
+  {
+   "start": 671.22,
+   "end": 677.19,
+   "text": "Let your fingers move first, just slightly."
+  },
+  {
+   "start": 677.04,
+   "end": 679.65,
+   "text": "Then your toes."
+  },
+  {
+   "start": 679.5,
+   "end": 687.04,
+   "text": "Small movements, gentle and unhurried."
+  },
+  {
+   "start": 686.89,
+   "end": 690.96,
+   "text": "Take your time."
+  },
+  {
+   "start": 690.81,
+   "end": 699.84,
+   "text": "There's no need to hurry this return."
+  },
+  {
+   "start": 699.69,
+   "end": 713.44,
+   "text": "Whenever you're ready, let your eyes open softly, taking in the light around you."
+  },
+  {
+   "start": 713.29,
+   "end": 719.42,
+   "text": "Carry this groundedness with you, into whatever comes next."
+  },
+  {
+   "start": 719.27,
+   "end": 726.18,
+   "text": "And remember, no matter how ungrounded a moment might feel,"
+  },
+  {
+   "start": 726.03,
+   "end": 740.7,
+   "text": "you can always come back to this steady, quiet connection with the earth beneath you."
+  },
+  {
+   "start": 740.55,
+   "end": 745.48,
+   "text": "You are grounded."
+  },
+  {
+   "start": 745.33,
+   "end": 749.06,
+   "text": "You are calm."
+  },
+  {
+   "start": 748.91,
+   "end": 792.0,
+   "text": "And you are exactly where you need to be."
+  }
+ ]
+}

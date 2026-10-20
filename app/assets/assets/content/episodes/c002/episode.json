@@ -1,0 +1,49 @@
+{
+  "id": "c002",
+  "slug": "subway-vocabulary",
+  "title": "Subway Vocabulary",
+  "summary": "A calm ride underground: platform, board, move through, slow down, get off.",
+  "durationSeconds": 343,
+  "access": "premium",
+  "published": true,
+  "number": 3,
+  "catalogNumber": "002",
+  "theme": "subway",
+  "script": "Imagine that you’re going to take the subway, and you're standing at the entrance of a subway station\n\nTo stand means to be on your feet, in a vertical position.\nYou can hear people walking, distant conversations, announcements and trains moving somewhere below you. \nTake a deep breath in and begin walking down the stairs.\nBreathe out, and now you’re at the platform.\nThe platform is the area where you stand and wait for the train.\nIn the distance, you hear the train approaching.\n\nApproaching means coming closer.\nThe doors open. You hear an announcement telling passengers to board the train.\n\nTo board means to get on a train, plane, bus, or other form of transportation.\nYou step inside and the doors close behind you.\nYou look above the doors and see a map showing all the stops on your route.\nYour stop isn’t the next one. You still have some time, so relax your shoulders.\nThe train moves through the tunnel.\n\nTo move through something means to travel, pass, or progress from one side, stage, or point of something to another.\nListen. You can hear the wheels moving along the tracks while the train begins to slow down.\n\nTo slow down means to start moving more slowly.\nThe doors open. This is your stop. You get off the train and step back onto the platform.\nTo get off means to leave the train.\nHave a good rest of your day.",
+  "vocabulary": [
+    {
+      "word": "to stand",
+      "definition": "to be on your feet, in a vertical position"
+    },
+    {
+      "word": "platform",
+      "definition": "the area where you stand and wait for the train"
+    },
+    {
+      "word": "approaching",
+      "definition": "coming closer"
+    },
+    {
+      "word": "to board",
+      "definition": "to get on a train, plane, bus, or other form of transportation"
+    },
+    {
+      "word": "to move through something",
+      "definition": "to travel, pass, or progress from one side, stage, or point of something to another"
+    },
+    {
+      "word": "to slow down",
+      "definition": "to start moving more slowly"
+    },
+    {
+      "word": "to get off",
+      "definition": "to leave the train"
+    }
+  ],
+  "exercises": [],
+  "audioAsset": null,
+  "sourceAudio": "assets/content/episodes/c002/audio.mp3",
+  "audioMd5": "f9d48579e37ac5eabe3b638468fcdd2b",
+  "source": "Google Drive FINALIZADOS 002 (read-only copy, 2026-10-14)",
+  "streamId": "e8c4ec8f-539a-4cf5-84e7-5458f44db7e6"
+}

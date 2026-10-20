@@ -1,0 +1,70 @@
+{
+  "id": "c020",
+  "slug": "practicing-gratitude",
+  "title": "Practicing Gratitude",
+  "summary": "Notice the good things in your life: to be grateful for, to appreciate.",
+  "durationSeconds": 639,
+  "access": "premium",
+  "published": true,
+  "number": 19,
+  "catalogNumber": "020",
+  "theme": "horizon",
+  "script": "Hi. I’m glad you’re here. Today, we will practice gratitude.\nFind a comfortable position. Sit or lie down in a way that feels good for you. If you want, you can put your hands in your lap and gently close your eyes. But if you can’t, that’s okay too.\nInhale slowly.\nAnd exhale, letting your shoulders drop a little as you do.\nOne more time. Inhale… and exhale.\nI want to try something a little different with you today. Instead of imagining a place, I want you to think of your actual life for a moment. Something real. Something small, even.\nInhale again, slowly.\nThink of one person in your life. It doesn't have to be someone big or important in an obvious way. Maybe it's a friend. A family member. Even someone you don't see very often anymore.\nPicture their face for a second, clearly, if you can.\nNow, quietly, think of one specific thing about them that you are grateful for.\nTo be grateful for something means to be thankful for something good in your life. It can be something you have, something someone did for you, or something you didn’t expect.\nIt’s a warm, quiet feeling, like knowing you have something special in your hands.\nMaybe you're grateful for a conversation they once had with you. Maybe just for the fact that they exist in your life at all.\nLet that feeling sit in your chest for a moment.\nExhale slowly.\nNow think of something much smaller. Not a person this time, just a small comfort in your life. Maybe it's your bed. Maybe it's a warm drink you had recently. Maybe it's simply having a quiet room to sit in right now, like this one.\nInhale, and as you do, silently say to yourself, \"I'm grateful for this.\"  \"I'm grateful for this.\"\nNotice how different that feels from just thinking, \"this is fine,\" or \"this is normal.\" Gratitude adds something extra. It takes something ordinary, and quietly says, this actually matters.\nExhale.\nNow let’s move to a slightly different feeling: appreciation.\nThe verb “to appreciate” means to notice how good or how valuable something is. Instead of looking at something quickly and moving on, you stop and really notice it.\nFor example, you can say, “I really appreciate your help.” This is another way to say, “Thank you for your help.”\nThink about a beautiful sunset. You can look at it for a second and move on, or you can stop and really look at it, noticing the colors, the light, and the sky.\nNow, think of something in your life that you don’t usually notice. Maybe your own body, and all the things it does for you every day without you asking.\nThink about your lungs, breathing in and out right now. Think about your heart, beating quietly without you having to do anything.\nInhale slowly, and really notice this breath entering your body.\nExhale, and notice it leaving, just as smoothly.\nThis happens automatically, thousands of times a day, and most days, you probably never even think about it.\nTake a moment now, to actually appreciate it. Not just acknowledge it, but really notice it, the way you'd notice something beautiful if you actually stopped to look.\nInhale again.\nThere's a difference between having good things in your life, and actually noticing them. Gratitude and appreciation are both without pausing, just for a moment, to really see what's already here, instead of always looking toward what's missing, or what's next.\nExhale slowly.\nThink once more about that person from earlier. And that small comfort. And your own breath, moving in, and out, quietly keeping you alive.\nLet yourself feel grateful for all of it, together, all at once, right now.\nInhale.\nAnd exhale, long and slow.\nA few words, if you'd like to keep them with you.\nI am grateful for what is already here.\nI can appreciate small things, not just the big ones.\nNoticing what I have is its own kind of peace.\nI don't need more to feel thankful right now.\nI appreciate this quiet moment, exactly as it is.\nTake one more slow inhale.\nAnd exhale completely.\nStay here a little longer if you'd like, simply noticing what you're grateful for, what you appreciate, without needing to do anything else with these feelings.\nWhen you're ready to come back, start noticing small, real things around you. Whatever is supporting your body right now. Any sound nearby. Your breath, still slow, still yours.\nMove your fingers first, gently. Then your feet.\nWhenever it feels right, let your eyes open.\nTake this feeling with you for the rest of your day, even if it’s just a little.\nYou don’t need a big moment to feel grateful. Sometimes, it can be something as simple as taking a breath and noticing it.\nAnd I’m grateful that you’re here, practicing these meditations, learning English, and taking care of your mental health.",
+  "vocabulary": [
+    {
+      "word": "to be grateful for",
+      "definition": "to recognize something good in your life as a gift, something that brings a warm, quiet feeling of thankfulness"
+    },
+    {
+      "word": "to appreciate",
+      "definition": "to truly notice the value of something, seeing it clearly instead of letting it pass by unnoticed"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "practice_1",
+      "sentence": "What does ‘to be grateful for’ mean?",
+      "options": [
+        "To feel thankful for something good in your life.",
+        "To wish you had something different.",
+        "To forget something that happened."
+      ],
+      "correctAnswer": "To feel thankful for something good in your life."
+    },
+    {
+      "id": "practice_2",
+      "sentence": "What does ‘to appreciate’ mean?",
+      "options": [
+        "To look at something quickly and move on.",
+        "To notice how good or valuable something is.",
+        "To compare something with what is missing."
+      ],
+      "correctAnswer": "To notice how good or valuable something is."
+    },
+    {
+      "id": "practice_3",
+      "sentence": "Which sentence has the same meaning as ‘I really appreciate your help’?",
+      "options": [
+        "I need more help.",
+        "I will help you later.",
+        "Thank you for your help."
+      ],
+      "correctAnswer": "Thank you for your help."
+    },
+    {
+      "id": "practice_4",
+      "sentence": "Which small comfort does the speaker mention?",
+      "options": [
+        "A new job.",
+        "A warm drink.",
+        "A busy street."
+      ],
+      "correctAnswer": "A warm drink."
+    }
+  ],
+  "audioAsset": null,
+  "sourceAudio": "assets/content/episodes/c020/audio.mp3",
+  "audioMd5": "768ced52afbd9b4ff51794d77d97f382",
+  "source": "Google Drive FINALIZADOS 020 (read-only copy, 2026-10-14)",
+  "streamId": "c020"
+}

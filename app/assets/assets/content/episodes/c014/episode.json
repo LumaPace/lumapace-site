@@ -1,0 +1,78 @@
+{
+  "id": "c014",
+  "slug": "focusing-on-your-breathing",
+  "title": "Focusing on Your Breathing",
+  "summary": "Calm your mind with your breath: inhale, exhale, and body words from head to toe.",
+  "durationSeconds": 828,
+  "access": "premium",
+  "published": true,
+  "number": 14,
+  "catalogNumber": "014",
+  "theme": "breath",
+  "script": "Welcome. This is your time. Your time to relax, and your time to breathe.\n\nFind a comfortable position. You can sit, or you can lie down. Just make sure your body feels supported.\n\nIf you want, you can close your eyes. Or you can keep them softly open, looking down.\n\nThere is nothing to do right now. Nothing to fix. Nothing to solve. Just be here, in this moment, with your breath.\n\nLet your body settle. Feel the surface beneath you. Notice how it supports your weight. Let your shoulders soften. Let your hands rest. Let your whole body feel heavy and calm.\n\nTake a slow breath in, and let it out slowly. Again, breathe in, and breathe out.\n\nThere are two words I'd like you to notice, right here, in this quiet moment.\n\nThe first word is inhale. To inhale means to breathe in, to bring air softly into your body.\n\nThe second word is exhale. To exhale means to breathe out, to let that air gently leave.\n\nInhale is the movement of taking in. Exhale is the movement of letting go. Inhale and exhale are verbs.\n\nNotice your next inhale. Feel the air entering, cool and light. Notice your next exhale, feeling the air leaving, soft and warm.\n\nToday we're going to relax the whole body, using these two movements as a gentle guide.\n\nBring your attention to the top of your head. Take a slow inhale and imagine the breath rising gently to meet it. Now exhale, feeling any tightness there simply melt away, like it's floating off with the air.\n\nMove to your forehead. Inhale. Bring your awareness there. Exhale, and let it smooth completely.\n\nNotice your eyes. Inhale gently. Exhale, and let your eyelids grow heavier, softer.\n\nBring attention to your jaw. This is a place that often holds tension without us noticing. Inhale slowly. Exhale, and let your jaw loosen, unlocked, and calm.\n\nLet your lips part slightly, without effort. Your whole body now feels still, peaceful.\n\nMove to your neck. Inhale. Exhale, and feel the muscles there lengthen and soften.\n\nNow your shoulders. Inhale, and notice them rise just slightly. Exhale, and let them drop away from your ears, releasing everything they've been holding.\n\nMove into your arms. Inhale, sending your awareness down to your elbows. Exhale, and feel your arms grow heavy, resting completely.\n\nYour hands, your fingers. Inhale. Notice them fully. Exhale, and let them soften, doing nothing at all.\n\nBring your awareness to your chest. Notice something simple here. When you inhale, your chest rises gently. When you exhale, your chest falls gently. Inhale, rise. Exhale, fall.\n\nThis has been happening quietly your whole life, without your help. Stay here a moment, simply watching. Inhale. Exhale. Rise. Fall.\n\nLet this same rhythm move further down your body. Inhale, bring awareness to your stomach. Exhale, and let it soften completely.\n\nMove into your back. Inhale, noticing your upper back. Exhale to feel it widen slightly, more relaxed than before.\n\nBring your breath into your lower back. Inhale gently. Exhale, and let this area grow soft.\n\nNow your hips. Inhale, and simply notice them. Exhale, and let them feel wide and supported.\n\nMove into your thighs. Inhale. Exhale, and let them grow heavy, sinking into the surface beneath you.\n\nPast your knees, into your calves. Inhale slowly. Exhale, and feel any tightness disappear.\n\nFinally, your ankles and your feet. Inhale, sending your awareness all the way down. Exhale, and let your toes soften one by one.\n\nNotice your whole body now, from your head to your feet. Every part has softened just a little more with every inhale and every exhale.\n\nStay here for a moment, simply noticing this rhythm continue on its own. Inhale. Exhale. Calm. Steady.\n\nLet these gentle words settle into your mind, matching your breath.\n\nInhale calm.\nExhale tension.\nInhale peace.\nExhale everything you no longer need.\n\nTake a few more slow breaths, and let these words become part of you.\n\nNotice one more time this deep sense of calm spreading through your whole body. Every inhale brings softness. Every exhale releasing what's no longer needed.\n\nNow slowly bring your attention back to the room around you. Notice the surface beneath you again. Notice your breath, still soft and slow.\n\nGently move your fingers. Gently move your toes. Let your body slowly wake up, feeling relaxed and calm.\n\nTake one more slow inhale, and let your exhale be long and gentle.\n\nWhen you are ready, softly open your eyes.\n\nCarry this calm with you. Carry this deep sense of rest with you into the rest of your day.\n\nYou are calm. You are safe. And you are exactly where you need to be.",
+  "vocabulary": [
+    {
+      "word": "to inhale",
+      "definition": "to breathe in, bringing air softly into your body"
+    },
+    {
+      "word": "to exhale",
+      "definition": "to breathe out, letting that air gently leave"
+    },
+    {
+      "word": "eyelid",
+      "definition": "the piece of skin that covers your eye when it closes"
+    },
+    {
+      "word": "elbow",
+      "definition": "the joint in the middle of your arm where it bends"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "breathing-practice-1",
+      "sentence": "What does “inhale” mean?",
+      "options": [
+        "To breathe out",
+        "To breathe in",
+        "To hold your breath"
+      ],
+      "correctAnswer": "To breathe in"
+    },
+    {
+      "id": "breathing-practice-2",
+      "sentence": "Complete: “To exhale means to breathe ___.”",
+      "options": [
+        "out",
+        "in",
+        "up"
+      ],
+      "correctAnswer": "out"
+    },
+    {
+      "id": "breathing-practice-3",
+      "sentence": "What should you notice as you settle into a comfortable position?",
+      "options": [
+        "The time on a clock",
+        "The surface supporting your weight",
+        "The temperature outside"
+      ],
+      "correctAnswer": "The surface supporting your weight"
+    },
+    {
+      "id": "breathing-practice-4",
+      "sentence": "What happens to your chest when you inhale?",
+      "options": [
+        "It stays completely still",
+        "It falls gently",
+        "It rises gently"
+      ],
+      "correctAnswer": "It rises gently"
+    }
+  ],
+  "audioAsset": null,
+  "sourceAudio": "assets/content/episodes/c014/audio.mp3",
+  "audioMd5": "bbb1c8cf3888c2a79b2d3056d723125c",
+  "source": "Google Drive FINALIZADOS 014 (read-only copy, 2026-10-14)",
+  "streamId": "c014"
+}

@@ -1,0 +1,202 @@
+{
+ "source": "faster-whisper small.en word timestamps aligned to script phrases",
+ "matchedWords": 305,
+ "scriptWords": 310,
+ "cues": [
+  {
+   "start": 3.75,
+   "end": 12.66,
+   "text": "Listen, you're cracking an egg."
+  },
+  {
+   "start": 12.51,
+   "end": 31.56,
+   "text": "Today, you\u2019re going to bake a cake."
+  },
+  {
+   "start": 31.41,
+   "end": 46.22,
+   "text": "You pick up an egg and gently crack it into the bowl."
+  },
+  {
+   "start": 46.07,
+   "end": 49.5,
+   "text": "Listen."
+  },
+  {
+   "start": 49.35,
+   "end": 58.86,
+   "text": "You're cracking the egg."
+  },
+  {
+   "start": 58.71,
+   "end": 78.34,
+   "text": "To crack an egg means to break its shell so you can use the egg inside."
+  },
+  {
+   "start": 78.19,
+   "end": 81.92,
+   "text": "You crack another egg\u2026"
+  },
+  {
+   "start": 81.77,
+   "end": 95.64,
+   "text": "and place the empty shells to the side."
+  },
+  {
+   "start": 95.49,
+   "end": 105.06,
+   "text": "Now, you pick up a bag of flour, by flour I don't mean the plant,"
+  },
+  {
+   "start": 104.91,
+   "end": 120.42,
+   "text": "I mean a white or brown powder used to make bread, cakes, cookies, and other things."
+  },
+  {
+   "start": 120.27,
+   "end": 143.44,
+   "text": "So you pick up a bag of flour and carefully pour some into a bowl."
+  },
+  {
+   "start": 143.29,
+   "end": 156.9,
+   "text": "To pour means to make something flow from one container into another."
+  },
+  {
+   "start": 156.75,
+   "end": 178.48,
+   "text": "I'm pouring flour into the bowl."
+  },
+  {
+   "start": 178.33,
+   "end": 211.62,
+   "text": "You add some sugar\u2026"
+  },
+  {
+   "start": 211.47,
+   "end": 227.94,
+   "text": "and slowly pour in the milk."
+  },
+  {
+   "start": 227.79,
+   "end": 235.04,
+   "text": "Now, you pick up a whisk."
+  },
+  {
+   "start": 234.89,
+   "end": 257.58,
+   "text": "A whisk is a kitchen tool that you use to mix ingredients together."
+  },
+  {
+   "start": 257.43,
+   "end": 284.12,
+   "text": "You gently whisk everything together."
+  },
+  {
+   "start": 283.97,
+   "end": 286.86,
+   "text": "Listen."
+  },
+  {
+   "start": 286.71,
+   "end": 308.98,
+   "text": "The ingredients slowly begin to turn into a smooth mixture."
+  },
+  {
+   "start": 308.83,
+   "end": 323.84,
+   "text": "Now, you take a cake pan and carefully grease it with a little butter."
+  },
+  {
+   "start": 323.69,
+   "end": 336.4,
+   "text": "To grease a pan means to put butter or oil on it so the food doesn\u2019t stick."
+  },
+  {
+   "start": 336.25,
+   "end": 354.42,
+   "text": "You slowly pour the cake mixture into the pan."
+  },
+  {
+   "start": 354.27,
+   "end": 366.5,
+   "text": "Watch it spread across the bottom."
+  },
+  {
+   "start": 366.35,
+   "end": 374.72,
+   "text": "Now, carefully place the cake in the oven."
+  },
+  {
+   "start": 374.57,
+   "end": 376.74,
+   "text": "Close the oven door\u2026"
+  },
+  {
+   "start": 376.59,
+   "end": 387.78,
+   "text": "and let it bake."
+  },
+  {
+   "start": 387.63,
+   "end": 392.88,
+   "text": "While you wait, take a slow breath in\u2026"
+  },
+  {
+   "start": 392.73,
+   "end": 395.88,
+   "text": "and breathe out."
+  },
+  {
+   "start": 395.73,
+   "end": 399.26,
+   "text": "The smell is amazing."
+  },
+  {
+   "start": 399.11,
+   "end": 406.06,
+   "text": "Imagine the warm smell of freshly baked cake slowly filling the kitchen."
+  },
+  {
+   "start": 405.91,
+   "end": 409.0,
+   "text": "I hope you don't get so hungry\u2026"
+  },
+  {
+   "start": 408.85,
+   "end": 410.92,
+   "text": "Listen."
+  },
+  {
+   "start": 410.77,
+   "end": 413.4,
+   "text": "Your cake is ready."
+  },
+  {
+   "start": 413.25,
+   "end": 422.46,
+   "text": "You carefully take it out of the oven and place it on the counter."
+  },
+  {
+   "start": 422.31,
+   "end": 428.66,
+   "text": "You let it cool down for a few minutes."
+  },
+  {
+   "start": 428.51,
+   "end": 439.56,
+   "text": "To cool down means to become less hot."
+  },
+  {
+   "start": 439.41,
+   "end": 456.45,
+   "text": "Once the cake has cooled down, you try it."
+  },
+  {
+   "start": 456.3,
+   "end": 460.0,
+   "text": "Enjoy your cake!"
+  }
+ ]
+}

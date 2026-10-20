@@ -1,0 +1,407 @@
+{
+ "source": "faster-whisper small.en word timestamps aligned to script phrases",
+ "matchedWords": 628,
+ "scriptWords": 643,
+ "cues": [
+  {
+   "start": 0.26,
+   "end": 4.15,
+   "text": "Hi!"
+  },
+  {
+   "start": 4.0,
+   "end": 13.2,
+   "text": "Find a comfortable position and let your body relax."
+  },
+  {
+   "start": 13.05,
+   "end": 15.72,
+   "text": "Take a slow breath in\u2026"
+  },
+  {
+   "start": 15.57,
+   "end": 23.76,
+   "text": "and breathe out."
+  },
+  {
+   "start": 23.61,
+   "end": 25.76,
+   "text": "Again, breathe in\u2026"
+  },
+  {
+   "start": 25.61,
+   "end": 36.78,
+   "text": "and slowly breathe out."
+  },
+  {
+   "start": 36.63,
+   "end": 46.52,
+   "text": "For the next few minutes, you don\u2019t need to do anything for anyone."
+  },
+  {
+   "start": 46.37,
+   "end": 50.62,
+   "text": "This moment is yours."
+  },
+  {
+   "start": 50.47,
+   "end": 55.7,
+   "text": "All yours."
+  },
+  {
+   "start": 55.55,
+   "end": 68.09,
+   "text": "Today, we\u2019re going to practice something that can feel surprisingly difficult: saying no."
+  },
+  {
+   "start": 67.94,
+   "end": 73.81,
+   "text": "Sometimes we say yes because we\u2019re afraid of disappointing someone."
+  },
+  {
+   "start": 73.66,
+   "end": 81.63,
+   "text": "Sometimes we worry that the other person will think we\u2019re rude, unfriendly, or difficult."
+  },
+  {
+   "start": 81.48,
+   "end": 83.61,
+   "text": "And when we\u2019re speaking another language,"
+  },
+  {
+   "start": 83.46,
+   "end": 94.22,
+   "text": "the fear can feel even stronger because we\u2019re not always sure which words sound polite."
+  },
+  {
+   "start": 94.07,
+   "end": 101.2,
+   "text": "Take a deep breath in\u2026"
+  },
+  {
+   "start": 101.05,
+   "end": 106.3,
+   "text": "Saying no doesn\u2019t always make you rude."
+  },
+  {
+   "start": 106.15,
+   "end": 112.7,
+   "text": "Sometimes, saying no simply means that you know what you want, what you need,"
+  },
+  {
+   "start": 112.55,
+   "end": 116.92,
+   "text": "or what you\u2019re ready for."
+  },
+  {
+   "start": 116.77,
+   "end": 122.1,
+   "text": "You can be kind to another person and still say no."
+  },
+  {
+   "start": 121.95,
+   "end": 131.11,
+   "text": "You can love someone and still say, \u201cNo, thank you.\u201d"
+  },
+  {
+   "start": 130.96,
+   "end": 143.38,
+   "text": "Now breathe out, and as you breathe out, let your shoulders relax a little more."
+  },
+  {
+   "start": 143.23,
+   "end": 148.32,
+   "text": "Imagine you\u2019re sitting at a cozy restaurant."
+  },
+  {
+   "start": 148.17,
+   "end": 155.36,
+   "text": "There\u2019s still some food on your plate, and you\u2019re enjoying your meal."
+  },
+  {
+   "start": 155.21,
+   "end": 164.28,
+   "text": "A waiter comes to the table and asks, \u201cCan I take your plate?\u201d You\u2019re not finished yet."
+  },
+  {
+   "start": 164.13,
+   "end": 171.02,
+   "text": "In this situation, saying only \u201cno\u201d sounds a bit direct."
+  },
+  {
+   "start": 170.87,
+   "end": 177.66,
+   "text": "The waiter is simply trying to help you, so you may want your answer a little softer,"
+  },
+  {
+   "start": 177.51,
+   "end": 180.08,
+   "text": "a little more polite."
+  },
+  {
+   "start": 179.93,
+   "end": 188.68,
+   "text": "You can say, \u201cNot yet, please.\u201d Notice the word yet."
+  },
+  {
+   "start": 188.53,
+   "end": 195.98,
+   "text": "Not yet means not now, but maybe later."
+  },
+  {
+   "start": 195.83,
+   "end": 202.88,
+   "text": "You don\u2019t want the waiter to take your plate now, but they can probably take it later."
+  },
+  {
+   "start": 202.73,
+   "end": 205.1,
+   "text": "You\u2019re not rejecting the person."
+  },
+  {
+   "start": 204.95,
+   "end": 208.34,
+   "text": "You\u2019re simply saying that you\u2019re not ready yet."
+  },
+  {
+   "start": 208.19,
+   "end": 214.54,
+   "text": "And that's completely okay."
+  },
+  {
+   "start": 214.39,
+   "end": 218.91,
+   "text": "Breathe in\u2026"
+  },
+  {
+   "start": 218.76,
+   "end": 223.96,
+   "text": "Imagine yourself saying it calmly: \u201cNot yet,"
+  },
+  {
+   "start": 223.81,
+   "end": 231.22,
+   "text": "thanks.\u201d You don\u2019t need to apologize or give a long explanation."
+  },
+  {
+   "start": 231.07,
+   "end": 241.69,
+   "text": "You can simply smile, say what you need, and continue enjoying your meal."
+  },
+  {
+   "start": 241.54,
+   "end": 247.51,
+   "text": "You\u2019ve communicated clearly and kindly."
+  },
+  {
+   "start": 247.36,
+   "end": 250.47,
+   "text": "You\u2019ve done your part."
+  },
+  {
+   "start": 250.32,
+   "end": 256.71,
+   "text": "Now, let yourself feel confident in your answer."
+  },
+  {
+   "start": 256.56,
+   "end": 259.55,
+   "text": "You can say no without feeling guilty."
+  },
+  {
+   "start": 259.4,
+   "end": 266.09,
+   "text": "You can be kind while still respecting what you want."
+  },
+  {
+   "start": 265.94,
+   "end": 271.09,
+   "text": "Breathe out\u2026"
+  },
+  {
+   "start": 270.94,
+   "end": 278.14,
+   "text": "Notice how it feels to say what you want."
+  },
+  {
+   "start": 277.99,
+   "end": 288.91,
+   "text": "Now repeat quietly, either out loud or in your mind:"
+  },
+  {
+   "start": 288.76,
+   "end": 296.15,
+   "text": "I can say no and still be kind."
+  },
+  {
+   "start": 296.0,
+   "end": 303.94,
+   "text": "I can be polite without saying yes."
+  },
+  {
+   "start": 303.79,
+   "end": 310.97,
+   "text": "I don\u2019t always need to explain myself."
+  },
+  {
+   "start": 310.82,
+   "end": 314.19,
+   "text": "Take one more slow breath in\u2026"
+  },
+  {
+   "start": 314.04,
+   "end": 321.4,
+   "text": "and breathe out."
+  },
+  {
+   "start": 321.25,
+   "end": 328.18,
+   "text": "Let those words stay with you for a moment."
+  },
+  {
+   "start": 328.03,
+   "end": 333.14,
+   "text": "If something comes up in the next few days that you don\u2019t want to do,"
+  },
+  {
+   "start": 332.99,
+   "end": 335.94,
+   "text": "remember this moment."
+  },
+  {
+   "start": 335.79,
+   "end": 341.38,
+   "text": "Before you answer, take a breath and ask yourself: Do I really want to say yes,"
+  },
+  {
+   "start": 341.23,
+   "end": 351.29,
+   "text": "or am I only saying yes because I\u2019m afraid to say no?"
+  },
+  {
+   "start": 351.14,
+   "end": 356.57,
+   "text": "Give yourself a moment to notice what you really want."
+  },
+  {
+   "start": 356.42,
+   "end": 362.05,
+   "text": "If your answer is no, you can say it politely and calmly."
+  },
+  {
+   "start": 361.9,
+   "end": 367.67,
+   "text": "You don\u2019t need to feel guilty or worried just because someone may"
+  },
+  {
+   "start": 367.52,
+   "end": 372.77,
+   "text": "have wanted a different answer."
+  },
+  {
+   "start": 372.62,
+   "end": 378.78,
+   "text": "After you say no, notice how you feel."
+  },
+  {
+   "start": 378.63,
+   "end": 381.86,
+   "text": "Maybe there\u2019s a little discomfort at first."
+  },
+  {
+   "start": 381.71,
+   "end": 383.86,
+   "text": "That\u2019s okay."
+  },
+  {
+   "start": 383.71,
+   "end": 390.76,
+   "text": "Let the feeling come and go without changing your answer."
+  },
+  {
+   "start": 390.61,
+   "end": 395.24,
+   "text": "Remind yourself: I was kind."
+  },
+  {
+   "start": 395.09,
+   "end": 396.4,
+   "text": "I was clear."
+  },
+  {
+   "start": 396.25,
+   "end": 402.72,
+   "text": "I respected what I needed."
+  },
+  {
+   "start": 402.57,
+   "end": 406.52,
+   "text": "And each time you practice saying no with kindness,"
+  },
+  {
+   "start": 406.37,
+   "end": 412.65,
+   "text": "it can become a little easier and more natural."
+  },
+  {
+   "start": 412.5,
+   "end": 416.59,
+   "text": "Take one more slow breath in\u2026"
+  },
+  {
+   "start": 416.44,
+   "end": 429.42,
+   "text": "and gently breathe out."
+  },
+  {
+   "start": 429.27,
+   "end": 433.78,
+   "text": "Remember, saying no doesn\u2019t mean you\u2019re being unkind."
+  },
+  {
+   "start": 433.63,
+   "end": 440.58,
+   "text": "Sometimes, it simply means you\u2019re listening to yourself."
+  },
+  {
+   "start": 440.43,
+   "end": 449.39,
+   "text": "You can be kind to others and still respect what you need."
+  },
+  {
+   "start": 449.24,
+   "end": 455.14,
+   "text": "So carry this thought with you:"
+  },
+  {
+   "start": 454.99,
+   "end": 457.8,
+   "text": "I can say no calmly."
+  },
+  {
+   "start": 457.65,
+   "end": 463.58,
+   "text": "I can say no kindly."
+  },
+  {
+   "start": 463.43,
+   "end": 474.66,
+   "text": "And I can still feel at peace with my choice."
+  },
+  {
+   "start": 474.51,
+   "end": 480.1,
+   "text": "Take one final breath\u2026"
+  },
+  {
+   "start": 479.95,
+   "end": 491.33,
+   "text": "and when you\u2019re ready, slowly open your eyes."
+  },
+  {
+   "start": 491.18,
+   "end": 500.0,
+   "text": "Thank you for taking this moment for yourself."
+  }
+ ]
+}

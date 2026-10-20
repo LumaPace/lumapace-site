@@ -1,0 +1,38 @@
+{
+  "id": "c006",
+  "slug": "night-rain",
+  "title": "Night Rain",
+  "summary": "A sleepy walk through gentle rain to a cozy cabin: drizzle, thunder, take shelter.",
+  "durationSeconds": 322,
+  "access": "free",
+  "published": true,
+  "number": 2,
+  "catalogNumber": "006",
+  "theme": "rain",
+  "script": "Listen, it's drizzling today. It's drizzling today.\nTo drizzle is when rain falls very slowly.\n\nIt's drizzling, gently watering the plants.\n\nImagine yourself walking through this drizzle.\nYou can see the beautiful plants being watered by this gentle rain.\n\nImagine you're wearing a raincoat that protects you from it.\nThis raincoat makes you feel warm and dry.\n\nBut now, you can hear a storm coming from far away.\nListen to that sound, that sound is thunder.\n\nNow imagine yourself finding a cozy cabin where you can take shelter from the storm. Take shelter means to go somewhere safe to protect yourself.\n\nYou open the door to this cabin and it's so cozy.\n\nThere is a soft blanket waiting for you on the bed.\nYou shake the blanket out before getting into bed.\n\nThen, you fluff your pillows and lie down on the bed.\n\nNow you're falling asleep.\nGood night.",
+  "vocabulary": [
+    {
+      "word": "to drizzle",
+      "definition": "when rain falls very slowly"
+    },
+    {
+      "word": "thunder",
+      "definition": "the sound of a storm coming from far away"
+    },
+    {
+      "word": "to take shelter",
+      "definition": "to go somewhere safe to protect yourself"
+    }
+  ],
+  "exercises": [],
+  "audioAsset": "assets/content/episodes/c006/audio.mp3",
+  "sourceAudio": "assets/content/episodes/c006/audio.mp3",
+  "audioMd5": "d4705fee383fab3dd4319bdeda02a7f6",
+  "source": "Google Drive FINALIZADOS 006 (read-only copy, 2026-10-14)",
+  "speakLines": [
+    "Listen, it's drizzling today.",
+    "To drizzle is when rain falls very slowly.",
+    "Listen to that sound, that sound is thunder.",
+    "Take shelter means to go somewhere safe to protect yourself."
+  ]
+}

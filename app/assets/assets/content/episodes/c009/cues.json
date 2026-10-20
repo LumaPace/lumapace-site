@@ -1,0 +1,182 @@
+{
+ "source": "faster-whisper small.en word timestamps aligned to script phrases",
+ "matchedWords": 256,
+ "scriptWords": 268,
+ "cues": [
+  {
+   "start": 8.07,
+   "end": 27.04,
+   "text": "Imagine you\u2019re opening the door and walking into a cozy clothing store."
+  },
+  {
+   "start": 26.89,
+   "end": 28.72,
+   "text": "Listen."
+  },
+  {
+   "start": 28.57,
+   "end": 65.06,
+   "text": "You can hear the soft sounds of the store around you."
+  },
+  {
+   "start": 64.91,
+   "end": 86.76,
+   "text": "You slowly walk past the racks of clothes."
+  },
+  {
+   "start": 86.61,
+   "end": 117.78,
+   "text": "A rack is a structure where clothes hang in the store."
+  },
+  {
+   "start": 117.63,
+   "end": 131.0,
+   "text": "You stop and look at a few jackets."
+  },
+  {
+   "start": 130.85,
+   "end": 135.36,
+   "text": "You gently run your hand over the fabric."
+  },
+  {
+   "start": 135.21,
+   "end": 153.5,
+   "text": "There is a beautiful leather jacket that catches your eye."
+  },
+  {
+   "start": 153.35,
+   "end": 158.88,
+   "text": "To catch your eye \u2014 in the past, caught your eye \u2014"
+  },
+  {
+   "start": 158.73,
+   "end": 191.78,
+   "text": "means to attract your attention because you notice or like something."
+  },
+  {
+   "start": 191.63,
+   "end": 207.72,
+   "text": "You take the jacket off the rack and look at the tag."
+  },
+  {
+   "start": 207.57,
+   "end": 214.16,
+   "text": "A tag is a small label attached to clothing that usually shows"
+  },
+  {
+   "start": 214.01,
+   "end": 221.92,
+   "text": "information like the size or price."
+  },
+  {
+   "start": 221.77,
+   "end": 230.22,
+   "text": "It\u2019s your size."
+  },
+  {
+   "start": 230.07,
+   "end": 245.72,
+   "text": "You decide to try it on."
+  },
+  {
+   "start": 245.57,
+   "end": 281.46,
+   "text": "To try something on means to put on clothes to see how they look or fit."
+  },
+  {
+   "start": 281.31,
+   "end": 304.64,
+   "text": "You walk toward the fitting room."
+  },
+  {
+   "start": 304.49,
+   "end": 326.42,
+   "text": "You step inside, close the door, and slowly put on the jacket."
+  },
+  {
+   "start": 326.27,
+   "end": 326.92,
+   "text": "Listen."
+  },
+  {
+   "start": 326.71,
+   "end": 350.64,
+   "text": "You can hear the quiet sounds of the store outside."
+  },
+  {
+   "start": 350.49,
+   "end": 386.16,
+   "text": "You look at yourself in the mirror, and you love it."
+  },
+  {
+   "start": 386.01,
+   "end": 389.86,
+   "text": "Take a slow breath in\u2026"
+  },
+  {
+   "start": 389.71,
+   "end": 424.32,
+   "text": "and breathe out\u2026"
+  },
+  {
+   "start": 424.17,
+   "end": 450.58,
+   "text": "You change back into your clothes and leave the fitting room."
+  },
+  {
+   "start": 450.43,
+   "end": 472.98,
+   "text": "You walk to the self-checkout and place the jacket down."
+  },
+  {
+   "start": 472.83,
+   "end": 499.7,
+   "text": "The self-checkout is the place where you scan and pay for your items yourself."
+  },
+  {
+   "start": 499.55,
+   "end": 501.86,
+   "text": "Listen."
+  },
+  {
+   "start": 501.71,
+   "end": 512.24,
+   "text": "You\u2019re scanning the jacket."
+  },
+  {
+   "start": 512.09,
+   "end": 522.46,
+   "text": "Now, imagine gently tapping your card on the machine to pay."
+  },
+  {
+   "start": 522.31,
+   "end": 535.04,
+   "text": "Then, you put your jacket in a bag."
+  },
+  {
+   "start": 534.89,
+   "end": 542.66,
+   "text": "Your shopping is done."
+  },
+  {
+   "start": 542.51,
+   "end": 544.98,
+   "text": "Breathe in\u2026"
+  },
+  {
+   "start": 544.83,
+   "end": 557.14,
+   "text": "and breathe out\u2026"
+  },
+  {
+   "start": 556.99,
+   "end": 560.42,
+   "text": "Enjoy the rest of your day."
+  },
+  {
+   "start": 560.27,
+   "end": 563.0,
+   "text": "Bye."
+  }
+ ]
+}

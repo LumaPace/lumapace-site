@@ -1,0 +1,137 @@
+{
+ "source": "faster-whisper small.en word timestamps aligned to script phrases",
+ "matchedWords": 269,
+ "scriptWords": 272,
+ "cues": [
+  {
+   "start": 7.35,
+   "end": 20.24,
+   "text": "Hmm, you just arrived at a comfy hotel."
+  },
+  {
+   "start": 20.09,
+   "end": 33.44,
+   "text": "You look at the lobby, and it has warm, cozy lightning."
+  },
+  {
+   "start": 33.29,
+   "end": 57.58,
+   "text": "The lobby is the area where you find the reception, front desk, seats, and waiting areas."
+  },
+  {
+   "start": 57.43,
+   "end": 61.82,
+   "text": "You walk to the front desk to check in."
+  },
+  {
+   "start": 61.67,
+   "end": 85.44,
+   "text": "It\u2019s a very calm night at the hotel, so the lobby is quiet and peaceful."
+  },
+  {
+   "start": 85.29,
+   "end": 92.22,
+   "text": "You hear the receptionist slowly typing your information into the computer,"
+  },
+  {
+   "start": 92.07,
+   "end": 117.44,
+   "text": "and you receive your room key."
+  },
+  {
+   "start": 117.29,
+   "end": 150.04,
+   "text": "Listen, you get into the elevator and press the button for the right floor."
+  },
+  {
+   "start": 149.89,
+   "end": 154.9,
+   "text": "When you arrive, the elevator stops."
+  },
+  {
+   "start": 154.75,
+   "end": 159.38,
+   "text": "The hotel hallway smells so nice,"
+  },
+  {
+   "start": 159.23,
+   "end": 179.12,
+   "text": "and it feels so peaceful that you walk through it slowly."
+  },
+  {
+   "start": 178.97,
+   "end": 187.6,
+   "text": "A hallway is a long passage inside a building, with doors or rooms along it."
+  },
+  {
+   "start": 187.45,
+   "end": 204.88,
+   "text": "It can also be called a corridor."
+  },
+  {
+   "start": 204.73,
+   "end": 217.82,
+   "text": "You open the door to your room and see a big, comfy bed."
+  },
+  {
+   "start": 217.67,
+   "end": 222.6,
+   "text": "The bed looks so soft and inviting."
+  },
+  {
+   "start": 222.45,
+   "end": 236.84,
+   "text": "It has clean white sheets, fluffy pillows, and a warm blanket."
+  },
+  {
+   "start": 236.69,
+   "end": 239.14,
+   "text": "Sheets cover the bed."
+  },
+  {
+   "start": 238.99,
+   "end": 242.34,
+   "text": "You lie on them when you sleep."
+  },
+  {
+   "start": 242.19,
+   "end": 258.86,
+   "text": "They\u2019re usually soft and can be white or other colors."
+  },
+  {
+   "start": 258.71,
+   "end": 261.6,
+   "text": "You appreciate the room for a while,"
+  },
+  {
+   "start": 261.45,
+   "end": 278.2,
+   "text": "and then you go to the bathroom and turn on the faucet to fill the Jacuzzi for a bath."
+  },
+  {
+   "start": 278.05,
+   "end": 299.1,
+   "text": "We usually take a bath in a bathtub or Jacuzzi and take a shower when there is a shower."
+  },
+  {
+   "start": 298.95,
+   "end": 322.8,
+   "text": "When you get into the Jacuzzi, you feel the warm water relaxing all your muscles."
+  },
+  {
+   "start": 322.65,
+   "end": 348.78,
+   "text": "You rest your head on the edge of Jacuzzi and relax as much as possible."
+  },
+  {
+   "start": 348.63,
+   "end": 353.86,
+   "text": "Enjoy this cozy moment at the hotel."
+  },
+  {
+   "start": 353.71,
+   "end": 389.0,
+   "text": "See you soon!"
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "c026",
+  "slug": "sitting-beside-a-river",
+  "title": "Sitting Beside a River",
+  "summary": "From a small stream to a wide river — a quiet water meditation.",
+  "durationSeconds": 652,
+  "access": "premium",
+  "published": true,
+  "number": 24,
+  "catalogNumber": "026",
+  "theme": "river",
+  "script": "Hi. Welcome back.\nWherever you're sitting right now, let yourself sink into it a little. You don't need to fix your posture or find the \"perfect\" position. Just wherever you are, let your body relax.\nClose your eyes if that feels right. Or just soften your gaze, looking at nothing in particular.\nNo effort needed. Just a few minutes, for you.\nBreathe in… and let it go.\nOne more time. In… and out.\nI want you to imagine somewhere quiet today. Not a place you have to build carefully in your mind, just somewhere that feels good. A path, maybe. Trees on either side. The kind of walk that doesn't lead anywhere in particular.\nAnd somewhere along this path, you hear water.\nThe sound of the water is not loud. Just a gentle, constant sound, close by.\nYou follow it, and you find stream. A stream is a small, narrow river. The water flows gently over the small rocks and stones. You can usually see through the clear water. You can see the stones underneath. The sunlight may shine on the water and make it sparkle. So peaceful.\nYou sit down next to the stream. Maybe on the grass or on a rock that's just the right size.\nFor a moment, just watch it. There's nothing complicated happening here. Water moving. Light moving with it. A small, simple sound that doesn't ask anything of you.\nBreathe in. Let your shoulders drop a little more.\nStreams are strange like that. So small, so quiet, and yet they never really stop. They just keep going, around whatever's in the way.\nStay with it a little longer.\nNow imagine getting up, slowly, and walking alongside this same water. Not far. Just following it, the way it curves, the way it moves through the trees.\nAnd little by little, without you really noticing when it happened, the stream has changed. It's wider now. Deeper. The sound is different too, fuller, a little more present.\nThis is a river. A river is what a stream becomes once it grows, much bigger, much deeper, carrying far more water.\nYou find another place to sit, closer to the water now. It moves differently than before. There's more weight to it, more presence. But it's still calm. It's just… more.\nWatch it for a moment. Notice how it doesn't fight anything. Rocks, bends, whatever's in the way, the river just moves around them. It never seems to struggle.\nBreathe in… and out, slowly.\nThere's something almost funny about it, if you think about it. The stream you sat beside a few minutes ago, quiet, small, easy to overlook, is the exact same water as this river in front of you now. Nothing about it changed on purpose. It just kept moving, and it grew.\nMaybe that's worth sitting with for a second.\nYou don’t have to be like a big river all the time. Some days, you’re more like a quiet stream, small, gentle, and making very little sound. On other days, without even trying, you feel stronger, more full of energy, more like this river.\nNeither one is better. They're just different moments of the same water.\nLet yourself stay here a little longer, beside the river. Not thinking about anything in particular. Just noticing how it keeps moving, patiently, the same way it probably has for years, long before you sat down here, and long after you'll leave.\nBreathe in.\nAnd out.\nThere’s something peaceful about water like this. It doesn’t need to know where it’s going. It just keeps flowing, trusting that the way will come.\nYou can borrow a little of that trust right now.\nLet your body feel as relaxed as the river. Not stiff or still like a rock, just calm and steady like moving water. Always moving a little, but never lost.\nA few quiet words, if you'd like them.\nI can be small and quiet, like a stream.\nI can be full and steady, like a river.\nEither way, I'm still moving forward.\nI'm exactly where I need to be right now.\nTake one more slow breath. Let it settle.\nStay beside this river for as long as you like. There's no reason to hurry away from it. The water isn't going anywhere, and neither do you need to.\nWhen you feel like coming back, just start noticing small things again. The weight of your body against whatever's supporting you. The sound of the room around you, if there is one. Your breath, still slow.\nMove your fingers a little first. Then maybe your feet. Nothing sudden.\nAnd when you're ready, just open your eyes. No rush.\nYou can come back to this river anytime, actually. It's always there, somewhere quiet in your mind, whether you need it as a small stream today, or as something fuller, and steadier.\nEither way, you're doing just fine.",
+  "vocabulary": [
+    {
+      "word": "stream",
+      "definition": "a small, narrow flow of water, gentle and light"
+    },
+    {
+      "word": "river",
+      "definition": "a large, wide flow of water, deep and steady"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "practice_1",
+      "sentence": "What is a stream?",
+      "options": [
+        "A small, narrow river",
+        "A deep, still lake",
+        "A wide part of the ocean"
+      ],
+      "correctAnswer": "A small, narrow river"
+    },
+    {
+      "id": "practice_2",
+      "sentence": "How is the river different from the stream?",
+      "options": [
+        "It carries less water",
+        "It is bigger and deeper",
+        "It has stopped moving"
+      ],
+      "correctAnswer": "It is bigger and deeper"
+    },
+    {
+      "id": "practice_3",
+      "sentence": "What does the meditation say about feeling quiet or feeling full of energy?",
+      "options": [
+        "You should always feel full of energy",
+        "Quiet days are always better",
+        "Neither one is better"
+      ],
+      "correctAnswer": "Neither one is better"
+    },
+    {
+      "id": "practice_4",
+      "sentence": "What are you invited to move first when you are ready to come back?",
+      "options": [
+        "Your feet",
+        "Your fingers",
+        "Your shoulders"
+      ],
+      "correctAnswer": "Your fingers"
+    }
+  ],
+  "audioAsset": null,
+  "sourceAudio": "assets/content/episodes/c026/audio.mp3",
+  "audioMd5": "3739b30b0901dfb9416f3af5b64e7ed6",
+  "source": "Google Drive FINALIZADOS 026 (read-only copy, 2026-10-14)",
+  "streamId": "c026"
+}

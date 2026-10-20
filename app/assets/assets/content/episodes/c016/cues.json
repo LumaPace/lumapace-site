@@ -1,0 +1,372 @@
+{
+ "source": "faster-whisper small.en word timestamps aligned to script phrases",
+ "matchedWords": 553,
+ "scriptWords": 557,
+ "cues": [
+  {
+   "start": 0.36,
+   "end": 5.06,
+   "text": "Hi, and welcome back."
+  },
+  {
+   "start": 4.91,
+   "end": 18.1,
+   "text": "Today, we\u2019re going to relax a few parts of your body, one part at a time."
+  },
+  {
+   "start": 17.95,
+   "end": 25.02,
+   "text": "Place your hands on your head and take a deep breath in."
+  },
+  {
+   "start": 24.87,
+   "end": 31.64,
+   "text": "Feel your head under your hands."
+  },
+  {
+   "start": 31.49,
+   "end": 40.48,
+   "text": "As you breathe out, move your hands down a little, just above your eyes."
+  },
+  {
+   "start": 40.33,
+   "end": 44.54,
+   "text": "This is your forehead."
+  },
+  {
+   "start": 44.39,
+   "end": 47.16,
+   "text": "Forehead."
+  },
+  {
+   "start": 47.01,
+   "end": 56.54,
+   "text": "Place your fingers on your forehead and take another slow breath in."
+  },
+  {
+   "start": 56.39,
+   "end": 64.08,
+   "text": "As you breathe out, let your forehead relax."
+  },
+  {
+   "start": 63.93,
+   "end": 68.64,
+   "text": "Let the skin become soft."
+  },
+  {
+   "start": 68.49,
+   "end": 74.34,
+   "text": "You can close your eyes if you like."
+  },
+  {
+   "start": 74.19,
+   "end": 86.82,
+   "text": "Now move your fingers to the sides of your forehead, between your eyes and your ears."
+  },
+  {
+   "start": 86.67,
+   "end": 92.52,
+   "text": "These are your temples."
+  },
+  {
+   "start": 92.37,
+   "end": 95.74,
+   "text": "Temples."
+  },
+  {
+   "start": 95.59,
+   "end": 106.16,
+   "text": "Place your fingers on your temples and slowly move them in small circles."
+  },
+  {
+   "start": 106.01,
+   "end": 108.04,
+   "text": "Breathe in slowly\u2026"
+  },
+  {
+   "start": 107.89,
+   "end": 114.38,
+   "text": "and breathe out."
+  },
+  {
+   "start": 114.23,
+   "end": 124.0,
+   "text": "Keep making small circles and feel your temples relax."
+  },
+  {
+   "start": 123.85,
+   "end": 136.82,
+   "text": "Now move your hands down your face, past your eyes, your nose, and your mouth."
+  },
+  {
+   "start": 136.67,
+   "end": 141.84,
+   "text": "Stop just below your mouth."
+  },
+  {
+   "start": 141.69,
+   "end": 147.14,
+   "text": "This is your chin."
+  },
+  {
+   "start": 146.99,
+   "end": 148.98,
+   "text": "Chin."
+  },
+  {
+   "start": 148.83,
+   "end": 155.48,
+   "text": "Touch your chin and notice how it feels."
+  },
+  {
+   "start": 155.33,
+   "end": 164.2,
+   "text": "Now move your fingers from your chin to the sides of your face."
+  },
+  {
+   "start": 164.05,
+   "end": 168.56,
+   "text": "This is your jaw."
+  },
+  {
+   "start": 168.41,
+   "end": 171.42,
+   "text": "Jaw."
+  },
+  {
+   "start": 171.27,
+   "end": 175.94,
+   "text": "Place your fingers on your jaw."
+  },
+  {
+   "start": 175.79,
+   "end": 185.02,
+   "text": "Sometimes, when we feel stressed, our jaw becomes tight without us noticing."
+  },
+  {
+   "start": 184.87,
+   "end": 187.52,
+   "text": "Take a slow breath in\u2026"
+  },
+  {
+   "start": 187.37,
+   "end": 193.58,
+   "text": "and breathe out."
+  },
+  {
+   "start": 193.43,
+   "end": 197.6,
+   "text": "Let your jaw relax."
+  },
+  {
+   "start": 197.45,
+   "end": 201.2,
+   "text": "Let your mouth open a little."
+  },
+  {
+   "start": 201.05,
+   "end": 209.08,
+   "text": "Feeling the tension slowly go away."
+  },
+  {
+   "start": 208.93,
+   "end": 215.3,
+   "text": "Take another slow breath in\u2026"
+  },
+  {
+   "start": 215.15,
+   "end": 226.9,
+   "text": "and as you breathe out, let your jaw become soft and relaxed."
+  },
+  {
+   "start": 226.75,
+   "end": 239.04,
+   "text": "Now move both hands out to the top of your body, where your arms begin."
+  },
+  {
+   "start": 238.89,
+   "end": 244.18,
+   "text": "These are your shoulders."
+  },
+  {
+   "start": 244.03,
+   "end": 246.74,
+   "text": "Shoulders."
+  },
+  {
+   "start": 246.59,
+   "end": 253.28,
+   "text": "We also carry a lot of tension in our shoulders."
+  },
+  {
+   "start": 253.13,
+   "end": 256.3,
+   "text": "Take a deep breath in\u2026"
+  },
+  {
+   "start": 256.15,
+   "end": 265.9,
+   "text": "and as you breathe out, let your shoulders drop."
+  },
+  {
+   "start": 265.75,
+   "end": 276.82,
+   "text": "Stay here for a moment and notice all these parts of your body together."
+  },
+  {
+   "start": 276.67,
+   "end": 281.3,
+   "text": "Relax your forehead."
+  },
+  {
+   "start": 281.15,
+   "end": 286.04,
+   "text": "Relax your temples."
+  },
+  {
+   "start": 285.89,
+   "end": 291.24,
+   "text": "Let your jaw become soft."
+  },
+  {
+   "start": 291.09,
+   "end": 297.16,
+   "text": "Let your shoulders drop."
+  },
+  {
+   "start": 297.01,
+   "end": 304.02,
+   "text": "Take one more slow breath in\u2026"
+  },
+  {
+   "start": 303.87,
+   "end": 310.46,
+   "text": "and breathe out."
+  },
+  {
+   "start": 310.31,
+   "end": 316.86,
+   "text": "Notice how these parts of your body feel now."
+  },
+  {
+   "start": 316.71,
+   "end": 321.24,
+   "text": "Maybe they feel a little softer."
+  },
+  {
+   "start": 321.09,
+   "end": 326.62,
+   "text": "Maybe a little lighter."
+  },
+  {
+   "start": 326.47,
+   "end": 336.98,
+   "text": "Just stay here for a moment and enjoy this feeling."
+  },
+  {
+   "start": 336.83,
+   "end": 344.52,
+   "text": "You learned more words than usual today, but don\u2019t worry about remembering them all."
+  },
+  {
+   "start": 344.37,
+   "end": 353.64,
+   "text": "We\u2019ll use these words again in other meditations, especially the most important ones."
+  },
+  {
+   "start": 353.49,
+   "end": 360.8,
+   "text": "That\u2019s why it\u2019s important to make these meditations a habit."
+  },
+  {
+   "start": 360.65,
+   "end": 367.74,
+   "text": "The more you practice, the more you\u2019ll hear the same words again."
+  },
+  {
+   "start": 367.59,
+   "end": 377.06,
+   "text": "Little by little, you\u2019ll start to remember them naturally, without trying too hard."
+  },
+  {
+   "start": 376.91,
+   "end": 387.84,
+   "text": "For example, \u201cdrop your shoulders.\u201d You\u2019ll hear this phrase many times in our meditations."
+  },
+  {
+   "start": 387.69,
+   "end": 396.26,
+   "text": "With time, these words and phrases will start to stay in your mind."
+  },
+  {
+   "start": 396.11,
+   "end": 400.02,
+   "text": "There\u2019s no rush."
+  },
+  {
+   "start": 399.87,
+   "end": 407.16,
+   "text": "Now, let\u2019s go back to your forehead."
+  },
+  {
+   "start": 407.01,
+   "end": 414.28,
+   "text": "Place your whole hand on your forehead and repeat:"
+  },
+  {
+   "start": 414.13,
+   "end": 421.9,
+   "text": "\u201cI can relax my forehead when I need to.\u201d"
+  },
+  {
+   "start": 421.75,
+   "end": 426.84,
+   "text": "Notice how your body feels now."
+  },
+  {
+   "start": 426.69,
+   "end": 436.36,
+   "text": "Your forehead, your temples, your jaw, and your shoulders."
+  },
+  {
+   "start": 436.21,
+   "end": 441.54,
+   "text": "You don\u2019t need to remember every word right away."
+  },
+  {
+   "start": 441.39,
+   "end": 449.32,
+   "text": "Your body is already starting to connect these words with the places you\u2019ve touched."
+  },
+  {
+   "start": 449.17,
+   "end": 454.24,
+   "text": "Take one last slow breath in\u2026"
+  },
+  {
+   "start": 454.09,
+   "end": 461.36,
+   "text": "and breathe out."
+  },
+  {
+   "start": 461.21,
+   "end": 469.3,
+   "text": "When you\u2019re ready, slowly open your eyes."
+  },
+  {
+   "start": 469.15,
+   "end": 476.54,
+   "text": "Carry this relaxed feeling with you as you continue your day."
+  },
+  {
+   "start": 476.39,
+   "end": 484.64,
+   "text": "And remember, there\u2019s no rush."
+  },
+  {
+   "start": 484.49,
+   "end": 498.0,
+   "text": "One breath, one word, and one meditation at a time."
+  }
+ ]
+}

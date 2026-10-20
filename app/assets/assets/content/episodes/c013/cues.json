@@ -1,0 +1,537 @@
+{
+ "source": "faster-whisper small.en word timestamps aligned to script phrases",
+ "matchedWords": 848,
+ "scriptWords": 855,
+ "cues": [
+  {
+   "start": 0,
+   "end": 3.16,
+   "text": "Hi there."
+  },
+  {
+   "start": 3.01,
+   "end": 10.74,
+   "text": "Welcome to this Meditation After Making a Mistake."
+  },
+  {
+   "start": 10.59,
+   "end": 20.08,
+   "text": "Wherever you are right now, however your day has gone, let yourself arrive here anyway."
+  },
+  {
+   "start": 19.93,
+   "end": 25.28,
+   "text": "No need to feel a certain way before we begin."
+  },
+  {
+   "start": 25.13,
+   "end": 34.08,
+   "text": "Close your eyes, or keep them open and look softly in front of you."
+  },
+  {
+   "start": 33.93,
+   "end": 37.32,
+   "text": "Nothing to prepare for."
+  },
+  {
+   "start": 37.17,
+   "end": 41.56,
+   "text": "Nothing to fix right this second."
+  },
+  {
+   "start": 41.41,
+   "end": 47.44,
+   "text": "Just you, and a quiet few minutes."
+  },
+  {
+   "start": 47.29,
+   "end": 51.36,
+   "text": "Take a deep breath in."
+  },
+  {
+   "start": 51.21,
+   "end": 63.14,
+   "text": "And exhale, letting your shoulders drop a little as you do."
+  },
+  {
+   "start": 62.99,
+   "end": 66.24,
+   "text": "One more time."
+  },
+  {
+   "start": 66.09,
+   "end": 77.14,
+   "text": "Breathe in and Breathe out."
+  },
+  {
+   "start": 76.99,
+   "end": 81.74,
+   "text": "I want you to bring something to mind."
+  },
+  {
+   "start": 81.59,
+   "end": 83.66,
+   "text": "A mistake."
+  },
+  {
+   "start": 83.51,
+   "end": 89.58,
+   "text": "Recent, maybe, or one that's been sitting with you for a while."
+  },
+  {
+   "start": 89.43,
+   "end": 98.38,
+   "text": "Something you did, or said, or forgot to do, or that you wish had gone differently."
+  },
+  {
+   "start": 98.23,
+   "end": 102.98,
+   "text": "You don't need to relive every detail."
+  },
+  {
+   "start": 102.83,
+   "end": 110.72,
+   "text": "Just let the general shape of it sit in your mind for a moment."
+  },
+  {
+   "start": 110.57,
+   "end": 115.52,
+   "text": "Breathe in slowly."
+  },
+  {
+   "start": 115.37,
+   "end": 121.09,
+   "text": "Notice how your body feels when you think about it."
+  },
+  {
+   "start": 120.94,
+   "end": 125.19,
+   "text": "Maybe your stomach feels uncomfortable."
+  },
+  {
+   "start": 125.04,
+   "end": 129.07,
+   "text": "Maybe you press your teeth together a little."
+  },
+  {
+   "start": 128.92,
+   "end": 135.61,
+   "text": "This feeling is part of something called regret."
+  },
+  {
+   "start": 135.46,
+   "end": 141.81,
+   "text": "To regret something means you wish you had made a different choice"
+  },
+  {
+   "start": 141.66,
+   "end": 144.59,
+   "text": "or done something differently."
+  },
+  {
+   "start": 144.44,
+   "end": 153.05,
+   "text": "Sometimes, you think about it again and again and you wish you could change what happened."
+  },
+  {
+   "start": 152.9,
+   "end": 156.55,
+   "text": "No need to push it away yet."
+  },
+  {
+   "start": 156.4,
+   "end": 159.45,
+   "text": "Just see it clearly,"
+  },
+  {
+   "start": 159.3,
+   "end": 169.71,
+   "text": "the way you'd notice a weight you'd been carrying without realizing how heavy it had become."
+  },
+  {
+   "start": 169.56,
+   "end": 177.27,
+   "text": "Breathe out slowly."
+  },
+  {
+   "start": 177.12,
+   "end": 182.87,
+   "text": "Regret can come back again and again."
+  },
+  {
+   "start": 182.72,
+   "end": 186.99,
+   "text": "It often comes when everything is quiet."
+  },
+  {
+   "start": 186.84,
+   "end": 192.99,
+   "text": "Your mind may remember what happened and ask the same question:"
+  },
+  {
+   "start": 192.84,
+   "end": 198.41,
+   "text": "\u201cWhat if I had done something differently?\u201d"
+  },
+  {
+   "start": 198.26,
+   "end": 202.61,
+   "text": "But notice something important."
+  },
+  {
+   "start": 202.46,
+   "end": 206.05,
+   "text": "That moment is over."
+  },
+  {
+   "start": 205.9,
+   "end": 208.89,
+   "text": "It already happened."
+  },
+  {
+   "start": 208.74,
+   "end": 212.15,
+   "text": "The mistake is not happening now."
+  },
+  {
+   "start": 212.0,
+   "end": 217.93,
+   "text": "What you have now is only the thought of it coming back to your mind."
+  },
+  {
+   "start": 217.78,
+   "end": 222.07,
+   "text": "You are here, in this moment."
+  },
+  {
+   "start": 221.92,
+   "end": 228.29,
+   "text": "You cannot change what already happened."
+  },
+  {
+   "start": 228.14,
+   "end": 232.65,
+   "text": "Breathe in."
+  },
+  {
+   "start": 232.5,
+   "end": 235.51,
+   "text": "Let's try something."
+  },
+  {
+   "start": 235.36,
+   "end": 242.15,
+   "text": "Picture that mistake, whatever it was, as an object for a second."
+  },
+  {
+   "start": 242.0,
+   "end": 248.77,
+   "text": "Maybe it's a stone, heavy, and rough, sitting in your hands."
+  },
+  {
+   "start": 248.62,
+   "end": 252.89,
+   "text": "You've been holding this stone for a while now."
+  },
+  {
+   "start": 252.74,
+   "end": 261.19,
+   "text": "Maybe you've been looking at it again and again, thinking about every part of it."
+  },
+  {
+   "start": 261.04,
+   "end": 268.23,
+   "text": "Breathe out slowly."
+  },
+  {
+   "start": 268.08,
+   "end": 273.01,
+   "text": "Notice, you can set it down."
+  },
+  {
+   "start": 272.86,
+   "end": 280.49,
+   "text": "Not because the mistake didn't matter, not because you're pretending it didn't happen."
+  },
+  {
+   "start": 280.34,
+   "end": 287.23,
+   "text": "Just because holding it any longer isn't changing what already happened."
+  },
+  {
+   "start": 287.08,
+   "end": 293.41,
+   "text": "It\u2019s only making your hands tired."
+  },
+  {
+   "start": 293.26,
+   "end": 297.39,
+   "text": "Breathe in, and as you do so,"
+  },
+  {
+   "start": 297.24,
+   "end": 305.85,
+   "text": "imagine your hands slowly opening and letting go of the stone."
+  },
+  {
+   "start": 305.7,
+   "end": 313.23,
+   "text": "Breathe out, and let the stone rest on the ground beside you,"
+  },
+  {
+   "start": 313.08,
+   "end": 318.77,
+   "text": "still there if you ever need to look at it again,"
+  },
+  {
+   "start": 318.62,
+   "end": 325.63,
+   "text": "but no longer something you have to carry constantly."
+  },
+  {
+   "start": 325.48,
+   "end": 332.85,
+   "text": "Notice your hands now, a little lighter."
+  },
+  {
+   "start": 332.7,
+   "end": 340.07,
+   "text": "Breathe in slowly."
+  },
+  {
+   "start": 339.92,
+   "end": 344.99,
+   "text": "This is what it means to move on."
+  },
+  {
+   "start": 344.84,
+   "end": 351.33,
+   "text": "To move on doesn't mean forgetting, or pretending something didn't happen."
+  },
+  {
+   "start": 351.18,
+   "end": 356.21,
+   "text": "It means you've let the weight of it settle down,"
+  },
+  {
+   "start": 356.06,
+   "end": 363.59,
+   "text": "so you can keep walking forward without carrying it in your hands the entire time."
+  },
+  {
+   "start": 363.44,
+   "end": 370.87,
+   "text": "Think of it like closing a door gently behind you, not slamming it, not locking it,"
+  },
+  {
+   "start": 370.72,
+   "end": 380.65,
+   "text": "just closing it, so you can keep walking down the hallway ahead of you."
+  },
+  {
+   "start": 380.5,
+   "end": 386.01,
+   "text": "Breathe out completely."
+  },
+  {
+   "start": 385.86,
+   "end": 395.37,
+   "text": "Ask yourself, gently, what did this mistake teach you?"
+  },
+  {
+   "start": 395.22,
+   "end": 402.55,
+   "text": "Not to punish yourself with the answer, just to notice it."
+  },
+  {
+   "start": 402.4,
+   "end": 406.57,
+   "text": "Maybe it taught you something about patience."
+  },
+  {
+   "start": 406.42,
+   "end": 410.19,
+   "text": "Maybe about communication."
+  },
+  {
+   "start": 410.04,
+   "end": 418.03,
+   "text": "Maybe simply that you're human, and humans get things wrong sometimes, without exception,"
+  },
+  {
+   "start": 417.88,
+   "end": 421.63,
+   "text": "everybody does."
+  },
+  {
+   "start": 421.48,
+   "end": 427.59,
+   "text": "Breathe in slowly."
+  },
+  {
+   "start": 427.44,
+   "end": 435.27,
+   "text": "Keep the lesson with you, like something small and useful in your pocket."
+  },
+  {
+   "start": 435.12,
+   "end": 439.53,
+   "text": "But leave the heavy stone behind."
+  },
+  {
+   "start": 439.38,
+   "end": 447.27,
+   "text": "Let the regret stay there, on the ground, where you put it down."
+  },
+  {
+   "start": 447.12,
+   "end": 456.99,
+   "text": "You can keep the lesson without carrying the regret."
+  },
+  {
+   "start": 456.84,
+   "end": 463.49,
+   "text": "Breathe out slowly."
+  },
+  {
+   "start": 463.34,
+   "end": 466.63,
+   "text": "You can look back at the stone anytime you want."
+  },
+  {
+   "start": 466.48,
+   "end": 469.37,
+   "text": "It's still there."
+  },
+  {
+   "start": 469.22,
+   "end": 472.47,
+   "text": "But you don't need to carry it with you all the time."
+  },
+  {
+   "start": 472.32,
+   "end": 479.93,
+   "text": "You don't need to think about what happened again and again."
+  },
+  {
+   "start": 479.78,
+   "end": 485.39,
+   "text": "Now, imagine walking a little farther down the hallway."
+  },
+  {
+   "start": 485.24,
+   "end": 493.47,
+   "text": "Your hands are empty, and you feel a little lighter."
+  },
+  {
+   "start": 493.32,
+   "end": 498.05,
+   "text": "Breathe in."
+  },
+  {
+   "start": 497.9,
+   "end": 508.57,
+   "text": "Now, you can repeat these phrases out loud or just in your mind."
+  },
+  {
+   "start": 508.42,
+   "end": 511.91,
+   "text": "I made a mistake."
+  },
+  {
+   "start": 511.76,
+   "end": 517.69,
+   "text": "That doesn't make me a mistake."
+  },
+  {
+   "start": 517.54,
+   "end": 526.01,
+   "text": "I am allowed to move on, even before I feel completely ready."
+  },
+  {
+   "start": 525.86,
+   "end": 530.87,
+   "text": "The moment already ended."
+  },
+  {
+   "start": 530.72,
+   "end": 537.33,
+   "text": "I don't have to keep living inside it."
+  },
+  {
+   "start": 537.18,
+   "end": 547.53,
+   "text": "I am walking forward, lighter, with every breath."
+  },
+  {
+   "start": 547.38,
+   "end": 553.65,
+   "text": "Take one more slow breath in."
+  },
+  {
+   "start": 553.5,
+   "end": 561.15,
+   "text": "And breathe out, completely."
+  },
+  {
+   "start": 561.0,
+   "end": 570.11,
+   "text": "When you're ready to come back, start noticing small, real things around you."
+  },
+  {
+   "start": 569.96,
+   "end": 573.99,
+   "text": "Whatever is supporting your body right now."
+  },
+  {
+   "start": 573.84,
+   "end": 576.67,
+   "text": "Any sound nearby."
+  },
+  {
+   "start": 576.52,
+   "end": 584.75,
+   "text": "Your breath, still slow, still yours."
+  },
+  {
+   "start": 584.6,
+   "end": 589.83,
+   "text": "Move your fingers first, gently."
+  },
+  {
+   "start": 589.68,
+   "end": 593.51,
+   "text": "Then your feet."
+  },
+  {
+   "start": 593.36,
+   "end": 602.05,
+   "text": "Whenever it feels right, let your eyes open."
+  },
+  {
+   "start": 601.9,
+   "end": 608.47,
+   "text": "Carry this with you, into the rest of your day."
+  },
+  {
+   "start": 608.32,
+   "end": 617.53,
+   "text": "Regret may still visit sometimes, quietly, that's alright,"
+  },
+  {
+   "start": 617.38,
+   "end": 622.49,
+   "text": "it's simply part of being human."
+  },
+  {
+   "start": 622.34,
+   "end": 635.25,
+   "text": "But now you know, a little more clearly, how to set it down gently, and keep moving on,"
+  },
+  {
+   "start": 635.1,
+   "end": 673.0,
+   "text": "one step at a time."
+  }
+ ]
+}

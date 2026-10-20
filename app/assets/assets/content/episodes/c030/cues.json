@@ -1,0 +1,132 @@
+{
+ "source": "faster-whisper small.en word timestamps aligned to script phrases",
+ "matchedWords": 229,
+ "scriptWords": 238,
+ "cues": [
+  {
+   "start": 5.18,
+   "end": 11.39,
+   "text": "Imagine you've just arrived at your vacation destination."
+  },
+  {
+   "start": 11.24,
+   "end": 25.85,
+   "text": "Picture your dream city."
+  },
+  {
+   "start": 25.7,
+   "end": 40.21,
+   "text": "Take a moment to look around."
+  },
+  {
+   "start": 40.06,
+   "end": 58.18,
+   "text": "Now, imagine you\u2019re getting out of a taxi."
+  },
+  {
+   "start": 58.03,
+   "end": 69.46,
+   "text": "Today, you're going sightseeing in your favorite city."
+  },
+  {
+   "start": 69.31,
+   "end": 86.11,
+   "text": "To go sightseeing means to visit famous or interesting places as a tourist."
+  },
+  {
+   "start": 85.96,
+   "end": 104.04,
+   "text": "You look around and notice a beautiful museum nearby."
+  },
+  {
+   "start": 103.89,
+   "end": 108.24,
+   "text": "You slowly walk toward it,"
+  },
+  {
+   "start": 108.09,
+   "end": 143.11,
+   "text": "stop in front of the museum and take out your phone to take a few pictures."
+  },
+  {
+   "start": 142.96,
+   "end": 156.21,
+   "text": "You turn on burst mode to capture your best pose."
+  },
+  {
+   "start": 156.06,
+   "end": 162.11,
+   "text": "The burst mode is when you take many photos, one after the other,"
+  },
+  {
+   "start": 161.96,
+   "end": 173.32,
+   "text": "super fast while you hold down the button."
+  },
+  {
+   "start": 173.17,
+   "end": 191.43,
+   "text": "Now imagine that you walk toward an impressive historical monument."
+  },
+  {
+   "start": 191.28,
+   "end": 195.67,
+   "text": "A monument is a large structure, building,"
+  },
+  {
+   "start": 195.52,
+   "end": 213.5,
+   "text": "or statue built to remind people of an important person or historical event."
+  },
+  {
+   "start": 213.35,
+   "end": 232.11,
+   "text": "You stop to admire this monument, and it gives you a sense of peace."
+  },
+  {
+   "start": 231.96,
+   "end": 251.66,
+   "text": "Listen, you can hear only a few people taking pictures because it's slow season."
+  },
+  {
+   "start": 251.51,
+   "end": 267.7,
+   "text": "Low-season is the time of year when fewer people travel."
+  },
+  {
+   "start": 267.55,
+   "end": 273.0,
+   "text": "A few of them are taking pictures, others are having a conversation,"
+  },
+  {
+   "start": 272.85,
+   "end": 293.62,
+   "text": "and you're just enjoying this relaxing day."
+  },
+  {
+   "start": 293.47,
+   "end": 298.71,
+   "text": "Now, imagine finding a quiet caf\u00e9 nearby."
+  },
+  {
+   "start": 298.56,
+   "end": 336.35,
+   "text": "You sit down, order your favorite drink, and look through the pictures you took today."
+  },
+  {
+   "start": 336.2,
+   "end": 339.99,
+   "text": "Your day of sightseeing is coming to an end,"
+  },
+  {
+   "start": 339.84,
+   "end": 368.95,
+   "text": "but you'll have all these memories\u2014and photos\u2014to take home with you."
+  },
+  {
+   "start": 368.8,
+   "end": 409.0,
+   "text": "Bye."
+  }
+ ]
+}

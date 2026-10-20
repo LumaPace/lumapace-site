@@ -1,0 +1,82 @@
+{
+  "id": "c016",
+  "slug": "relaxing-parts-of-your-body",
+  "title": "Relaxing Parts of Your Body",
+  "summary": "Relax one part at a time: forehead, temples, chin, jaw, shoulders.",
+  "durationSeconds": 498,
+  "access": "premium",
+  "published": true,
+  "number": 16,
+  "catalogNumber": "016",
+  "theme": "candle",
+  "script": "Hi, and welcome back. Today, we’re going to relax a few parts of your body, one part at a time.\nPlace your hands on your head and take a deep breath in. Feel your head under your hands.\nAs you breathe out, move your hands down a little, just above your eyes. This is your forehead. Forehead.\nPlace your fingers on your forehead and take another slow breath in. As you breathe out, let your forehead relax. Let the skin become soft. You can close your eyes if you like.\nNow move your fingers to the sides of your forehead, between your eyes and your ears. These are your temples. Temples.\nPlace your fingers on your temples and slowly move them in small circles. Breathe in slowly… and breathe out. Keep making small circles and feel your temples relax.\nNow move your hands down your face, past your eyes, your nose, and your mouth. Stop just below your mouth. This is your chin. Chin. Touch your chin and notice how it feels.\nNow move your fingers from your chin to the sides of your face. This is your jaw. Jaw.\nPlace your fingers on your jaw. Sometimes, when we feel stressed, our jaw becomes tight without us noticing.\nTake a slow breath in… and breathe out.\nLet your jaw relax. Let your mouth open a little. Feeling the tension slowly go away.\nTake another slow breath in… and as you breathe out, let your jaw become soft and relaxed.\nNow move both hands out to the top of your body, where your arms begin. These are your shoulders. Shoulders.\nWe also carry a lot of tension in our shoulders. Take a deep breath in… and as you breathe out, let your shoulders drop.\nStay here for a moment and notice all these parts of your body together.\nRelax your forehead.\nRelax your temples.\nLet your jaw become soft.\nLet your shoulders drop.\nTake one more slow breath in…\nand breathe out.\nNotice how these parts of your body feel now. Maybe they feel a little softer. Maybe a little lighter.\nJust stay here for a moment and enjoy this feeling.\nYou learned more words than usual today, but don’t worry about remembering them all. We’ll use these words again in other meditations, especially the most important ones.\nThat’s why it’s important to make these meditations a habit. The more you practice, the more you’ll hear the same words again. Little by little, you’ll start to remember them naturally, without trying too hard.\nFor example, “drop your shoulders.” You’ll hear this phrase many times in our meditations. With time, these words and phrases will start to stay in your mind. There’s no rush.\nNow, let’s go back to your forehead. Place your whole hand on your forehead and repeat:\n“I can relax my forehead when I need to.”\nNotice how your body feels now.\nYour forehead, your temples, your jaw, and your shoulders.\nYou don’t need to remember every word right away. Your body is already starting to connect these words with the places you’ve touched.\nTake one last slow breath in… and breathe out.\nWhen you’re ready, slowly open your eyes. Carry this relaxed feeling with you as you continue your day.\nAnd remember, there’s no rush. One breath, one word, and one meditation at a time.",
+  "vocabulary": [
+    {
+      "word": "forehead",
+      "definition": "the part of your face just above your eyes"
+    },
+    {
+      "word": "temples",
+      "definition": "the sides of your forehead, between your eyes and your ears"
+    },
+    {
+      "word": "chin",
+      "definition": "the part of your face just below your mouth"
+    },
+    {
+      "word": "jaw",
+      "definition": "the sides of your face below your mouth"
+    },
+    {
+      "word": "shoulders",
+      "definition": "the top of your body, where your arms begin"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "practice_1",
+      "sentence": "Which part of your face is your forehead?",
+      "options": [
+        "The part just below your mouth",
+        "The area above your eyes",
+        "The area around your ears"
+      ],
+      "correctAnswer": "The area above your eyes"
+    },
+    {
+      "id": "practice_2",
+      "sentence": "Where are your temples?",
+      "options": [
+        "On the sides of your forehead, between your eyes and ears",
+        "Below your mouth",
+        "Where your arms begin"
+      ],
+      "correctAnswer": "On the sides of your forehead, between your eyes and ears"
+    },
+    {
+      "id": "practice_3",
+      "sentence": "Which sentence correctly describes your chin and jaw?",
+      "options": [
+        "Your chin is above your eyes, and your jaw is between your eyes and ears.",
+        "Your chin is where your arms begin, and your jaw is above your eyes.",
+        "Your chin is just below your mouth, and your jaw extends along the lower sides of your face."
+      ],
+      "correctAnswer": "Your chin is just below your mouth, and your jaw extends along the lower sides of your face."
+    },
+    {
+      "id": "practice_4",
+      "sentence": "In this meditation, what does “drop your shoulders” mean?",
+      "options": [
+        "Lift your shoulders toward your ears",
+        "Let your shoulders move down and relax",
+        "Move your hands to your forehead"
+      ],
+      "correctAnswer": "Let your shoulders move down and relax"
+    }
+  ],
+  "audioAsset": null,
+  "sourceAudio": "assets/content/episodes/c016/audio.mp3",
+  "audioMd5": "b4c36937f5a55b37c012bb4bd5bd24f2",
+  "source": "Google Drive FINALIZADOS 016 (read-only copy, 2026-10-14)",
+  "streamId": "c016"
+}

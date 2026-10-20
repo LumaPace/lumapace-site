@@ -1,0 +1,467 @@
+{
+ "source": "faster-whisper small.en word timestamps aligned to script phrases",
+ "matchedWords": 731,
+ "scriptWords": 735,
+ "cues": [
+  {
+   "start": 8.03,
+   "end": 13.34,
+   "text": "Imagine you're going to have a stressful conversation."
+  },
+  {
+   "start": 13.19,
+   "end": 16.58,
+   "text": "Maybe you need to say something difficult."
+  },
+  {
+   "start": 16.43,
+   "end": 21.86,
+   "text": "Maybe you're worried about what the other person will say or think."
+  },
+  {
+   "start": 21.71,
+   "end": 26.82,
+   "text": "Or maybe you simply don't know how the conversation will go."
+  },
+  {
+   "start": 26.67,
+   "end": 36.12,
+   "text": "Before you have that conversation, take a few minutes for yourself."
+  },
+  {
+   "start": 35.97,
+   "end": 42.24,
+   "text": "Find a comfortable position and let your body relax."
+  },
+  {
+   "start": 42.09,
+   "end": 46.06,
+   "text": "You need this moment."
+  },
+  {
+   "start": 45.91,
+   "end": 52.04,
+   "text": "If you like, close your eyes."
+  },
+  {
+   "start": 51.89,
+   "end": 58.44,
+   "text": "For now, you don't need to plan what you're going to say."
+  },
+  {
+   "start": 58.29,
+   "end": 64.14,
+   "text": "You don't need to imagine what the other person might say."
+  },
+  {
+   "start": 63.99,
+   "end": 71.02,
+   "text": "Just take a slow breath in\u2026"
+  },
+  {
+   "start": 70.87,
+   "end": 75.18,
+   "text": "and breathe out."
+  },
+  {
+   "start": 75.03,
+   "end": 80.96,
+   "text": "Again, breathe in\u2026"
+  },
+  {
+   "start": 80.81,
+   "end": 86.22,
+   "text": "and slowly breathe out."
+  },
+  {
+   "start": 86.07,
+   "end": 93.12,
+   "text": "This conversation can wait for a few minutes."
+  },
+  {
+   "start": 92.97,
+   "end": 98.06,
+   "text": "Right now, you're here."
+  },
+  {
+   "start": 97.91,
+   "end": 104.54,
+   "text": "Just you and your breath."
+  },
+  {
+   "start": 104.39,
+   "end": 111.24,
+   "text": "Notice how your body feels when you think about this conversation."
+  },
+  {
+   "start": 111.09,
+   "end": 114.28,
+   "text": "Maybe your heart beats a little faster."
+  },
+  {
+   "start": 114.13,
+   "end": 117.04,
+   "text": "Maybe your hands start to move."
+  },
+  {
+   "start": 116.89,
+   "end": 119.58,
+   "text": "Maybe your body feels tense."
+  },
+  {
+   "start": 119.43,
+   "end": 122.02,
+   "text": "That's normal."
+  },
+  {
+   "start": 121.87,
+   "end": 131.5,
+   "text": "Sometimes, our body reacts to a difficult conversation before we even start talking."
+  },
+  {
+   "start": 131.35,
+   "end": 135.48,
+   "text": "Exhale slowly."
+  },
+  {
+   "start": 135.33,
+   "end": 142.3,
+   "text": "Now, think about what you need to say."
+  },
+  {
+   "start": 142.15,
+   "end": 147.26,
+   "text": "Maybe there's something important you need to bring up."
+  },
+  {
+   "start": 147.11,
+   "end": 152.82,
+   "text": "To bring up something means to start talking about a topic,"
+  },
+  {
+   "start": 152.67,
+   "end": 157.24,
+   "text": "especially something you haven't talked about yet."
+  },
+  {
+   "start": 157.09,
+   "end": 162.62,
+   "text": "For example, maybe a friend did something that bothered you,"
+  },
+  {
+   "start": 162.47,
+   "end": 165.7,
+   "text": "and you want to talk about it."
+  },
+  {
+   "start": 165.55,
+   "end": 171.16,
+   "text": "You could say, \u201cThere's something I want to bring up\u201d,"
+  },
+  {
+   "start": 171.01,
+   "end": 178.12,
+   "text": "which means \u201cthere's something I need to talk about.\u201d"
+  },
+  {
+   "start": 177.97,
+   "end": 182.54,
+   "text": "Take a slow breath in."
+  },
+  {
+   "start": 182.39,
+   "end": 189.42,
+   "text": "Think about what you might need to bring up in your conversation."
+  },
+  {
+   "start": 189.27,
+   "end": 194.1,
+   "text": "Imagine you're sitting across from the other person."
+  },
+  {
+   "start": 193.95,
+   "end": 199.4,
+   "text": "There's something you want to talk about, but you haven't said it yet."
+  },
+  {
+   "start": 199.25,
+   "end": 204.28,
+   "text": "When you're ready, you introduce the topic."
+  },
+  {
+   "start": 204.13,
+   "end": 207.7,
+   "text": "You bring it up."
+  },
+  {
+   "start": 207.55,
+   "end": 213.88,
+   "text": "Now it's something you can both talk about together."
+  },
+  {
+   "start": 213.73,
+   "end": 220.5,
+   "text": "Think, quietly, about how you'll bring the topic up."
+  },
+  {
+   "start": 220.35,
+   "end": 227.6,
+   "text": "Not the perfect words yet, just the feeling of it."
+  },
+  {
+   "start": 227.45,
+   "end": 228.76,
+   "text": "Steady."
+  },
+  {
+   "start": 228.61,
+   "end": 230.9,
+   "text": "Direct."
+  },
+  {
+   "start": 230.75,
+   "end": 239.32,
+   "text": "Calm, like someone setting something down gently, rather than dropping it suddenly,"
+  },
+  {
+   "start": 239.17,
+   "end": 244.86,
+   "text": "or hiding it a moment longer."
+  },
+  {
+   "start": 244.71,
+   "end": 248.74,
+   "text": "Inhale."
+  },
+  {
+   "start": 248.59,
+   "end": 252.94,
+   "text": "Now, here's something equally important."
+  },
+  {
+   "start": 252.79,
+   "end": 259.86,
+   "text": "In most difficult conversations, there's also something you'll need to release,"
+  },
+  {
+   "start": 259.71,
+   "end": 266.4,
+   "text": "something you won't be able to control once you've said your piece."
+  },
+  {
+   "start": 266.25,
+   "end": 269.56,
+   "text": "Maybe it's how the other person reacts."
+  },
+  {
+   "start": 269.41,
+   "end": 275.18,
+   "text": "Maybe it's needing them to fully understand you, immediately."
+  },
+  {
+   "start": 275.03,
+   "end": 282.04,
+   "text": "Maybe it's an old resentment you'd been holding onto, related to this same issue."
+  },
+  {
+   "start": 281.89,
+   "end": 287.66,
+   "text": "These are things you may need to drop."
+  },
+  {
+   "start": 287.51,
+   "end": 296.02,
+   "text": "Usually, to drop something means to let something fall from your hand."
+  },
+  {
+   "start": 295.87,
+   "end": 297.62,
+   "text": "But here,"
+  },
+  {
+   "start": 297.47,
+   "end": 308.82,
+   "text": "to drop something means to stop talking about it or stop focusing on it because it isn't helping the situation anymore."
+  },
+  {
+   "start": 308.67,
+   "end": 315.42,
+   "text": "For example, if you keep arguing about the same thing, someone might say,"
+  },
+  {
+   "start": 315.27,
+   "end": 324.82,
+   "text": "\u201cLet's just drop it.\u201d This means, \u201cLet's stop talking about it and move on.\u201d"
+  },
+  {
+   "start": 324.67,
+   "end": 330.28,
+   "text": "Take a slow breath in."
+  },
+  {
+   "start": 330.13,
+   "end": 335.7,
+   "text": "Think about your conversation again."
+  },
+  {
+   "start": 335.55,
+   "end": 339.8,
+   "text": "What did you need to bring up?"
+  },
+  {
+   "start": 339.65,
+   "end": 343.84,
+   "text": "Maybe there's something you need to say clearly."
+  },
+  {
+   "start": 343.69,
+   "end": 348.34,
+   "text": "Something you've been avoiding or waiting to talk about."
+  },
+  {
+   "start": 348.19,
+   "end": 351.54,
+   "text": "You don't need to find the perfect words right now."
+  },
+  {
+   "start": 351.39,
+   "end": 355.42,
+   "text": "Just notice what it is."
+  },
+  {
+   "start": 355.27,
+   "end": 360.06,
+   "text": "And breathe out."
+  },
+  {
+   "start": 359.91,
+   "end": 370.46,
+   "text": "Now ask yourself a different question: What can you drop?"
+  },
+  {
+   "start": 370.31,
+   "end": 375.86,
+   "text": "Maybe you can drop the need to be right."
+  },
+  {
+   "start": 375.71,
+   "end": 380.7,
+   "text": "Maybe you can drop an argument that isn't going anywhere."
+  },
+  {
+   "start": 380.55,
+   "end": 387.18,
+   "text": "Maybe you can drop the need to control how the other person reacts."
+  },
+  {
+   "start": 387.03,
+   "end": 390.78,
+   "text": "You can choose what you bring up."
+  },
+  {
+   "start": 390.63,
+   "end": 396.3,
+   "text": "And you can choose what you drop."
+  },
+  {
+   "start": 396.15,
+   "end": 402.3,
+   "text": "Take another slow breath in."
+  },
+  {
+   "start": 402.15,
+   "end": 408.74,
+   "text": "Imagine yourself starting the conversation calmly."
+  },
+  {
+   "start": 408.59,
+   "end": 412.46,
+   "text": "You bring up what needs to be discussed."
+  },
+  {
+   "start": 412.31,
+   "end": 415.8,
+   "text": "You listen to what the other person has to say."
+  },
+  {
+   "start": 415.65,
+   "end": 426.06,
+   "text": "And if something isn't helping the conversation anymore, you allow yourself to drop it."
+  },
+  {
+   "start": 425.91,
+   "end": 430.92,
+   "text": "Breathe out slowly."
+  },
+  {
+   "start": 430.77,
+   "end": 440.68,
+   "text": "Remember, a difficult conversation doesn't have to be a perfect conversation."
+  },
+  {
+   "start": 440.53,
+   "end": 445.34,
+   "text": "You don't need to say everything perfectly."
+  },
+  {
+   "start": 445.19,
+   "end": 450.22,
+   "text": "You don't need to know exactly how the other person will respond."
+  },
+  {
+   "start": 450.07,
+   "end": 456.32,
+   "text": "You can only choose how you enter the conversation and how you communicate."
+  },
+  {
+   "start": 456.17,
+   "end": 471.98,
+   "text": "Take one final slow breath in."
+  },
+  {
+   "start": 471.83,
+   "end": 473.02,
+   "text": "And breathe out."
+  },
+  {
+   "start": 472.87,
+   "end": 478.06,
+   "text": "Before you open your eyes, remember these two ideas:"
+  },
+  {
+   "start": 477.91,
+   "end": 483.44,
+   "text": "Bring up what needs to be said."
+  },
+  {
+   "start": 483.29,
+   "end": 491.22,
+   "text": "Drop what doesn't need to stay."
+  },
+  {
+   "start": 491.07,
+   "end": 498.16,
+   "text": "When you're ready, open your eyes."
+  },
+  {
+   "start": 498.01,
+   "end": 503.62,
+   "text": "Take your time."
+  },
+  {
+   "start": 503.47,
+   "end": 515.82,
+   "text": "And when the conversation begins, speak slowly, listen carefully, and remember:"
+  },
+  {
+   "start": 515.67,
+   "end": 520.98,
+   "text": "you don't have to control every part of it."
+  },
+  {
+   "start": 520.83,
+   "end": 550.0,
+   "text": "You just have to take it one sentence at a time."
+  }
+ ]
+}

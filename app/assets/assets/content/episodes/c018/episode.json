@@ -1,0 +1,86 @@
+{
+  "id": "c018",
+  "slug": "walking-in-the-park-vocabulary",
+  "title": "Walking in the Park Vocabulary",
+  "summary": "A sunny walk in the park: stretch, jog, sprint, take a break, catch your breath.",
+  "durationSeconds": 394,
+  "access": "premium",
+  "published": true,
+  "number": 18,
+  "catalogNumber": "018",
+  "theme": "park",
+  "script": "Imagine yourself in a beautiful park.\nIt's a beautiful sunny day.\nBefore you start moving, you stretch your body.\nYou lift your arms above your head and stretch.\nTo stretch means to move your body or part of your body to make your muscles longer and more relaxed.\nNow, you start to walk along a quiet path. You walk slowly, one step at a time.\nYou look around and notice the trees, the grass, and the flowers around you.\nAfter walking for a while, you decide to move a little faster. You start to jog.\nTo jog means to run slowly, usually for exercise.\nNow, imagine going a little faster. You start to run.\nYou run past the trees and feel the fresh air on your face.\nAnd for just a few seconds, you sprint.\nTo sprint means to run as fast as you can for a short distance.\nYou sprint…and then you stop.\nYour heart is beating faster now, so you find a bench and take a break.\nTo take a break means to stop what you’re doing for a short time so you can rest.\nYou sit down and catch your breath.\nTo catch your breath means to rest for a moment until you can breathe normally again.\nYou pick up your water bottle and take a sip of water.\nA sip is a small amount of a drink.\nYou sit quietly for a moment and look around the park. And now, you’re resting.\nEnjoy this quiet moment in the park.",
+  "vocabulary": [
+    {
+      "word": "to stretch",
+      "definition": "to move your body or part of your body to make your muscles longer and more relaxed"
+    },
+    {
+      "word": "to jog",
+      "definition": "to run slowly, usually for exercise"
+    },
+    {
+      "word": "to sprint",
+      "definition": "to run as fast as you can for a short distance"
+    },
+    {
+      "word": "to take a break",
+      "definition": "to stop what you’re doing for a short time so you can rest"
+    },
+    {
+      "word": "to catch your breath",
+      "definition": "to rest for a moment until you can breathe normally again"
+    },
+    {
+      "word": "sip",
+      "definition": "a small amount of a drink"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "practice_1",
+      "sentence": "What does “to jog” mean?",
+      "options": [
+        "To run as fast as you can for a short distance.",
+        "To run slowly, usually for exercise.",
+        "To stop moving and rest."
+      ],
+      "correctAnswer": "To run slowly, usually for exercise."
+    },
+    {
+      "id": "practice_2",
+      "sentence": "Complete the sentence: “To sprint means to run as fast as you can for a _____.”",
+      "options": [
+        "short distance",
+        "quiet moment",
+        "small sip"
+      ],
+      "correctAnswer": "short distance"
+    },
+    {
+      "id": "practice_3",
+      "sentence": "What does “to catch your breath” mean?",
+      "options": [
+        "To start running faster.",
+        "To drink a large amount of water.",
+        "To rest until you can breathe normally again."
+      ],
+      "correctAnswer": "To rest until you can breathe normally again."
+    },
+    {
+      "id": "practice_4",
+      "sentence": "Complete the sentence: “You pick up your water bottle and take a _____ of water.”",
+      "options": [
+        "break",
+        "sip",
+        "step"
+      ],
+      "correctAnswer": "sip"
+    }
+  ],
+  "audioAsset": null,
+  "sourceAudio": "assets/content/episodes/c018/audio.mp3",
+  "audioMd5": "4e9d39954f80697dd4cf9e11cd2afe33",
+  "source": "Google Drive FINALIZADOS 018 (read-only copy, 2026-10-14)",
+  "streamId": "c018"
+}

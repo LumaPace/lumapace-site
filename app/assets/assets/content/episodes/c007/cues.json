@@ -1,0 +1,512 @@
+{
+ "source": "faster-whisper small.en word timestamps aligned to script phrases",
+ "matchedWords": 848,
+ "scriptWords": 859,
+ "cues": [
+  {
+   "start": 0.91,
+   "end": 3.2,
+   "text": "Hi there!"
+  },
+  {
+   "start": 3.05,
+   "end": 10.24,
+   "text": "Today's meditation is \u201cFinding a Little Inner Calm\u201d."
+  },
+  {
+   "start": 10.09,
+   "end": 14.64,
+   "text": "Take a moment to get comfortable."
+  },
+  {
+   "start": 14.49,
+   "end": 19.66,
+   "text": "You might have had a busy day, a long morning,"
+  },
+  {
+   "start": 19.51,
+   "end": 25.32,
+   "text": "or maybe you\u2019re just looking for a little time to yourself."
+  },
+  {
+   "start": 25.17,
+   "end": 31.74,
+   "text": "Whatever brought you here, you don\u2019t need to change anything right now."
+  },
+  {
+   "start": 31.59,
+   "end": 37.6,
+   "text": "Just let yourself settle."
+  },
+  {
+   "start": 37.45,
+   "end": 46.28,
+   "text": "You can close your eyes if that feels comfortable, or keep them open if you prefer."
+  },
+  {
+   "start": 46.13,
+   "end": 51.78,
+   "text": "For the next few minutes, there\u2019s nowhere else you need to be."
+  },
+  {
+   "start": 51.63,
+   "end": 68.14,
+   "text": "Just take a breath, slow things down, and be here for a while."
+  },
+  {
+   "start": 67.99,
+   "end": 70.76,
+   "text": "Let's begin."
+  },
+  {
+   "start": 70.61,
+   "end": 73.96,
+   "text": "I want you to check in for a moment."
+  },
+  {
+   "start": 73.81,
+   "end": 78.44,
+   "text": "Notice your body, right now, exactly as it is."
+  },
+  {
+   "start": 78.29,
+   "end": 83.29,
+   "text": "Not judging it, just noticing."
+  },
+  {
+   "start": 83.14,
+   "end": 88.04,
+   "text": "Is there a little tension anywhere?"
+  },
+  {
+   "start": 87.89,
+   "end": 93.54,
+   "text": "A slight tightness in your jaw, maybe?"
+  },
+  {
+   "start": 93.39,
+   "end": 103.68,
+   "text": "A mind that keeps jumping from one thing to the next, unable to fully land on anything."
+  },
+  {
+   "start": 103.53,
+   "end": 112.2,
+   "text": "If you're noticing any of that, that's what we'd call feeling restless."
+  },
+  {
+   "start": 112.05,
+   "end": 120.52,
+   "text": "Restless means your body or mind can't quite calm down, it keeps moving,"
+  },
+  {
+   "start": 120.37,
+   "end": 127.1,
+   "text": "searching for something, even when there's nowhere it actually needs to go."
+  },
+  {
+   "start": 126.95,
+   "end": 135.66,
+   "text": "Think of it like a bird that keeps hopping from branch to branch,"
+  },
+  {
+   "start": 135.51,
+   "end": 140.94,
+   "text": "never quite landing anywhere long enough to rest."
+  },
+  {
+   "start": 140.79,
+   "end": 151.42,
+   "text": "Notice, gently, if there is a little restlessness in you right now."
+  },
+  {
+   "start": 151.27,
+   "end": 157.88,
+   "text": "Restlessness is the noun, the feeling itself."
+  },
+  {
+   "start": 157.73,
+   "end": 165.42,
+   "text": "Restless is the adjective, it describes how you feel."
+  },
+  {
+   "start": 165.27,
+   "end": 170.8,
+   "text": "You don\u2019t need to fix it or make it go away."
+  },
+  {
+   "start": 170.65,
+   "end": 176.96,
+   "text": "Just notice it\u2019s there."
+  },
+  {
+   "start": 176.81,
+   "end": 187.52,
+   "text": "Inhale slowly."
+  },
+  {
+   "start": 187.37,
+   "end": 190.32,
+   "text": "Restlessness isn't wrong, by the way."
+  },
+  {
+   "start": 190.17,
+   "end": 192.62,
+   "text": "It's just energy."
+  },
+  {
+   "start": 192.47,
+   "end": 199.98,
+   "text": "Most of us carry a little of it, most days, especially after a long day, or a busy one."
+  },
+  {
+   "start": 199.83,
+   "end": 204.6,
+   "text": "A busy day at work, for example."
+  },
+  {
+   "start": 204.45,
+   "end": 215.46,
+   "text": "Exhale slowly."
+  },
+  {
+   "start": 215.31,
+   "end": 221.76,
+   "text": "Let\u2019s give that energy a moment to slow down."
+  },
+  {
+   "start": 221.61,
+   "end": 228.52,
+   "text": "Bring your attention to your feet, wherever they are right now."
+  },
+  {
+   "start": 228.37,
+   "end": 236.36,
+   "text": "Notice them, simply resting, touching the floor, or the bed."
+  },
+  {
+   "start": 236.21,
+   "end": 238.64,
+   "text": "They're not going anywhere."
+  },
+  {
+   "start": 238.49,
+   "end": 242.76,
+   "text": "They don't need to move."
+  },
+  {
+   "start": 242.61,
+   "end": 256.22,
+   "text": "Breathe in slowly, and imagine your feet becoming a little heavier."
+  },
+  {
+   "start": 256.07,
+   "end": 262.96,
+   "text": "Breathe out, and let that feeling move gently into your legs."
+  },
+  {
+   "start": 262.81,
+   "end": 273.14,
+   "text": "Let your legs become a little heavier."
+  },
+  {
+   "start": 272.99,
+   "end": 280.34,
+   "text": "Notice how this feels different from the busy feeling you felt before."
+  },
+  {
+   "start": 280.19,
+   "end": 284.0,
+   "text": "You don\u2019t need to think about what comes next."
+  },
+  {
+   "start": 283.85,
+   "end": 295.24,
+   "text": "Just notice your body here, feeling calm, heavy, and still."
+  },
+  {
+   "start": 295.09,
+   "end": 302.86,
+   "text": "Inhale again."
+  },
+  {
+   "start": 302.71,
+   "end": 312.56,
+   "text": "Yeah, so this feeling has a name too, and the name is settled."
+  },
+  {
+   "start": 312.41,
+   "end": 317.4,
+   "text": "Settled means your body and mind have finally stopped searching,"
+  },
+  {
+   "start": 317.25,
+   "end": 323.5,
+   "text": "and simply rested into where they already are."
+  },
+  {
+   "start": 323.35,
+   "end": 330.26,
+   "text": "Think of it like the same bird from earlier, finally choosing one branch,"
+  },
+  {
+   "start": 330.11,
+   "end": 338.32,
+   "text": "and staying there, quiet, and still, relaxed."
+  },
+  {
+   "start": 338.17,
+   "end": 347.4,
+   "text": "Exhale slowly."
+  },
+  {
+   "start": 347.25,
+   "end": 352.0,
+   "text": "Let this settled feeling continue spreading."
+  },
+  {
+   "start": 351.85,
+   "end": 360.0,
+   "text": "Spreading from your legs, up into your stomach, your chest."
+  },
+  {
+   "start": 359.85,
+   "end": 372.08,
+   "text": "Notice your breath, still moving, but slower now, calmer, with nowhere urgent to be."
+  },
+  {
+   "start": 371.93,
+   "end": 380.22,
+   "text": "Inhale, feeling this quiet weight rest in your chest."
+  },
+  {
+   "start": 380.07,
+   "end": 386.14,
+   "text": "Exhale, releasing anything that still feels restless,"
+  },
+  {
+   "start": 385.99,
+   "end": 395.14,
+   "text": "anything still searching for something else."
+  },
+  {
+   "start": 394.99,
+   "end": 399.64,
+   "text": "Notice your shoulders now."
+  },
+  {
+   "start": 399.49,
+   "end": 405.44,
+   "text": "Let them drop a little further, settling completely,"
+  },
+  {
+   "start": 405.29,
+   "end": 414.32,
+   "text": "the way that bird's wings finally fold, once it's found its branch."
+  },
+  {
+   "start": 414.17,
+   "end": 422.64,
+   "text": "Inhale slowly."
+  },
+  {
+   "start": 422.49,
+   "end": 428.18,
+   "text": "And your hands, wherever they're resting right now."
+  },
+  {
+   "start": 428.03,
+   "end": 432.32,
+   "text": "Let them be heavy, and still."
+  },
+  {
+   "start": 432.17,
+   "end": 439.0,
+   "text": "Nothing left to hold onto, nothing left to search for."
+  },
+  {
+   "start": 438.85,
+   "end": 448.32,
+   "text": "Exhale completely."
+  },
+  {
+   "start": 448.17,
+   "end": 453.94,
+   "text": "Notice how your mind feels right now, too."
+  },
+  {
+   "start": 453.79,
+   "end": 459.56,
+   "text": "It might still be a little busy, and that\u2019s okay."
+  },
+  {
+   "start": 459.41,
+   "end": 465.66,
+   "text": "Maybe it feels a little quieter than before, even if only a little."
+  },
+  {
+   "start": 465.51,
+   "end": 469.38,
+   "text": "That\u2019s also okay."
+  },
+  {
+   "start": 469.23,
+   "end": 473.78,
+   "text": "You don\u2019t need to force yourself to feel calm."
+  },
+  {
+   "start": 473.63,
+   "end": 478.42,
+   "text": "You are not trying to stop feeling restless forever."
+  },
+  {
+   "start": 478.27,
+   "end": 486.54,
+   "text": "You\u2019re simply practicing landing here, in this present moment."
+  },
+  {
+   "start": 486.39,
+   "end": 496.42,
+   "text": "When we say \u201clanding,\u201d we mean arriving and becoming settled in a place or moment."
+  },
+  {
+   "start": 496.27,
+   "end": 500.64,
+   "text": "We use this word for planes when they arrive on the ground,"
+  },
+  {
+   "start": 500.49,
+   "end": 507.64,
+   "text": "but we can also use it when we talk about meditation."
+  },
+  {
+   "start": 507.49,
+   "end": 516.14,
+   "text": "For these few minutes, you\u2019re simply giving yourself time to arrive here, to land here,"
+  },
+  {
+   "start": 515.99,
+   "end": 521.26,
+   "text": "and be still."
+  },
+  {
+   "start": 521.11,
+   "end": 526.12,
+   "text": "Inhale."
+  },
+  {
+   "start": 525.97,
+   "end": 541.68,
+   "text": "And exhale, long, and slow."
+  },
+  {
+   "start": 541.53,
+   "end": 547.46,
+   "text": "Now, a few words, if you'd like to hold onto them."
+  },
+  {
+   "start": 547.31,
+   "end": 552.88,
+   "text": "I don't need to search for anything right now."
+  },
+  {
+   "start": 552.73,
+   "end": 559.8,
+   "text": "I don't need to search for anything right now."
+  },
+  {
+   "start": 559.65,
+   "end": 567.44,
+   "text": "I am allowed to settle, exactly where I am."
+  },
+  {
+   "start": 567.29,
+   "end": 575.44,
+   "text": "I am allowed to settle, exactly where I am."
+  },
+  {
+   "start": 575.29,
+   "end": 581.46,
+   "text": "Restlessness can visit, and it can also leave."
+  },
+  {
+   "start": 581.31,
+   "end": 589.0,
+   "text": "Restlessness can visit, and it can also leave."
+  },
+  {
+   "start": 588.85,
+   "end": 595.62,
+   "text": "My body knows how to rest, even when my mind is busy."
+  },
+  {
+   "start": 595.47,
+   "end": 604.84,
+   "text": "My body knows how to rest, even when my mind is busy."
+  },
+  {
+   "start": 604.69,
+   "end": 610.82,
+   "text": "I am settling, a little more, with every breath."
+  },
+  {
+   "start": 610.67,
+   "end": 618.9,
+   "text": "I am settling, a little more, with every breath."
+  },
+  {
+   "start": 618.75,
+   "end": 622.16,
+   "text": "Take one more slow breath in."
+  },
+  {
+   "start": 622.01,
+   "end": 634.12,
+   "text": "And breathe out, completely."
+  },
+  {
+   "start": 633.97,
+   "end": 638.9,
+   "text": "You can stay here for a little longer if you\u2019d like."
+  },
+  {
+   "start": 638.75,
+   "end": 643.78,
+   "text": "You can take a few moments to notice how your body feels."
+  },
+  {
+   "start": 643.63,
+   "end": 649.98,
+   "text": "And when you\u2019re ready to come back, start noticing what is around you."
+  },
+  {
+   "start": 649.83,
+   "end": 657.28,
+   "text": "Feel the chair, floor, or bed supporting your body."
+  },
+  {
+   "start": 657.13,
+   "end": 662.08,
+   "text": "Notice any sounds you can hear."
+  },
+  {
+   "start": 661.93,
+   "end": 669.46,
+   "text": "Then notice your breathing, slow and easy."
+  },
+  {
+   "start": 669.31,
+   "end": 673.6,
+   "text": "Gently move your fingers."
+  },
+  {
+   "start": 673.45,
+   "end": 678.98,
+   "text": "Then move your feet."
+  },
+  {
+   "start": 678.83,
+   "end": 687.0,
+   "text": "And whenever you\u2019re ready, slowly open your eyes."
+  }
+ ]
+}

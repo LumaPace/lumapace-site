@@ -1,0 +1,41 @@
+{
+  "id": "c009",
+  "slug": "shopping-at-a-clothing-store",
+  "title": "Shopping at a Clothing Store",
+  "summary": "Browse a cozy clothing store: rack, tag, try something on, self-checkout.",
+  "durationSeconds": 563,
+  "access": "premium",
+  "published": true,
+  "number": 9,
+  "catalogNumber": "009",
+  "theme": "store",
+  "script": "Imagine you’re opening the door and walking into a cozy clothing store.\n\nListen. You can hear the soft sounds of the store around you.\n\nYou slowly walk past the racks of clothes.\n\nA rack is a structure where clothes hang in the store.\n\nYou stop and look at a few jackets.\n\nYou gently run your hand over the fabric. There is a beautiful leather jacket that catches your eye.\n\nTo catch your eye — in the past, caught your eye — means to attract your attention because you notice or like something.\n\nYou take the jacket off the rack and look at the tag.\n\nA tag is a small label attached to clothing that usually shows information like the size or price.\n\nIt’s your size.\n\nYou decide to try it on.\n\nTo try something on means to put on clothes to see how they look or fit.\n\nYou walk toward the fitting room.\n\nYou step inside, close the door, and slowly put on the jacket.\n\nListen. You can hear the quiet sounds of the store outside.\n\nYou look at yourself in the mirror, and you love it.\n\nTake a slow breath in…\n\nand breathe out…\n\nYou change back into your clothes and leave the fitting room.\n\nYou walk to the self-checkout and place the jacket down.\n\nThe self-checkout is the place where you scan and pay for your items yourself.\n\nListen. You’re scanning the jacket.\n\nNow, imagine gently tapping your card on the machine to pay.\n\nThen, you put your jacket in a bag.\n\nYour shopping is done.\n\nBreathe in…\n\nand breathe out…\n\nEnjoy the rest of your day.\n\nBye.",
+  "vocabulary": [
+    {
+      "word": "rack",
+      "definition": "a structure where clothes hang in the store"
+    },
+    {
+      "word": "to catch your eye",
+      "definition": "to attract your attention because you notice or like something"
+    },
+    {
+      "word": "tag",
+      "definition": "a small label attached to clothing that usually shows information like the size or price"
+    },
+    {
+      "word": "to try something on",
+      "definition": "to put on clothes to see how they look or fit"
+    },
+    {
+      "word": "self-checkout",
+      "definition": "the place where you scan and pay for your items yourself"
+    }
+  ],
+  "exercises": [],
+  "audioAsset": null,
+  "sourceAudio": "assets/content/episodes/c009/audio.mp3",
+  "audioMd5": "3bf76bb178358d17da603f159a1ad58a",
+  "source": "Google Drive FINALIZADOS 009 (read-only copy, 2026-10-14)",
+  "streamId": "028"
+}
