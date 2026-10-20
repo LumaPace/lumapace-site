@@ -54,8 +54,8 @@ else{
  $('#eup').onclick=()=>au.createUserWithEmailAndPassword(auth,$('#em').value,$('#pw').value).catch(err);
  $('#out').onclick=e=>{e.preventDefault();au.signOut(auth)};
 }
-$('#buy').onclick=()=>{const link=C.purchaseLinks[plan];
+$('#buy').onclick=()=>{const link=(C.preview&&C.sandboxLinks?C.sandboxLinks:C.purchaseLinks)[plan];
  if(!link||!user){$('#perr').textContent='Checkout is not live yet (preview).';return;}
- const u=new URL(link.replace(/\/$/,'')+'/'+encodeURIComponent(user.uid)); if(user.email)u.searchParams.set('email',user.email);
+ const u=new URL(link.replace(/\/$/,'')+'/'+encodeURIComponent(user.uid)); if(user.email)u.searchParams.set('email',user.email); u.searchParams.set('package_id',plan==='annual'?'$rc_annual':'$rc_monthly');
  location.href=u.toString();};
 </script></body></html>
