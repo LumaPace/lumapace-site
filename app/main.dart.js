@@ -108576,7 +108576,7 @@ return A.n($async$qw,r)},
 J(a){var s,r,q,p,o,n,m,l,k,j,i=this,h=null,g=i.gcz(),f=g.aW($.dD(),t.A),e=A.X(a).ok,d=i.a,c=d.e==="/paywall"
 if(c)s="Sign in to subscribe"
 else s=d.d?"Welcome back":"Save your progress"
-if(c)r="Your Premium is tied to your account, so it also unlocks in the LumaPace app on Android and iPhone when you sign in there. You won\u2019t pay twice."
+if(c)r="Your Premium is tied to your account, so it will also unlock in the LumaPace Android app (coming soon) when you sign in there. You won\u2019t pay twice."
 else if(d.d)r="Sign in to pick up where you left off."
 else{d=f.a
 d="You finished "+(d.gD(d)<=1?"your first session":""+d.gD(d)+" sessions")+". Create a free account so your streak and saved words are never lost."
@@ -109814,7 +109814,7 @@ else o.push(A.eU(!1,A.w("Not now \u2014 keep free sessions",p,p,p,p,p,p,p,p,p),p
 return A.a5(o,B.D,B.e,B.i,0,B.k)},
 J(a9){var s,r,q,p,o,n,m,l,k,j,i,h,g,f=this,e=null,d=f.gcz(),c=d.aW($.b7u(),t.fo),b=A.b65(a9),a=d.aW($.y5(),t.J0),a0=A.bf8(d.aW($.mv(),t.YG)),a1=t.l,a2=A.by(a9,B.bF,a1).w.a.a>=840,a3=d.aW($.ln(),t.xS),a4=a3.a,a5=a3.d,a6=a5.length!==0?B.b.py(a5,new A.aRY(f),new A.aRZ(a5)):e,a7=A.X(a9).ok.Q,a8=a7==null?e:a7.ra(B.aN,1.4)
 a7=t.p
-s=A.a([B.az,A.w("Secure checkout by RevenueCat and Stripe. Subscriptions renew automatically at the price shown until you cancel; you can cancel anytime from the link in your receipt email. With the free trial you won\u2019t be charged until day 8, and cancelling before then costs nothing. Premium follows your account: sign in with the same account in the LumaPace app on Android or iPhone.",e,e,e,e,e,a8,B.aH,e,e),B.aD,A.ak(A.a([A.eU(!1,B.apZ,e,e,e,e,e,e,new A.aS_(f),e,e),A.w("\xb7",e,e,e,e,e,a8,e,e,e),A.eU(!1,B.apL,e,e,e,e,e,e,new A.aS0(f),e,e)],a7),B.o,B.ck,B.i,0,e)],a7)
+s=A.a([B.az,A.w("Secure checkout by RevenueCat and Stripe. Subscriptions renew automatically at the price shown until you cancel; you can cancel anytime from the link in your receipt email. With the free trial you won\u2019t be charged until day 8, and cancelling before then costs nothing. Premium follows your account: sign in with the same account in the LumaPace Android app (coming soon).",e,e,e,e,e,a8,B.aH,e,e),B.aD,A.ak(A.a([A.eU(!1,B.apZ,e,e,e,e,e,e,new A.aS_(f),e,e),A.w("\xb7",e,e,e,e,e,a8,e,e,e),A.eU(!1,B.apL,e,e,e,e,e,e,new A.aS0(f),e,e)],a7),B.o,B.ck,B.i,0,e)],a7)
 if(!a4){r=A.ax(24)
 q=A.d1(B.a9,1)
 p=A.a([A.al(e,A.w("Premium is available in the LumaPace Android app, with prices shown by Google Play in your local currency. You can keep using the free sessions here.",e,e,e,e,e,A.Q().$3$color$fontSize$height(B.v,14.5,1.35),e,e,e),B.j,e,e,new A.aC(B.l,e,q,r,e,e,e,B.w),e,e,e,e,B.du,e,e,e)],a7)}else{if(!a3.c)r=!a3.b&&a3.f==null
