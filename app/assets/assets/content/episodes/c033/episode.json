@@ -1,0 +1,70 @@
+{
+  "id": "c033",
+  "slug": "listening-to-the-sounds-around-you",
+  "title": "Listening to the Sounds Around You",
+  "summary": "Listen outward, then inward: surroundings and interior.",
+  "durationSeconds": 774,
+  "access": "premium",
+  "published": true,
+  "number": 31,
+  "catalogNumber": "033",
+  "theme": "sounds",
+  "script": "Hello, and welcome to this “listening to the sounds around you meditation”. Take a moment to get comfortable and relax.\nYou can sit on the couch, sit on a pillow, or lie down on your bed. Find a position that feels comfortable for you today.\nThere’s no need to sit in a special position. Just let your body relax and take your time.\nWhen you’re ready, you can gently close your eyes, or simply look down and let your eyes relax.\nFor the next few minutes, you don’t need to go anywhere or do anything. Just stay here, take a slow breath, and focus on this moment.\nFeel the surface beneath you, holding you completely. Let your shoulders soften. Let your hands rest.\nTake a slow breath in… and let it out.\nOnce more. In… and out.\nToday, we're going to explore two words that describe two different worlds, the world outside of us, and the world within us.\nThe first is surroundings. Surroundings are the people, places, and things around you.\nFor example, when you sit in a quiet room, the room and everything around you are your surroundings.\nThe second is interior. \"Interior\" can mean the inside of you, your thoughts, feelings, or emotions.\nFor example, meditation can help you pay attention to your interior world, or what is happening inside you.\nToday, we'll move gently between these two worlds, simply by listening.\nLet's begin with your surroundings. Bring your attention to any sounds you can hear right now, outside of your body.\nMaybe something close to you. Maybe something far away. Maybe silence itself, which has its own quiet sound.\nJust listen. Notice these sounds as they come, and notice them as they disappear. There’s nothing to identify. Nothing to name. Just simple, open listening.\nNotice how these sounds belong to your surroundings, existing outside of you, independent of your thoughts, independent of your breath.\nStay here for a moment, simply listening to your surroundings.\nNow, gently, let's shift your attention inward, to your interior.\nNotice your breath. This sound, this movement, belongs only to you. It exists inside your body, quiet and constant.\nListen to your breath the way you listened to those sounds around you. Notice it as it comes, and notice it as it goes, again and again.\nThis is your interior world. Quiet, and completely your own.\nTake a slow breath in… and out.\nNow, let's move gently back to your surroundings. Notice any sounds outside of you once again. The distant hum of something far away. The quiet stillness of the room. Whatever exists around you, right now.\nNotice how these sounds continue, whether you're listening or not. Your surroundings simply exist, patient and constant.\nMove your attention back inward now, to your interior. Notice your heartbeat, if you can feel it. Notice the quiet rhythm of your breath. Notice the stillness of your own thoughts, settling gently.\nThis interior world is always with you, wherever you go, wherever your surroundings might change.\nLet's practice moving between these two worlds a little more. Bring your awareness outward, to your surroundings. Listen carefully.\nAnd now, bring your awareness inward, to your interior. Listen just as carefully.\nNotice how both worlds exist, at the very same time. Your surroundings, full of sound, full of space. Your interior, quiet, personal, and steady.\nThere's something valuable in noticing this difference. Often, our attention gets pulled entirely outward, toward our surroundings. We forget our interior world completely. Other times, we become so lost in our interior thoughts, we forget the world around us.\nToday, you've simply practiced noticing both, gently moving between them, without needing to choose one over the other.\nLet your awareness rest now, somewhere between these two worlds. Aware of your surroundings. Aware of your interior. Both present. Both welcome.\nLet these gentle words settle into your mind.\nI am aware of my surroundings.\nI am aware of my interior.\nBoth worlds exist, together, in this moment.\nI am calm.\nI am present.\nTake another slow breath, and let these words settle a little deeper.\nStay here for a while longer, simply noticing both worlds, your surroundings, and your interior, existing quietly, side by side.\nThere's no need to choose between them. Both are part of your experience, right now, and always.\nWhen you feel ready, begin to bring a little more attention back to your surroundings. Notice the sounds around you. Notice the air, the space, the room you're sitting in.\nLet your fingers move first, just slightly. Then your toes. Small movements, gentle and unhurried.\nTake your time. There's no need to rush this return.\nWhenever you're ready, let your eyes open softly, taking in your surroundings once again.\nCarry this awareness with you, into the rest of your day. Notice, from time to time, both worlds, the sounds around you, and the quiet world within.\nYou are calm. You are present. And you are exactly where you need to be.",
+  "vocabulary": [
+    {
+      "word": "surroundings",
+      "definition": "the people, places, and things around you"
+    },
+    {
+      "word": "interior",
+      "definition": "everything inside you: your thoughts, feelings, and breath"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex01",
+      "sentence": "My thoughts and feelings are part of my _____ world.",
+      "options": [
+        "surroundings",
+        "interior",
+        "exterior"
+      ],
+      "correctAnswer": "interior"
+    },
+    {
+      "id": "ex02",
+      "sentence": "The room, the people, and the sounds around me are my _____.",
+      "options": [
+        "interior",
+        "imagination",
+        "surroundings"
+      ],
+      "correctAnswer": "surroundings"
+    },
+    {
+      "id": "ex03",
+      "sentence": "Which word describes the inner world of thoughts and feelings in this meditation?",
+      "options": [
+        "interior",
+        "surroundings",
+        "exterior"
+      ],
+      "correctAnswer": "interior"
+    },
+    {
+      "id": "ex04",
+      "sentence": "The people, places, and things around me are my new _____.",
+      "options": [
+        "interior",
+        "surroundings",
+        "thoughts"
+      ],
+      "correctAnswer": "surroundings"
+    }
+  ],
+  "audioAsset": null,
+  "sourceAudio": "assets/content/episodes/c033/audio.mp3",
+  "audioMd5": "6bd13b2bb2e2e8c77e657ca939bd766f",
+  "source": "Google Drive FINALIZADOS 033 (read-only copy, 2026-10-14)",
+  "streamId": "013"
+}

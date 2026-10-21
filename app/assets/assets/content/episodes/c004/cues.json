@@ -1,0 +1,572 @@
+{
+ "source": "faster-whisper small.en word timestamps aligned to script phrases",
+ "matchedWords": 795,
+ "scriptWords": 812,
+ "cues": [
+  {
+   "start": 0.95,
+   "end": 4.82,
+   "text": "Alright, let\u2019s take a little pause together."
+  },
+  {
+   "start": 4.67,
+   "end": 7.0,
+   "text": "Okay?"
+  },
+  {
+   "start": 6.85,
+   "end": 11.74,
+   "text": "Wherever you are, whatever your day has looked like so far,"
+  },
+  {
+   "start": 11.59,
+   "end": 16.53,
+   "text": "you can leave it at the door for a few minutes."
+  },
+  {
+   "start": 16.38,
+   "end": 20.93,
+   "text": "\u201cLeave it at the door\u201d is a metaphor that means giving yourself"
+  },
+  {
+   "start": 20.78,
+   "end": 26.59,
+   "text": "permission to put everything else aside for a few minutes and focus"
+  },
+  {
+   "start": 26.44,
+   "end": 29.84,
+   "text": "on being here."
+  },
+  {
+   "start": 29.69,
+   "end": 32.52,
+   "text": "Get comfortable."
+  },
+  {
+   "start": 32.37,
+   "end": 38.77,
+   "text": "Let yourself settle into the space you\u2019re in."
+  },
+  {
+   "start": 38.62,
+   "end": 43.16,
+   "text": "You might close your eyes, if you want."
+  },
+  {
+   "start": 43.01,
+   "end": 46.99,
+   "text": "There is nowhere you need to be right now."
+  },
+  {
+   "start": 46.84,
+   "end": 49.47,
+   "text": "Nothing you need to do."
+  },
+  {
+   "start": 49.32,
+   "end": 51.91,
+   "text": "Nothing you need to get right."
+  },
+  {
+   "start": 51.76,
+   "end": 55.11,
+   "text": "Just a few moments to slow down and breathe."
+  },
+  {
+   "start": 54.96,
+   "end": 61.68,
+   "text": "Take a gentle breath in\u2026"
+  },
+  {
+   "start": 61.53,
+   "end": 72.25,
+   "text": "And let it go."
+  },
+  {
+   "start": 72.1,
+   "end": 78.45,
+   "text": "Feel yourself settling a little more with each exhale."
+  },
+  {
+   "start": 78.3,
+   "end": 80.27,
+   "text": "One more slow breath in\u2026"
+  },
+  {
+   "start": 80.12,
+   "end": 92.86,
+   "text": "And out."
+  },
+  {
+   "start": 92.71,
+   "end": 96.13,
+   "text": "I want you to notice something."
+  },
+  {
+   "start": 95.98,
+   "end": 100.99,
+   "text": "Notice your mind, right now, exactly as it is."
+  },
+  {
+   "start": 100.84,
+   "end": 107.8,
+   "text": "Not trying to change it, just noticing it."
+  },
+  {
+   "start": 107.65,
+   "end": 111.52,
+   "text": "Maybe your mind is still a little busy."
+  },
+  {
+   "start": 111.37,
+   "end": 116.1,
+   "text": "Maybe you replay in a conversation from earlier."
+  },
+  {
+   "start": 115.95,
+   "end": 122.39,
+   "text": "Maybe going over something that hasn't ever, hasn't even happened yet."
+  },
+  {
+   "start": 122.24,
+   "end": 131.76,
+   "text": "Maybe just circling the same thought, again and again, without really going anywhere new."
+  },
+  {
+   "start": 131.61,
+   "end": 134.38,
+   "text": "That is called overthinking."
+  },
+  {
+   "start": 134.23,
+   "end": 145.82,
+   "text": "To overthink means your mind keeps returning to the same worry, turning it over and over,"
+  },
+  {
+   "start": 145.67,
+   "end": 151.91,
+   "text": "like a stone in your pocket you keep touching without meaning to,"
+  },
+  {
+   "start": 151.76,
+   "end": 158.22,
+   "text": "without it actually getting smoother or smaller."
+  },
+  {
+   "start": 158.07,
+   "end": 164.31,
+   "text": "Notice, gently, if there is a stone like that in your own mind right now."
+  },
+  {
+   "start": 164.16,
+   "end": 166.45,
+   "text": "No need to push it away."
+  },
+  {
+   "start": 166.3,
+   "end": 172.0,
+   "text": "Just notice it's there."
+  },
+  {
+   "start": 171.85,
+   "end": 178.5,
+   "text": "Inhale slowly."
+  },
+  {
+   "start": 178.35,
+   "end": 182.74,
+   "text": "Here's something true about overthinking."
+  },
+  {
+   "start": 182.59,
+   "end": 190.39,
+   "text": "It almost always lives in two places: the past or the future."
+  },
+  {
+   "start": 190.24,
+   "end": 197.95,
+   "text": "It replaced what already happened, wondering if it could have gone differently."
+  },
+  {
+   "start": 197.8,
+   "end": 207.43,
+   "text": "Or it imagines what hasn't happened yet, imagining every way it might go wrong."
+  },
+  {
+   "start": 207.28,
+   "end": 218.0,
+   "text": "Notice, if you can, which one your mind tends to visit more: the past or the future."
+  },
+  {
+   "start": 217.85,
+   "end": 228.53,
+   "text": "Exhale slowly."
+  },
+  {
+   "start": 228.38,
+   "end": 233.59,
+   "text": "Now, I want to bring you somewhere else entirely."
+  },
+  {
+   "start": 233.44,
+   "end": 236.01,
+   "text": "Right here."
+  },
+  {
+   "start": 235.86,
+   "end": 240.98,
+   "text": "Feel your body, exactly where it is, right now."
+  },
+  {
+   "start": 240.83,
+   "end": 244.24,
+   "text": "Not where it was an hour ago."
+  },
+  {
+   "start": 244.09,
+   "end": 247.24,
+   "text": "Not where it will be later today."
+  },
+  {
+   "start": 247.09,
+   "end": 258.39,
+   "text": "Just here, in this exact chair, or this exact bed, this exact floor."
+  },
+  {
+   "start": 258.24,
+   "end": 263.48,
+   "text": "This is what it means to be present."
+  },
+  {
+   "start": 263.33,
+   "end": 269.94,
+   "text": "Being present simply means paying attention to what\u2019s happening right now."
+  },
+  {
+   "start": 269.79,
+   "end": 273.02,
+   "text": "Not thinking about what happened before."
+  },
+  {
+   "start": 272.87,
+   "end": 276.8,
+   "text": "Not worrying about what might happen later."
+  },
+  {
+   "start": 276.65,
+   "end": 283.42,
+   "text": "Just being here, in this moment, and noticing what you can see, hear, feel,"
+  },
+  {
+   "start": 283.27,
+   "end": 286.39,
+   "text": "and experience right now."
+  },
+  {
+   "start": 286.24,
+   "end": 289.46,
+   "text": "Okay?"
+  },
+  {
+   "start": 289.31,
+   "end": 294.41,
+   "text": "Inhale, and as you do, notice this breath."
+  },
+  {
+   "start": 294.26,
+   "end": 297.57,
+   "text": "Not yesterday's breath."
+  },
+  {
+   "start": 297.42,
+   "end": 299.35,
+   "text": "Not tomorrow's."
+  },
+  {
+   "start": 299.2,
+   "end": 311.05,
+   "text": "This one, right now, entering your body."
+  },
+  {
+   "start": 310.9,
+   "end": 320.6,
+   "text": "Exhale, and notice it leaving."
+  },
+  {
+   "start": 320.45,
+   "end": 322.74,
+   "text": "Breath is strange."
+  },
+  {
+   "start": 322.59,
+   "end": 326.14,
+   "text": "You can't breathe yesterday's air."
+  },
+  {
+   "start": 325.99,
+   "end": 330.02,
+   "text": "You can't breathe tomorrow's either."
+  },
+  {
+   "start": 329.87,
+   "end": 337.73,
+   "text": "Every single breath only ever happens in the present moment."
+  },
+  {
+   "start": 337.58,
+   "end": 345.32,
+   "text": "Inhale again, slowly."
+  },
+  {
+   "start": 345.17,
+   "end": 351.68,
+   "text": "If your mind wanders, by wanders I mean if you start thinking about other things,"
+  },
+  {
+   "start": 351.53,
+   "end": 354.33,
+   "text": "that's completely fine."
+  },
+  {
+   "start": 354.18,
+   "end": 356.27,
+   "text": "That's not failure."
+  },
+  {
+   "start": 356.12,
+   "end": 359.78,
+   "text": "That's just what minds do."
+  },
+  {
+   "start": 359.63,
+   "end": 365.58,
+   "text": "Gently, without frustration, just notice it happened, and then come back here,"
+  },
+  {
+   "start": 365.43,
+   "end": 370.54,
+   "text": "to this breath, to this moment."
+  },
+  {
+   "start": 370.39,
+   "end": 373.04,
+   "text": "Exhale slowly."
+  },
+  {
+   "start": 372.89,
+   "end": 383.18,
+   "text": "Try this now."
+  },
+  {
+   "start": 383.03,
+   "end": 393.48,
+   "text": "Bring to mind that same worried thought from earlier, that same small stone you noticed."
+  },
+  {
+   "start": 393.33,
+   "end": 397.0,
+   "text": "Let yourself touch it once, just briefly."
+  },
+  {
+   "start": 396.85,
+   "end": 400.94,
+   "text": "And now, gently, put it back down."
+  },
+  {
+   "start": 400.79,
+   "end": 402.96,
+   "text": "Not by force."
+  },
+  {
+   "start": 402.81,
+   "end": 406.06,
+   "text": "Not by pushing it away hard."
+  },
+  {
+   "start": 405.91,
+   "end": 412.82,
+   "text": "Just by turning your attention back here, to your breath, to your body,"
+  },
+  {
+   "start": 412.67,
+   "end": 418.55,
+   "text": "to this present moment."
+  },
+  {
+   "start": 418.4,
+   "end": 419.05,
+   "text": "Inhale."
+  },
+  {
+   "start": 418.88,
+   "end": 430.18,
+   "text": "And notice, right now, the physical feeling of sitting or lying down."
+  },
+  {
+   "start": 430.03,
+   "end": 439.24,
+   "text": "The weight of your body."
+  },
+  {
+   "start": 439.09,
+   "end": 439.74,
+   "text": "The temperature of the air around you."
+  },
+  {
+   "start": 439.11,
+   "end": 441.76,
+   "text": "These things are only happening now."
+  },
+  {
+   "start": 441.61,
+   "end": 445.64,
+   "text": "They're not thoughts about the past or future."
+  },
+  {
+   "start": 445.49,
+   "end": 453.61,
+   "text": "They're simply what's real, right in this moment."
+  },
+  {
+   "start": 453.46,
+   "end": 463.03,
+   "text": "And exhale completely."
+  },
+  {
+   "start": 462.88,
+   "end": 467.17,
+   "text": "Overthinking will probably visit again later today."
+  },
+  {
+   "start": 467.02,
+   "end": 468.33,
+   "text": "That's alright."
+  },
+  {
+   "start": 468.18,
+   "end": 471.55,
+   "text": "It's just something minds do sometimes."
+  },
+  {
+   "start": 471.4,
+   "end": 473.87,
+   "text": "But you know a way back."
+  },
+  {
+   "start": 473.72,
+   "end": 484.61,
+   "text": "Right here, to your breath, to your body, to this present moment, whenever you need it."
+  },
+  {
+   "start": 484.46,
+   "end": 491.82,
+   "text": "And if you\u2019d like, you can repeat a few phrases after me."
+  },
+  {
+   "start": 491.67,
+   "end": 498.08,
+   "text": "I don't have to solve every thought that visits me."
+  },
+  {
+   "start": 497.93,
+   "end": 505.01,
+   "text": "I don't have to solve every thought that visits me."
+  },
+  {
+   "start": 504.86,
+   "end": 512.93,
+   "text": "I can gently return here, to this breath, whenever I need to."
+  },
+  {
+   "start": 512.78,
+   "end": 523.6,
+   "text": "I can gently return here, to this breath, whenever I need to."
+  },
+  {
+   "start": 523.45,
+   "end": 530.12,
+   "text": "The present moment is always available to me."
+  },
+  {
+   "start": 529.97,
+   "end": 537.8,
+   "text": "The present moment is always available to me."
+  },
+  {
+   "start": 537.65,
+   "end": 539.72,
+   "text": "I am not my thoughts."
+  },
+  {
+   "start": 539.57,
+   "end": 543.71,
+   "text": "I am the one noticing them."
+  },
+  {
+   "start": 543.56,
+   "end": 546.51,
+   "text": "I am not my thoughts."
+  },
+  {
+   "start": 546.36,
+   "end": 553.19,
+   "text": "I am the one noticing them."
+  },
+  {
+   "start": 553.04,
+   "end": 557.55,
+   "text": "Right now I am safe."
+  },
+  {
+   "start": 557.4,
+   "end": 563.59,
+   "text": "Right now I am safe."
+  },
+  {
+   "start": 563.44,
+   "end": 570.08,
+   "text": "Take one more slow inhale."
+  },
+  {
+   "start": 569.93,
+   "end": 580.76,
+   "text": "And exhale, completely."
+  },
+  {
+   "start": 580.61,
+   "end": 587.7,
+   "text": "When you're ready to come back, start noticing small things around you."
+  },
+  {
+   "start": 587.55,
+   "end": 592.02,
+   "text": "Whatever is supporting your body right now."
+  },
+  {
+   "start": 591.87,
+   "end": 594.0,
+   "text": "Sounds nearby."
+  },
+  {
+   "start": 593.85,
+   "end": 594.92,
+   "text": "Your breath."
+  },
+  {
+   "start": 594.77,
+   "end": 599.23,
+   "text": "Move your fingers gently."
+  },
+  {
+   "start": 599.08,
+   "end": 601.91,
+   "text": "Then move your feet."
+  },
+  {
+   "start": 601.76,
+   "end": 609.0,
+   "text": "Whenever it feels right, let your eyes open."
+  }
+ ]
+}

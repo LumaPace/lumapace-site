@@ -1,0 +1,612 @@
+{
+ "source": "faster-whisper small.en word timestamps aligned to script phrases",
+ "matchedWords": 746,
+ "scriptWords": 894,
+ "cues": [
+  {
+   "start": 1.78,
+   "end": 17.56,
+   "text": "Hello, and welcome."
+  },
+  {
+   "start": 17.41,
+   "end": 19.13,
+   "text": "This is your moment, a small space carved out just for you,"
+  },
+  {
+   "start": 18.98,
+   "end": 19.63,
+   "text": "in the middle of everything else."
+  },
+  {
+   "start": 19.15,
+   "end": 21.8,
+   "text": "Take a little time to settle into a position that feels right."
+  },
+  {
+   "start": 21.65,
+   "end": 28.22,
+   "text": "Sitting, lying down, whatever your body prefers today."
+  },
+  {
+   "start": 28.07,
+   "end": 37.84,
+   "text": "There's no correct way to begin, only the way that feels natural to you."
+  },
+  {
+   "start": 37.69,
+   "end": 48.8,
+   "text": "Let your eyes close softly, like a door closing quietly at the end of the day."
+  },
+  {
+   "start": 48.65,
+   "end": 58.96,
+   "text": "Or if you'd rather, let them rest, unfocused, looking gently downward."
+  },
+  {
+   "start": 58.81,
+   "end": 69.12,
+   "text": "For these next few minutes, there's nothing else you need to attend to."
+  },
+  {
+   "start": 68.97,
+   "end": 94.03,
+   "text": "Just this."
+  },
+  {
+   "start": 93.88,
+   "end": 96.52,
+   "text": "Just you, and this quiet space you've made."
+  },
+  {
+   "start": 96.37,
+   "end": 97.02,
+   "text": "Feel the surface beneath you, holding your weight completely."
+  },
+  {
+   "start": 96.62,
+   "end": 97.27,
+   "text": "Notice your body settling, becoming a little heavier, a little more still."
+  },
+  {
+   "start": 96.65,
+   "end": 100.22,
+   "text": "Take a slow breath in\u2026"
+  },
+  {
+   "start": 100.07,
+   "end": 109.5,
+   "text": "and let it out."
+  },
+  {
+   "start": 109.35,
+   "end": 111.26,
+   "text": "Once more."
+  },
+  {
+   "start": 111.11,
+   "end": 112.04,
+   "text": "In\u2026"
+  },
+  {
+   "start": 111.89,
+   "end": 121.78,
+   "text": "and out."
+  },
+  {
+   "start": 121.63,
+   "end": 131.68,
+   "text": "Today, we're going to move slowly through the body, using two simple movements."
+  },
+  {
+   "start": 131.53,
+   "end": 142.38,
+   "text": "Movements your body already knows well, even without thinking about them."
+  },
+  {
+   "start": 142.23,
+   "end": 144.64,
+   "text": "The first is to tighten."
+  },
+  {
+   "start": 144.49,
+   "end": 150.48,
+   "text": "To tighten means to make something tighter or more secure,"
+  },
+  {
+   "start": 150.33,
+   "end": 154.5,
+   "text": "like when we tighten our seatbelt on a plane."
+  },
+  {
+   "start": 154.35,
+   "end": 159.48,
+   "text": "The second is to stretch."
+  },
+  {
+   "start": 159.33,
+   "end": 166.22,
+   "text": "To stretch means to pull something so it becomes longer,"
+  },
+  {
+   "start": 166.07,
+   "end": 172.5,
+   "text": "like when you stretch your arms after sitting for a long time."
+  },
+  {
+   "start": 172.35,
+   "end": 178.8,
+   "text": "We'll move through the body, tightening one part, and then stretching it."
+  },
+  {
+   "start": 178.65,
+   "end": 179.3,
+   "text": "Tighten\u2026"
+  },
+  {
+   "start": 178.65,
+   "end": 179.45,
+   "text": "and stretch."
+  },
+  {
+   "start": 179.3,
+   "end": 180.6,
+   "text": "There's no rush here."
+  },
+  {
+   "start": 180.45,
+   "end": 198.58,
+   "text": "Each part deserves a little time, a little attention."
+  },
+  {
+   "start": 198.43,
+   "end": 202.46,
+   "text": "Let's begin with your hands."
+  },
+  {
+   "start": 202.31,
+   "end": 209.4,
+   "text": "Tighten them now, closing them slowly into soft fists."
+  },
+  {
+   "start": 209.25,
+   "end": 215.52,
+   "text": "Feel the tightening in your fingers, your knuckles, your palms."
+  },
+  {
+   "start": 215.37,
+   "end": 220.4,
+   "text": "Hold this for a moment."
+  },
+  {
+   "start": 220.25,
+   "end": 223.4,
+   "text": "Now stretch."
+  },
+  {
+   "start": 223.25,
+   "end": 232.26,
+   "text": "Open your hands completely, spreading your fingers as far as they'll go, reaching outward,"
+  },
+  {
+   "start": 232.11,
+   "end": 236.44,
+   "text": "lengthening every part."
+  },
+  {
+   "start": 236.29,
+   "end": 240.84,
+   "text": "Notice the difference between these two feelings."
+  },
+  {
+   "start": 240.69,
+   "end": 244.4,
+   "text": "The tightening, close and firm."
+  },
+  {
+   "start": 244.25,
+   "end": 249.5,
+   "text": "The stretch, open and long."
+  },
+  {
+   "start": 249.35,
+   "end": 260.26,
+   "text": "Let your hands rest now, somewhere between the two, soft and comfortable."
+  },
+  {
+   "start": 260.11,
+   "end": 262.94,
+   "text": "Move to your arms."
+  },
+  {
+   "start": 262.79,
+   "end": 294.56,
+   "text": "Tighten them, bending your elbows, pulling your hands in towards your shoulders,"
+  },
+  {
+   "start": 294.41,
+   "end": 296.36,
+   "text": "making everything firm and close."
+  },
+  {
+   "start": 296.21,
+   "end": 296.86,
+   "text": "Hold this tightening for a moment."
+  },
+  {
+   "start": 296.23,
+   "end": 296.88,
+   "text": "Now stretch."
+  },
+  {
+   "start": 296.23,
+   "end": 296.88,
+   "text": "Slowly extend your arms outward, reaching as far as feels comfortable,"
+  },
+  {
+   "start": 296.23,
+   "end": 296.88,
+   "text": "lengthening from your shoulders all the way to your fingertips."
+  },
+  {
+   "start": 296.23,
+   "end": 305.42,
+   "text": "Notice this stretch settling into your muscles, gentle and satisfying."
+  },
+  {
+   "start": 305.27,
+   "end": 314.72,
+   "text": "Let your arms rest now, resting wherever feels natural."
+  },
+  {
+   "start": 314.57,
+   "end": 318.78,
+   "text": "Bring your attention to your shoulders."
+  },
+  {
+   "start": 318.63,
+   "end": 325.46,
+   "text": "Tighten them, lifting them up towards your ears, pulling them inward and close."
+  },
+  {
+   "start": 325.31,
+   "end": 328.2,
+   "text": "Hold this for a moment."
+  },
+  {
+   "start": 328.05,
+   "end": 331.0,
+   "text": "Now stretch."
+  },
+  {
+   "start": 330.85,
+   "end": 338.86,
+   "text": "Let your shoulders roll gently back down, opening your chest,"
+  },
+  {
+   "start": 338.71,
+   "end": 343.72,
+   "text": "lengthening the space across your collarbone."
+  },
+  {
+   "start": 343.57,
+   "end": 352.12,
+   "text": "Feel this openness settling in, wide and easy."
+  },
+  {
+   "start": 351.97,
+   "end": 355.08,
+   "text": "Move to your back."
+  },
+  {
+   "start": 354.93,
+   "end": 361.66,
+   "text": "Tighten it slightly, pulling your shoulder blades together, making the muscles firm."
+  },
+  {
+   "start": 361.51,
+   "end": 365.12,
+   "text": "Hold this tightening."
+  },
+  {
+   "start": 364.97,
+   "end": 367.92,
+   "text": "Now stretch."
+  },
+  {
+   "start": 367.77,
+   "end": 377.06,
+   "text": "Let your back lengthen, imagining space growing between each part of your spine,"
+  },
+  {
+   "start": 376.91,
+   "end": 383.0,
+   "text": "from your neck all the way down."
+  },
+  {
+   "start": 382.85,
+   "end": 393.06,
+   "text": "Notice your back feeling longer now, more open, more spacious."
+  },
+  {
+   "start": 392.91,
+   "end": 395.9,
+   "text": "Bring your attention to your legs."
+  },
+  {
+   "start": 395.75,
+   "end": 399.48,
+   "text": "Tighten them, pointing your toes,"
+  },
+  {
+   "start": 399.33,
+   "end": 403.92,
+   "text": "making the muscles firm from your thighs down to your feet."
+  },
+  {
+   "start": 403.77,
+   "end": 406.56,
+   "text": "Hold this for a moment."
+  },
+  {
+   "start": 406.41,
+   "end": 409.1,
+   "text": "Now stretch."
+  },
+  {
+   "start": 408.95,
+   "end": 418.94,
+   "text": "Let your legs lengthen, reaching gently outward, as if trying to touch something far away,"
+  },
+  {
+   "start": 418.79,
+   "end": 423.58,
+   "text": "without any strain."
+  },
+  {
+   "start": 423.43,
+   "end": 434.72,
+   "text": "Feel this stretch settling into your legs, long and comfortable."
+  },
+  {
+   "start": 434.57,
+   "end": 440.02,
+   "text": "Finally, tighten your whole body, all at once."
+  },
+  {
+   "start": 439.87,
+   "end": 449.12,
+   "text": "Every part, drawn inward, firm and close together, just for a moment."
+  },
+  {
+   "start": 448.97,
+   "end": 452.94,
+   "text": "And now, stretch everything outward."
+  },
+  {
+   "start": 452.79,
+   "end": 456.3,
+   "text": "Let your arms reach."
+  },
+  {
+   "start": 456.15,
+   "end": 459.0,
+   "text": "Let your legs lengthen."
+  },
+  {
+   "start": 458.85,
+   "end": 468.2,
+   "text": "Let your whole body open, as wide and as long as it comfortably can."
+  },
+  {
+   "start": 468.05,
+   "end": 480.86,
+   "text": "Notice this feeling spreading through you, this sense of openness, of space, of length."
+  },
+  {
+   "start": 480.71,
+   "end": 492.1,
+   "text": "Let your body rest now, settling naturally, somewhere between tight and stretched,"
+  },
+  {
+   "start": 491.95,
+   "end": 500.62,
+   "text": "in a place that feels balanced and calm."
+  },
+  {
+   "start": 500.47,
+   "end": 505.12,
+   "text": "There's something worth noticing here."
+  },
+  {
+   "start": 504.97,
+   "end": 511.72,
+   "text": "Your body moves naturally between these two states, tightening, and stretching,"
+  },
+  {
+   "start": 511.57,
+   "end": 517.56,
+   "text": "all day long, usually without your awareness."
+  },
+  {
+   "start": 517.41,
+   "end": 522.88,
+   "text": "Today, you've simply paid attention."
+  },
+  {
+   "start": 522.73,
+   "end": 529.24,
+   "text": "Stay here for a while, feeling this balance."
+  },
+  {
+   "start": 529.09,
+   "end": 531.6,
+   "text": "Not tight."
+  },
+  {
+   "start": 531.45,
+   "end": 534.58,
+   "text": "Not overly stretched."
+  },
+  {
+   "start": 534.43,
+   "end": 541.86,
+   "text": "Simply comfortable, simply at ease."
+  },
+  {
+   "start": 541.71,
+   "end": 548.86,
+   "text": "Let these gentle words settle into your mind."
+  },
+  {
+   "start": 548.71,
+   "end": 557.62,
+   "text": "My body knows how to tighten, and how to stretch."
+  },
+  {
+   "start": 557.47,
+   "end": 564.6,
+   "text": "I can find balance between the two."
+  },
+  {
+   "start": 564.45,
+   "end": 568.56,
+   "text": "I am open."
+  },
+  {
+   "start": 568.41,
+   "end": 574.22,
+   "text": "I am calm."
+  },
+  {
+   "start": 574.07,
+   "end": 582.52,
+   "text": "I am completely at rest."
+  },
+  {
+   "start": 582.37,
+   "end": 594.84,
+   "text": "Take another slow breath, and let these words settle a little deeper."
+  },
+  {
+   "start": 594.69,
+   "end": 599.92,
+   "text": "For a while longer, just stay here."
+  },
+  {
+   "start": 599.77,
+   "end": 602.04,
+   "text": "There's no rush to move, no need to do anything at all."
+  },
+  {
+   "start": 601.89,
+   "end": 623.3,
+   "text": "Let your body remain exactly as it is, soft, long, and calm."
+  },
+  {
+   "start": 623.15,
+   "end": 633.04,
+   "text": "Notice how peaceful it feels to simply exist in this balanced state,"
+  },
+  {
+   "start": 632.89,
+   "end": 637.62,
+   "text": "neither pulling inward, nor reaching outward."
+  },
+  {
+   "start": 637.47,
+   "end": 646.28,
+   "text": "Just present, just still."
+  },
+  {
+   "start": 646.13,
+   "end": 655.22,
+   "text": "When your mind feels ready, begin to notice small things around you."
+  },
+  {
+   "start": 655.07,
+   "end": 658.98,
+   "text": "The temperature of the air."
+  },
+  {
+   "start": 658.83,
+   "end": 662.12,
+   "text": "Any distant sounds."
+  },
+  {
+   "start": 661.97,
+   "end": 670.32,
+   "text": "Your breath, still slow, and steady."
+  },
+  {
+   "start": 670.17,
+   "end": 677.32,
+   "text": "Let your fingers move first, just slightly."
+  },
+  {
+   "start": 677.17,
+   "end": 690.6,
+   "text": "Then let your body take one long, gentle stretch, whatever feels natural,"
+  },
+  {
+   "start": 690.45,
+   "end": 697.44,
+   "text": "whatever your body wants in this moment."
+  },
+  {
+   "start": 697.29,
+   "end": 701.76,
+   "text": "Take your time returning."
+  },
+  {
+   "start": 701.61,
+   "end": 704.74,
+   "text": "There's no hurry."
+  },
+  {
+   "start": 704.59,
+   "end": 717.0,
+   "text": "Whenever you're ready, let your eyes open softly, taking in the light around you."
+  },
+  {
+   "start": 716.85,
+   "end": 722.22,
+   "text": "Carry this awareness with you."
+  },
+  {
+   "start": 722.07,
+   "end": 730.42,
+   "text": "Notice, throughout your day, the small moments when your body tightens,"
+  },
+  {
+   "start": 730.27,
+   "end": 737.3,
+   "text": "and the moments when it stretches and releases."
+  },
+  {
+   "start": 737.15,
+   "end": 740.66,
+   "text": "Both are natural."
+  },
+  {
+   "start": 740.51,
+   "end": 744.52,
+   "text": "Both have their place."
+  },
+  {
+   "start": 744.37,
+   "end": 748.22,
+   "text": "You are calm."
+  },
+  {
+   "start": 748.07,
+   "end": 752.86,
+   "text": "You are balanced."
+  },
+  {
+   "start": 752.71,
+   "end": 798.0,
+   "text": "And you are exactly where you need to be."
+  }
+ ]
+}

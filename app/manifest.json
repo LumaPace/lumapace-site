@@ -1,0 +1,21 @@
+{
+  "name": "LumaPace — Calm English",
+  "short_name": "LumaPace",
+  "id": "/",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FAF6EF",
+  "theme_color": "#4C6B5A",
+  "description": "Understand real English in 10 calm minutes a day. Guided meditations in natural English with phrase-by-phrase captions.",
+  "orientation": "any",
+  "categories": ["education", "health", "lifestyle"],
+  "lang": "en",
+  "prefer_related_applications": false,
+  "icons": [
+    {"src": "icons/Icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icons/Icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icons/Icon-maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable"},
+    {"src": "icons/Icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}

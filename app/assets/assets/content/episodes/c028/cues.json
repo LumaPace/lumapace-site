@@ -1,0 +1,637 @@
+{
+ "source": "faster-whisper small.en word timestamps aligned to script phrases",
+ "matchedWords": 635,
+ "scriptWords": 905,
+ "cues": [
+  {
+   "start": 0,
+   "end": 6.94,
+   "text": "Take a moment now, just for yourself."
+  },
+  {
+   "start": 6.79,
+   "end": 12.46,
+   "text": "Settle into whatever position feels right for you today."
+  },
+  {
+   "start": 12.31,
+   "end": 24.3,
+   "text": "Sitting, lying down, it doesn't matter, as long as your body feels held and comfortable."
+  },
+  {
+   "start": 24.15,
+   "end": 34.48,
+   "text": "Let your eyes close, softly, or rest gently downward if that feels better."
+  },
+  {
+   "start": 34.33,
+   "end": 42.72,
+   "text": "For the next few minutes, nothing needs your attention except this."
+  },
+  {
+   "start": 42.57,
+   "end": 48.72,
+   "text": "Just you, and this quiet space you've made."
+  },
+  {
+   "start": 48.57,
+   "end": 55.5,
+   "text": "Feel the weight of your body against the surface beneath you."
+  },
+  {
+   "start": 55.35,
+   "end": 60.36,
+   "text": "Notice how it holds you completely."
+  },
+  {
+   "start": 60.21,
+   "end": 63.62,
+   "text": "Let your hands rest."
+  },
+  {
+   "start": 63.47,
+   "end": 67.34,
+   "text": "Let your shoulders soften."
+  },
+  {
+   "start": 67.19,
+   "end": 71.84,
+   "text": "Take a slow breath in\u2026"
+  },
+  {
+   "start": 71.69,
+   "end": 78.4,
+   "text": "and let it go."
+  },
+  {
+   "start": 78.25,
+   "end": 81.3,
+   "text": "Once more."
+  },
+  {
+   "start": 81.15,
+   "end": 83.58,
+   "text": "Breathe in\u2026"
+  },
+  {
+   "start": 83.43,
+   "end": 90.18,
+   "text": "breathe out."
+  },
+  {
+   "start": 90.03,
+   "end": 97.7,
+   "text": "Let your breath find its own natural pace, slow and unhurried,"
+  },
+  {
+   "start": 97.55,
+   "end": 103.92,
+   "text": "needing nothing from you but your attention."
+  },
+  {
+   "start": 103.77,
+   "end": 109.96,
+   "text": "Today, we're going to work with two simple actions,"
+  },
+  {
+   "start": 109.81,
+   "end": 114.78,
+   "text": "actions your body already knows how to do."
+  },
+  {
+   "start": 114.63,
+   "end": 119.18,
+   "text": "The first is to tense."
+  },
+  {
+   "start": 119.03,
+   "end": 129.84,
+   "text": "To tense means to make your muscles hard because you are nervous, scared or stressed."
+  },
+  {
+   "start": 129.69,
+   "end": 162.48,
+   "text": "The second is to release."
+  },
+  {
+   "start": 162.33,
+   "end": 167.06,
+   "text": "To release means let your muscles relax, completely, all at once,"
+  },
+  {
+   "start": 166.91,
+   "end": 192.8,
+   "text": "like opening a hand that was closed."
+  },
+  {
+   "start": 192.65,
+   "end": 195.37,
+   "text": "We'll move slowly through the body, tensing one part at a time, then releasing."
+  },
+  {
+   "start": 195.22,
+   "end": 195.87,
+   "text": "Tense\u2026"
+  },
+  {
+   "start": 195.48,
+   "end": 196.13,
+   "text": "and release."
+  },
+  {
+   "start": 195.51,
+   "end": 196.16,
+   "text": "There's no need to rush."
+  },
+  {
+   "start": 195.51,
+   "end": 196.16,
+   "text": "Each part deserves its own quiet attention."
+  },
+  {
+   "start": 195.51,
+   "end": 196.16,
+   "text": "Start with your hands."
+  },
+  {
+   "start": 195.51,
+   "end": 196.16,
+   "text": "Make two fists."
+  },
+  {
+   "start": 195.51,
+   "end": 196.16,
+   "text": "Squeeze tightly."
+  },
+  {
+   "start": 195.51,
+   "end": 196.16,
+   "text": "Feel the tension building in your fingers, your palms, your wrists."
+  },
+  {
+   "start": 195.51,
+   "end": 196.16,
+   "text": "Hold it for a moment longer."
+  },
+  {
+   "start": 195.51,
+   "end": 196.16,
+   "text": "Now release."
+  },
+  {
+   "start": 195.51,
+   "end": 196.16,
+   "text": "Let your hands open completely."
+  },
+  {
+   "start": 195.51,
+   "end": 201.66,
+   "text": "Let your fingers fall soft and loose."
+  },
+  {
+   "start": 201.51,
+   "end": 204.8,
+   "text": "Notice the difference."
+  },
+  {
+   "start": 204.65,
+   "end": 213.3,
+   "text": "Notice how much lighter your hands feel now, compared to a moment ago."
+  },
+  {
+   "start": 213.15,
+   "end": 221.38,
+   "text": "This lightness has always been available to you."
+  },
+  {
+   "start": 221.23,
+   "end": 223.02,
+   "text": "Move to your arms."
+  },
+  {
+   "start": 222.87,
+   "end": 229.24,
+   "text": "Bend your elbows slightly, and tense them."
+  },
+  {
+   "start": 229.09,
+   "end": 269.16,
+   "text": "Make them firm, from your upper arms down to your wrists."
+  },
+  {
+   "start": 269.01,
+   "end": 270.44,
+   "text": "Hold that tension."
+  },
+  {
+   "start": 270.29,
+   "end": 270.94,
+   "text": "And release."
+  },
+  {
+   "start": 270.29,
+   "end": 270.94,
+   "text": "Let your arms fall heavy, resting completely, doing nothing at all."
+  },
+  {
+   "start": 270.29,
+   "end": 270.94,
+   "text": "Notice this feeling."
+  },
+  {
+   "start": 270.29,
+   "end": 270.94,
+   "text": "This is what relaxation feels like, right after tension leaves."
+  },
+  {
+   "start": 270.29,
+   "end": 271.33,
+   "text": "A kind of softness that spreads quietly outward."
+  },
+  {
+   "start": 271.18,
+   "end": 278.54,
+   "text": "Bring your attention to your shoulders."
+  },
+  {
+   "start": 278.39,
+   "end": 279.26,
+   "text": "Lift them towards your ears, and tense them there, firm and tight."
+  },
+  {
+   "start": 279.11,
+   "end": 279.76,
+   "text": "Hold it."
+  },
+  {
+   "start": 279.19,
+   "end": 282.54,
+   "text": "And release."
+  },
+  {
+   "start": 282.39,
+   "end": 289.8,
+   "text": "Let them drop, far from your ears, completely loose."
+  },
+  {
+   "start": 289.65,
+   "end": 295.24,
+   "text": "Feel your shoulders sink a little deeper into stillness,"
+  },
+  {
+   "start": 295.09,
+   "end": 302.58,
+   "text": "as if they're settling into the surface beneath you."
+  },
+  {
+   "start": 302.43,
+   "end": 305.6,
+   "text": "Move to your face."
+  },
+  {
+   "start": 305.45,
+   "end": 306.68,
+   "text": "Tense it gently."
+  },
+  {
+   "start": 306.53,
+   "end": 313.12,
+   "text": "Close your eyes tightly, press your lips together, tighten your jaw."
+  },
+  {
+   "start": 312.97,
+   "end": 314.52,
+   "text": "Hold for this moment."
+  },
+  {
+   "start": 314.37,
+   "end": 318.43,
+   "text": "And release."
+  },
+  {
+   "start": 318.28,
+   "end": 321.82,
+   "text": "Let your whole face go soft."
+  },
+  {
+   "start": 321.67,
+   "end": 325.78,
+   "text": "Let your jaw drop slightly."
+  },
+  {
+   "start": 325.63,
+   "end": 331.83,
+   "text": "Let your eyes rest, heavy and calm."
+  },
+  {
+   "start": 331.68,
+   "end": 334.85,
+   "text": "Notice how quickly the tension disappeared, once you let it go."
+  },
+  {
+   "start": 334.7,
+   "end": 335.35,
+   "text": "Tension often needs less effort to release than we imagine."
+  },
+  {
+   "start": 335.0,
+   "end": 335.65,
+   "text": "Bring your attention to your stomach."
+  },
+  {
+   "start": 335.03,
+   "end": 361.35,
+   "text": "Tense it, pulling it in slightly, making it firm."
+  },
+  {
+   "start": 361.2,
+   "end": 361.85,
+   "text": "Hold it there."
+  },
+  {
+   "start": 361.3,
+   "end": 361.95,
+   "text": "And release."
+  },
+  {
+   "start": 361.31,
+   "end": 367.6,
+   "text": "Let it soften completely, rising and falling gently with your breath,"
+  },
+  {
+   "start": 367.45,
+   "end": 374.42,
+   "text": "as if it never held any tightness at all."
+  },
+  {
+   "start": 374.27,
+   "end": 375.7,
+   "text": "Now your legs."
+  },
+  {
+   "start": 375.55,
+   "end": 387.38,
+   "text": "Straighten them slightly, and tense the muscles there, from your thighs down to your feet."
+  },
+  {
+   "start": 387.23,
+   "end": 420.93,
+   "text": "Hold this tension for a few seconds."
+  },
+  {
+   "start": 420.78,
+   "end": 424.29,
+   "text": "And release."
+  },
+  {
+   "start": 424.14,
+   "end": 424.79,
+   "text": "Let your legs fall heavy, sinking into the surface beneath you, completely supported."
+  },
+  {
+   "start": 424.47,
+   "end": 425.12,
+   "text": "Take a slow breath here, noticing how much of your body has already softened."
+  },
+  {
+   "start": 424.51,
+   "end": 425.16,
+   "text": "Notice how one release seems to lead gently into the next."
+  },
+  {
+   "start": 424.51,
+   "end": 441.9,
+   "text": "Finally, tense your whole body, all at once."
+  },
+  {
+   "start": 441.75,
+   "end": 443.22,
+   "text": "Every muscle, from your head to your feet."
+  },
+  {
+   "start": 443.07,
+   "end": 443.72,
+   "text": "Your hands, to your arms, your shoulders, your face, your stomach, your legs."
+  },
+  {
+   "start": 443.07,
+   "end": 443.72,
+   "text": "Hold everything tight, just for a moment."
+  },
+  {
+   "start": 443.07,
+   "end": 443.72,
+   "text": "And now, release everything."
+  },
+  {
+   "start": 443.07,
+   "end": 443.72,
+   "text": "All at once."
+  },
+  {
+   "start": 443.07,
+   "end": 449.78,
+   "text": "Let your entire body go completely soft."
+  },
+  {
+   "start": 449.63,
+   "end": 454.86,
+   "text": "Notice this feeling spreading through you,"
+  },
+  {
+   "start": 454.71,
+   "end": 461.5,
+   "text": "like a wave moving slowly from your head down to your feet."
+  },
+  {
+   "start": 461.35,
+   "end": 468.88,
+   "text": "This deep, complete release."
+  },
+  {
+   "start": 468.73,
+   "end": 473.22,
+   "text": "Tension always passes."
+  },
+  {
+   "start": 473.07,
+   "end": 479.36,
+   "text": "It rises, and it falls, the same way your breath rises and falls."
+  },
+  {
+   "start": 479.21,
+   "end": 482.9,
+   "text": "You don't need to fight it."
+  },
+  {
+   "start": 482.75,
+   "end": 491.28,
+   "text": "You only need to notice it, and then, let it go."
+  },
+  {
+   "start": 491.13,
+   "end": 499.56,
+   "text": "Stay here for a while, simply feeling this stillness."
+  },
+  {
+   "start": 499.41,
+   "end": 503.22,
+   "text": "No more tensing."
+  },
+  {
+   "start": 503.07,
+   "end": 506.16,
+   "text": "Only release."
+  },
+  {
+   "start": 506.01,
+   "end": 510.72,
+   "text": "Only rest."
+  },
+  {
+   "start": 510.57,
+   "end": 518.86,
+   "text": "Let these gentle words settle into your mind."
+  },
+  {
+   "start": 518.71,
+   "end": 526.36,
+   "text": "I release what I no longer need."
+  },
+  {
+   "start": 526.21,
+   "end": 535.52,
+   "text": "My body knows how to let it go."
+  },
+  {
+   "start": 535.37,
+   "end": 541.62,
+   "text": "I am calm."
+  },
+  {
+   "start": 541.47,
+   "end": 548.66,
+   "text": "I am safe."
+  },
+  {
+   "start": 548.51,
+   "end": 558.38,
+   "text": "I am completely at rest."
+  },
+  {
+   "start": 558.23,
+   "end": 567.42,
+   "text": "Take another slow breath, and let these words become part of you."
+  },
+  {
+   "start": 567.27,
+   "end": 573.18,
+   "text": "For a little while longer, just stay here."
+  },
+  {
+   "start": 573.03,
+   "end": 577.52,
+   "text": "There's no rush to leave this feeling."
+  },
+  {
+   "start": 577.37,
+   "end": 588.1,
+   "text": "Let your body remain heavy, loose, and quiet, for as long as it needs."
+  },
+  {
+   "start": 587.95,
+   "end": 597.12,
+   "text": "Let your mind rest in this same stillness, without needing to think, or plan,"
+  },
+  {
+   "start": 596.97,
+   "end": 603.32,
+   "text": "or hold onto anything at all."
+  },
+  {
+   "start": 603.17,
+   "end": 616.8,
+   "text": "Notice how peaceful it is to simply be, without effort, without tension,"
+  },
+  {
+   "start": 616.65,
+   "end": 623.8,
+   "text": "without needing to be anywhere else."
+  },
+  {
+   "start": 623.65,
+   "end": 633.06,
+   "text": "When your mind feels ready, start to notice small things around you."
+  },
+  {
+   "start": 632.91,
+   "end": 637.08,
+   "text": "The temperature of the air."
+  },
+  {
+   "start": 636.93,
+   "end": 640.0,
+   "text": "Any distant sounds."
+  },
+  {
+   "start": 639.85,
+   "end": 650.2,
+   "text": "The rhythm of your own breath, still slow and steady."
+  },
+  {
+   "start": 650.05,
+   "end": 656.26,
+   "text": "Let your fingers move first, just slightly."
+  },
+  {
+   "start": 656.11,
+   "end": 658.4,
+   "text": "Then your feet."
+  },
+  {
+   "start": 658.25,
+   "end": 667.1,
+   "text": "Small movements, waking up gently, without rushing this transition."
+  },
+  {
+   "start": 666.95,
+   "end": 671.66,
+   "text": "Take your time opening your eyes."
+  },
+  {
+   "start": 671.51,
+   "end": 674.36,
+   "text": "There's no hurry."
+  },
+  {
+   "start": 674.21,
+   "end": 687.44,
+   "text": "Let the calm you found stay with you as your eyes slowly adjust to the light around you."
+  },
+  {
+   "start": 687.29,
+   "end": 700.32,
+   "text": "Whatever you carry from this moment, let it be this: your body knows how to release."
+  },
+  {
+   "start": 700.17,
+   "end": 702.78,
+   "text": "It always has."
+  },
+  {
+   "start": 702.63,
+   "end": 706.0,
+   "text": "And it always will."
+  },
+  {
+   "start": 705.85,
+   "end": 716.0,
+   "text": "Anytime tension returns, you can come back to this simple rhythm, tense, and release,"
+  },
+  {
+   "start": 715.85,
+   "end": 761.0,
+   "text": "and find this same stillness waiting for you."
+  }
+ ]
+}

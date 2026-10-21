@@ -1,0 +1,572 @@
+{
+ "source": "faster-whisper small.en word timestamps aligned to script phrases",
+ "matchedWords": 957,
+ "scriptWords": 974,
+ "cues": [
+  {
+   "start": 0,
+   "end": 10.3,
+   "text": "Let your eyes close, gently, like a curtain closing at the end of a quiet day."
+  },
+  {
+   "start": 10.15,
+   "end": 20.2,
+   "text": "Or, if you prefer, let them rest softly, looking down, unfocused."
+  },
+  {
+   "start": 20.05,
+   "end": 25.44,
+   "text": "For these next few minutes, there's nothing you need to do,"
+  },
+  {
+   "start": 25.29,
+   "end": 29.54,
+   "text": "and nothing you need to think about."
+  },
+  {
+   "start": 29.39,
+   "end": 32.24,
+   "text": "Just this."
+  },
+  {
+   "start": 32.09,
+   "end": 38.24,
+   "text": "Just you, resting here."
+  },
+  {
+   "start": 38.09,
+   "end": 43.24,
+   "text": "Feel the surface beneath you, supporting you completely."
+  },
+  {
+   "start": 43.09,
+   "end": 55.12,
+   "text": "Notice your body sinking a little, becoming heavier, more still."
+  },
+  {
+   "start": 54.97,
+   "end": 58.16,
+   "text": "Take a slow breath in\u2026"
+  },
+  {
+   "start": 58.01,
+   "end": 63.24,
+   "text": "and let it out."
+  },
+  {
+   "start": 63.09,
+   "end": 64.56,
+   "text": "One more."
+  },
+  {
+   "start": 64.41,
+   "end": 67.14,
+   "text": "In\u2026"
+  },
+  {
+   "start": 66.99,
+   "end": 71.86,
+   "text": "and out."
+  },
+  {
+   "start": 71.71,
+   "end": 73.96,
+   "text": "Today,"
+  },
+  {
+   "start": 73.81,
+   "end": 83.72,
+   "text": "we're going to bring our attention to two parts of the body that carry us through every single day,"
+  },
+  {
+   "start": 83.57,
+   "end": 87.28,
+   "text": "often without much thanks."
+  },
+  {
+   "start": 87.13,
+   "end": 94.14,
+   "text": "Your hands, and your feet."
+  },
+  {
+   "start": 93.99,
+   "end": 98.24,
+   "text": "We rarely stop to notice them."
+  },
+  {
+   "start": 98.09,
+   "end": 108.56,
+   "text": "They work quietly, constantly, holding things, carrying us, touching the world around us."
+  },
+  {
+   "start": 108.41,
+   "end": 114.1,
+   "text": "Today, we'll give them the attention they deserve."
+  },
+  {
+   "start": 113.95,
+   "end": 118.24,
+   "text": "Let's begin with your hands."
+  },
+  {
+   "start": 118.09,
+   "end": 121.18,
+   "text": "Bring your awareness there now."
+  },
+  {
+   "start": 121.03,
+   "end": 129.88,
+   "text": "Notice how they feel, resting, doing nothing at all."
+  },
+  {
+   "start": 129.73,
+   "end": 137.14,
+   "text": "In the center of each hand, there is a part called the palm."
+  },
+  {
+   "start": 136.99,
+   "end": 142.32,
+   "text": "Your palm is the soft, inside surface of your hand,"
+  },
+  {
+   "start": 142.17,
+   "end": 148.48,
+   "text": "the inside part of your hand where your fingers begin."
+  },
+  {
+   "start": 148.33,
+   "end": 153.82,
+   "text": "Bring your attention to your palms now."
+  },
+  {
+   "start": 153.67,
+   "end": 158.24,
+   "text": "Notice if they feel warm, or cool."
+  },
+  {
+   "start": 158.09,
+   "end": 165.48,
+   "text": "Notice if they feel open, or slightly closed."
+  },
+  {
+   "start": 165.33,
+   "end": 173.9,
+   "text": "Imagine, for a moment, that your palms are resting in warm sunlight."
+  },
+  {
+   "start": 173.75,
+   "end": 184.18,
+   "text": "Feel this warmth spreading slowly across them, soft and comforting."
+  },
+  {
+   "start": 184.03,
+   "end": 189.16,
+   "text": "Let your palms soften completely."
+  },
+  {
+   "start": 189.01,
+   "end": 201.2,
+   "text": "Let them feel open, relaxed, asking for nothing, holding nothing."
+  },
+  {
+   "start": 201.05,
+   "end": 207.6,
+   "text": "Notice your fingers too, resting beside your palms."
+  },
+  {
+   "start": 207.45,
+   "end": 216.18,
+   "text": "Let them curl, ever so slightly, the way they naturally want to do."
+  },
+  {
+   "start": 216.03,
+   "end": 220.12,
+   "text": "Your hands have touched so many things."
+  },
+  {
+   "start": 219.97,
+   "end": 222.28,
+   "text": "Held so many things."
+  },
+  {
+   "start": 222.13,
+   "end": 231.64,
+   "text": "And right now, they can simply rest, empty, and calm."
+  },
+  {
+   "start": 231.49,
+   "end": 242.1,
+   "text": "Take a slow breath in, and imagine that breath moving all the way down into your palms."
+  },
+  {
+   "start": 241.95,
+   "end": 252.54,
+   "text": "Breathe out, and feel your palms grow even softer, even heavier."
+  },
+  {
+   "start": 252.39,
+   "end": 260.0,
+   "text": "Now, let's move our attention down to your feet."
+  },
+  {
+   "start": 259.85,
+   "end": 268.09,
+   "text": "At the bottom of each foot, there is a part called the sole."
+  },
+  {
+   "start": 267.94,
+   "end": 272.74,
+   "text": "Your sole is the underside of your foot,"
+  },
+  {
+   "start": 272.59,
+   "end": 279.98,
+   "text": "the part that touches the ground every time you walk, every time you stand."
+  },
+  {
+   "start": 279.83,
+   "end": 284.4,
+   "text": "Bring your awareness there now."
+  },
+  {
+   "start": 284.25,
+   "end": 290.64,
+   "text": "Notice your soles, resting against the surface beneath you,"
+  },
+  {
+   "start": 290.49,
+   "end": 298.3,
+   "text": "or resting gently in the air if your feet are raised."
+  },
+  {
+   "start": 298.15,
+   "end": 306.08,
+   "text": "Think about everything your feet carry you through, every single day."
+  },
+  {
+   "start": 305.93,
+   "end": 313.18,
+   "text": "Every step, every place you've walked, every doorway you've crossed."
+  },
+  {
+   "start": 313.03,
+   "end": 320.44,
+   "text": "Your soles have felt the ground beneath countless moments of your life,"
+  },
+  {
+   "start": 320.29,
+   "end": 327.02,
+   "text": "and they rarely receive a single thought of gratitude."
+  },
+  {
+   "start": 326.87,
+   "end": 335.08,
+   "text": "Let's give them that thought now."
+  },
+  {
+   "start": 334.93,
+   "end": 345.46,
+   "text": "Imagine warm sand beneath your soles, soft and fine, still warm from the afternoon sun."
+  },
+  {
+   "start": 345.31,
+   "end": 353.12,
+   "text": "Feel the gentle weight of it, pressing softly against your skin."
+  },
+  {
+   "start": 352.97,
+   "end": 357.3,
+   "text": "Let your soles soften completely."
+  },
+  {
+   "start": 357.15,
+   "end": 368.3,
+   "text": "Let any tightness there melt slowly away, sinking into that warm, soft sand."
+  },
+  {
+   "start": 368.15,
+   "end": 376.72,
+   "text": "Take a slow breath in, sending your awareness down into your feet."
+  },
+  {
+   "start": 376.57,
+   "end": 388.36,
+   "text": "Breathe out, and let your soles feel completely at rest, heavy, and calm."
+  },
+  {
+   "start": 388.21,
+   "end": 398.46,
+   "text": "Notice now, both your palms and your soles, resting quietly."
+  },
+  {
+   "start": 398.31,
+   "end": 407.78,
+   "text": "Your palms, facing gently upward or resting softly at your sides."
+  },
+  {
+   "start": 407.63,
+   "end": 417.7,
+   "text": "Your soles, resting against the ground, or floating gently in stillness."
+  },
+  {
+   "start": 417.55,
+   "end": 423.52,
+   "text": "These two parts of your body rarely touch each other,"
+  },
+  {
+   "start": 423.37,
+   "end": 427.84,
+   "text": "rarely share the same kind of attention."
+  },
+  {
+   "start": 427.69,
+   "end": 441.3,
+   "text": "But right now, in this moment, they are both completely relaxed, both completely still."
+  },
+  {
+   "start": 441.15,
+   "end": 444.44,
+   "text": "Let this stillness spread."
+  },
+  {
+   "start": 444.29,
+   "end": 451.7,
+   "text": "From your palms, up through your arms, into your shoulders."
+  },
+  {
+   "start": 451.55,
+   "end": 458.74,
+   "text": "From your soles, up through your legs, into your hips."
+  },
+  {
+   "start": 458.59,
+   "end": 466.24,
+   "text": "Meeting somewhere in the middle, in your chest, where your breath continues,"
+  },
+  {
+   "start": 466.09,
+   "end": 474.74,
+   "text": "slow and steady, in and out."
+  },
+  {
+   "start": 474.59,
+   "end": 480.38,
+   "text": "Notice how connected your whole body feels right now."
+  },
+  {
+   "start": 480.23,
+   "end": 484.68,
+   "text": "Every part playing its role."
+  },
+  {
+   "start": 484.53,
+   "end": 492.5,
+   "text": "Every part, right now, simply resting."
+  },
+  {
+   "start": 492.35,
+   "end": 498.32,
+   "text": "There's something quietly beautiful about hands and feet."
+  },
+  {
+   "start": 498.17,
+   "end": 504.82,
+   "text": "They ask for so little, and yet they carry us through everything."
+  },
+  {
+   "start": 504.67,
+   "end": 512.56,
+   "text": "Every hug we give, every step we take, begins with them."
+  },
+  {
+   "start": 512.41,
+   "end": 519.1,
+   "text": "Today, let this be a small thank you."
+  },
+  {
+   "start": 518.95,
+   "end": 528.66,
+   "text": "A few quiet minutes of rest, for parts of you that rarely stop working."
+  },
+  {
+   "start": 528.51,
+   "end": 536.6,
+   "text": "Let these gentle words settle into your mind."
+  },
+  {
+   "start": 536.45,
+   "end": 542.72,
+   "text": "My palms are open, and calm."
+  },
+  {
+   "start": 542.57,
+   "end": 549.42,
+   "text": "My soles are soft, and supported."
+  },
+  {
+   "start": 549.27,
+   "end": 557.98,
+   "text": "My body carries me gently, through each day."
+  },
+  {
+   "start": 557.83,
+   "end": 563.66,
+   "text": "I am grateful for this body."
+  },
+  {
+   "start": 563.51,
+   "end": 570.46,
+   "text": "I am completely at rest."
+  },
+  {
+   "start": 570.31,
+   "end": 580.22,
+   "text": "Take another slow breath, and let these words settle deeper."
+  },
+  {
+   "start": 580.07,
+   "end": 584.5,
+   "text": "Stay here a little longer,"
+  },
+  {
+   "start": 584.35,
+   "end": 591.58,
+   "text": "noticing this quiet connection between your hands and your feet."
+  },
+  {
+   "start": 591.43,
+   "end": 594.14,
+   "text": "Both resting."
+  },
+  {
+   "start": 593.99,
+   "end": 596.39,
+   "text": "Both still."
+  },
+  {
+   "start": 596.24,
+   "end": 602.33,
+   "text": "Both completely at peace."
+  },
+  {
+   "start": 602.18,
+   "end": 607.13,
+   "text": "There's no need to rush away from this feeling."
+  },
+  {
+   "start": 606.98,
+   "end": 618.15,
+   "text": "Let it stay with you for as long as you'd like, this sense of your whole body, cared for,"
+  },
+  {
+   "start": 618.0,
+   "end": 622.29,
+   "text": "and calm."
+  },
+  {
+   "start": 622.14,
+   "end": 633.87,
+   "text": "When you feel ready, and only when you feel ready, begin to bring a little movement back."
+  },
+  {
+   "start": 633.72,
+   "end": 640.11,
+   "text": "Not quickly, just a small awakening."
+  },
+  {
+   "start": 639.96,
+   "end": 645.03,
+   "text": "Notice your palms first."
+  },
+  {
+   "start": 644.88,
+   "end": 656.99,
+   "text": "Let your fingers stretch out, slowly, like they're waking up after a long, peaceful rest."
+  },
+  {
+   "start": 656.84,
+   "end": 660.41,
+   "text": "Then notice your soles."
+  },
+  {
+   "start": 660.26,
+   "end": 671.97,
+   "text": "Let your toes move gently, just slightly, feeling the surface beneath them once again."
+  },
+  {
+   "start": 671.82,
+   "end": 679.01,
+   "text": "Take a breath in, and let it fill your whole body."
+  },
+  {
+   "start": 678.86,
+   "end": 687.63,
+   "text": "Breathe out, slow and complete."
+  },
+  {
+   "start": 687.48,
+   "end": 699.57,
+   "text": "Whenever you're ready, let your eyes open softly, taking in the light around you."
+  },
+  {
+   "start": 699.42,
+   "end": 708.77,
+   "text": "Before you continue with your day, take one more moment."
+  },
+  {
+   "start": 708.62,
+   "end": 713.33,
+   "text": "Look at your hands, if you can."
+  },
+  {
+   "start": 713.18,
+   "end": 716.25,
+   "text": "Notice your palms."
+  },
+  {
+   "start": 716.1,
+   "end": 726.81,
+   "text": "Think about everything they've done for you, and everything they'll continue to do."
+  },
+  {
+   "start": 726.66,
+   "end": 731.65,
+   "text": "And remember, even when you're standing,"
+  },
+  {
+   "start": 731.5,
+   "end": 740.71,
+   "text": "even when you're walking through your busiest moments, your soles are still there,"
+  },
+  {
+   "start": 740.56,
+   "end": 748.63,
+   "text": "quietly supporting you, one step at a time."
+  },
+  {
+   "start": 748.48,
+   "end": 752.99,
+   "text": "Carry this small awareness with you."
+  },
+  {
+   "start": 752.84,
+   "end": 765.71,
+   "text": "A little gratitude, for two parts of you that ask for very little, and give so much."
+  },
+  {
+   "start": 765.56,
+   "end": 769.61,
+   "text": "You are calm."
+  },
+  {
+   "start": 769.46,
+   "end": 774.13,
+   "text": "You are supported."
+  },
+  {
+   "start": 773.98,
+   "end": 823.0,
+   "text": "And you are exactly where you need to be."
+  }
+ ]
+}

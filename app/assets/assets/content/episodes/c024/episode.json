@@ -1,0 +1,78 @@
+{
+  "id": "c024",
+  "slug": "coffee-shop-vocabulary",
+  "title": "Coffee Shop Vocabulary",
+  "summary": "Order a caramel latte on a rainy day: aroma, barista, stirrer.",
+  "durationSeconds": 400,
+  "access": "premium",
+  "published": true,
+  "number": 23,
+  "catalogNumber": "024",
+  "theme": "store",
+  "script": "Today, you’ll order and enjoy a delicious coffee.\nImagine it’s a rainy day, and to take shelter from the rain, you step into a cozy coffee shop.\nThe coffee shop has a wonderful aroma.\nAroma means a pleasant smell. Mmm. (Sniffing)\nYou get in line and order a caramel latte.\nNotice how caramel is pronounced: (car-mul) or  (care-uh-mel). And notice how latte is pronounced: (lah-tay).\nA latte is espresso mixed with a lot of hot milk.\nAnd you can hear the barista preparing your latte.\nA barista is a person who makes and serves coffee at a coffee shop.\nListen. You can hear the coffee machine making your espresso.\nAnd now, you can hear the barista pouring hot milk into the cup.\nFinally, he adds a pump of caramel and hands you the cup.\nYou slowly walk over to another counter and grab a stirrer.\nA stirrer is a small stick used to stir or mix coffee, especially after adding sugar, milk, or cream.\nYou also grab a packet of sugar and add some sugar to your latte.\nYou stir your coffee, and now you’re ready to drink it.\nYour body starts to feel warmer and more relaxed.\nYou don’t feel cold anymore.\nYour body feels warm and comfortable as you enjoy the comforting taste of your coffee.\nEnjoy it!",
+  "vocabulary": [
+    {
+      "word": "aroma",
+      "definition": "a pleasant smell"
+    },
+    {
+      "word": "latte",
+      "definition": "espresso mixed with a lot of hot milk"
+    },
+    {
+      "word": "barista",
+      "definition": "a person who makes and serves coffee at a coffee shop"
+    },
+    {
+      "word": "stirrer",
+      "definition": "a small stick used to stir or mix coffee"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "practice_1",
+      "sentence": "What does “aroma” mean?",
+      "options": [
+        "A loud sound",
+        "A pleasant smell",
+        "A warm drink"
+      ],
+      "correctAnswer": "A pleasant smell"
+    },
+    {
+      "id": "practice_2",
+      "sentence": "What is a latte?",
+      "options": [
+        "Espresso mixed with a lot of hot milk",
+        "Coffee mixed with cold water",
+        "Tea mixed with cream"
+      ],
+      "correctAnswer": "Espresso mixed with a lot of hot milk"
+    },
+    {
+      "id": "practice_3",
+      "sentence": "What does a barista do?",
+      "options": [
+        "Repairs coffee machines",
+        "Delivers milk to shops",
+        "Makes and serves coffee"
+      ],
+      "correctAnswer": "Makes and serves coffee"
+    },
+    {
+      "id": "practice_4",
+      "sentence": "What is a stirrer used for?",
+      "options": [
+        "Mixing coffee",
+        "Carrying a cup",
+        "Grinding coffee beans"
+      ],
+      "correctAnswer": "Mixing coffee"
+    }
+  ],
+  "audioAsset": null,
+  "sourceAudio": "assets/content/episodes/c024/audio.mp3",
+  "audioMd5": "cdda892b959da21e784ecba9e1381b70",
+  "source": "Google Drive FINALIZADOS 024 (read-only copy, 2026-10-14)",
+  "streamId": "c024"
+}

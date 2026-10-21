@@ -1,0 +1,70 @@
+{
+  "id": "c029",
+  "slug": "a-visualization-meditation",
+  "title": "A Visualization Meditation",
+  "summary": "Feel steady like a tree: grounded and ungrounded.",
+  "durationSeconds": 792,
+  "access": "premium",
+  "published": true,
+  "number": 27,
+  "catalogNumber": "029",
+  "theme": "forest",
+  "script": "Hello lovely English learner, and welcome to this visualization meditation. Take a moment to arrive here, exactly as you are, wherever your day has taken you so far. \nFind a position that feels right for you. Sitting, lying down, whatever your body prefers in this moment. Let yourself settle in slowly, without rushing. \nYou can close your eyes gently, or let them rest softly, looking downward, unfocused. \nFor these next few minutes, there's nowhere else to be. Just this quiet space, and a little time with your own breath. \nFeel the surface beneath you, holding your body completely. Let your shoulders drop. Let your hands rest. \nTake a slow breath in… and let it out. \nOnce more. In… and out. \nToday, we're going to explore two words that describe how connected we feel, either to the earth beneath us or to something far away from it. \nThe first word is grounded.\nTo feel grounded means to feel calm, present, and emotionally balanced. For example, you might feel more grounded after spending time in nature.\n\"Grounded\" can also mean that someone is not allowed to go out as a punishment. For example, “The kid is grounded until Friday.”\nBut for this meditation, we’re focusing on being grounded as feeling calm and present.\nThe second word we're learning today is ungrounded. To feel ungrounded means to feel unsteady, disconnected, or not fully present. You may feel like you’re floating or moving without direction.\nBoth feelings are part of being human. Today, we'll gently move from one toward the other. \nLet's begin with a simple visualization. Imagine, in your mind, a tall tree. It doesn't matter what kind, choose whatever tree feels comfortable to you. \nNotice this tree standing quietly, its trunk strong, its branches reaching upward, toward the sky. \nNow imagine its roots, deep beneath the ground, spreading wide, holding this tree firmly in place. These roots keep the tree grounded, no matter how strong the wind blows above.\n\nImagine, for a moment, that you are this tree. Your body is the trunk, steady and strong. Your legs, or the base of your body, are the roots, reaching down into the earth beneath you. \nFeel this connection now. Feel yourself grounded, steady, held firmly in place, just like this tree. \nTake a slow breath in, imagining this groundedness settling deeper into your body. Breathe out, feeling even more connected to the earth beneath you. \nSometimes, though, we feel ungrounded. Our thoughts move quickly, jumping from place to place, and our body feels light, unsteady, like it might float away at any moment. \nIf you've ever felt this way, you already know this feeling. It's not wrong, it simply means, for a moment, you've lost that steady connection. \nLet's practice moving gently from ungrounded, back to grounded, wherever you need to. \nImagine now, just for a moment, that same leaf caught in the wind, moving without direction, ungrounded, uncertain. \nNotice how this feels, light, and a little unsettled. \nAnd now, imagine that leaf slowly drifting downward, landing gently on the earth. The moment it touches the ground, it becomes still. Connected. Grounded once again. \nThis is what we are practicing today. This gentle return, from ungrounded, back to grounded, whenever life makes us feel like that floating leaf. \nBring your attention back to your own body now. Notice when you're touching the ground, or the surface beneath you. This is your connection point, right here, right now. \nImagine roots extending from this point, deep into the earth below you. Feel these roots holding you steady, keeping you grounded, no matter what's happening around you. \nTake a slow breath in, feeling this steadiness. Breathe out, releasing anything that feels unsettled, ungrounded, letting it drift away like a leaf caught in a gentle breeze. \nNotice how it feels to be grounded, right now, in this exact moment. Steady. Calm. Connected.\nThis feeling is always available to you, even on days when you feel ungrounded or uncertain. You can always return here, to this simple connection with the ground beneath you. \nLet's stay in this grounded feeling a little longer. Notice your body, heavy, and supported. Notice your breath, steady, and calm. Notice the earth beneath you, holding you completely, exactly as it holds that strong, steady tree. \nLet these gentle words settle into your mind. \nI am connected to the ground beneath me. \nI am steady, like roots reaching deep into the earth. \nWhen I feel ungrounded, I can always return here. \nI am safe. \nI am grounded. \nTake another slow breath, and let these words settle a little deeper. \nStay here for a while longer, simply feeling this connection. This groundedness. This steadiness. There's no need to rush away from this feeling. \nWhenever life feels uncertain, whenever you feel like that leaf in the wind, remember this simple practice. Imagine your roots, deep in the earth, holding you steady, bringing you gently back to the ground. \nWhen you feel ready, begin to bring a little awareness back to the room around you. Notice the surface beneath you. Notice your breath, still slow, still steady. \nLet your fingers move first, just slightly. Then your toes. Small movements, gentle and unhurried. \nTake your time. There's no need to hurry this return. \nWhenever you're ready, let your eyes open softly, taking in the light around you. \nCarry this groundedness with you, into whatever comes next. And remember, no matter how ungrounded a moment might feel, you can always come back to this steady, quiet connection with the earth beneath you. \nYou are grounded. You are calm. And you are exactly where you need to be.",
+  "vocabulary": [
+    {
+      "word": "grounded",
+      "definition": "calm, present, and emotionally balanced"
+    },
+    {
+      "word": "ungrounded",
+      "definition": "unsteady, disconnected, or not fully present"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex01",
+      "sentence": "My thoughts jump from place to place, and I feel disconnected and _____.",
+      "options": [
+        "ungrounded",
+        "grounded",
+        "centered"
+      ],
+      "correctAnswer": "ungrounded"
+    },
+    {
+      "id": "ex02",
+      "sentence": "I feel calm, steady, and present. I feel _____.",
+      "options": [
+        "ungrounded",
+        "grounded",
+        "distracted"
+      ],
+      "correctAnswer": "grounded"
+    },
+    {
+      "id": "ex03",
+      "sentence": "Feeling my feet on the floor helps me feel _____ and connected to this moment.",
+      "options": [
+        "ungrounded",
+        "disconnected",
+        "grounded"
+      ],
+      "correctAnswer": "grounded"
+    },
+    {
+      "id": "ex04",
+      "sentence": "I feel _____, like a leaf floating in the wind without direction.",
+      "options": [
+        "ungrounded",
+        "grounded",
+        "steady"
+      ],
+      "correctAnswer": "ungrounded"
+    }
+  ],
+  "audioAsset": null,
+  "sourceAudio": "assets/content/episodes/c029/audio.mp3",
+  "audioMd5": "6fd487135730c8a3defe9098d598135f",
+  "source": "Google Drive FINALIZADOS 029 (read-only copy, 2026-10-14)",
+  "streamId": "c029"
+}

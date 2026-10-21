@@ -1,0 +1,567 @@
+{
+ "source": "faster-whisper small.en word timestamps aligned to script phrases",
+ "matchedWords": 862,
+ "scriptWords": 864,
+ "cues": [
+  {
+   "start": 1.31,
+   "end": 7.17,
+   "text": "Hello, and welcome."
+  },
+  {
+   "start": 7.02,
+   "end": 17.99,
+   "text": "Take a moment now, just to arrive here, wherever you are."
+  },
+  {
+   "start": 17.84,
+   "end": 26.17,
+   "text": "Find a position that feels comfortable, sitting or lying down,"
+  },
+  {
+   "start": 26.02,
+   "end": 30.74,
+   "text": "whichever your body prefers today."
+  },
+  {
+   "start": 30.59,
+   "end": 39.99,
+   "text": "Let yourself settle in, without rushing."
+  },
+  {
+   "start": 39.84,
+   "end": 55.91,
+   "text": "You can close your eyes gently, or let them rest softly, unfocused, looking downward."
+  },
+  {
+   "start": 55.76,
+   "end": 64.35,
+   "text": "For these next few minutes, nothing else needs your attention."
+  },
+  {
+   "start": 64.2,
+   "end": 73.34,
+   "text": "Just this quiet space, and a little time with yourself."
+  },
+  {
+   "start": 73.19,
+   "end": 81.87,
+   "text": "Feel the surface beneath you, supporting your body completely."
+  },
+  {
+   "start": 81.72,
+   "end": 83.77,
+   "text": "Let your shoulders soften."
+  },
+  {
+   "start": 83.62,
+   "end": 88.96,
+   "text": "Let your hands rest."
+  },
+  {
+   "start": 88.81,
+   "end": 94.88,
+   "text": "Take a slow breath in\u2026"
+  },
+  {
+   "start": 94.73,
+   "end": 107.4,
+   "text": "and let it out."
+  },
+  {
+   "start": 107.25,
+   "end": 109.72,
+   "text": "Once more."
+  },
+  {
+   "start": 109.57,
+   "end": 110.22,
+   "text": "In\u2026"
+  },
+  {
+   "start": 109.57,
+   "end": 121.92,
+   "text": "and out."
+  },
+  {
+   "start": 121.77,
+   "end": 128.94,
+   "text": "Today, we're going to explore two very different states of mind."
+  },
+  {
+   "start": 128.79,
+   "end": 138.19,
+   "text": "Your mind moves between these two states all day long, often without you noticing."
+  },
+  {
+   "start": 138.04,
+   "end": 143.51,
+   "text": "The first is to be aware."
+  },
+  {
+   "start": 143.36,
+   "end": 152.35,
+   "text": "To be aware means to pay attention to what's happening or to know something."
+  },
+  {
+   "start": 152.2,
+   "end": 163.02,
+   "text": "You can be aware of your body, which means you're paying attention to how your body feels."
+  },
+  {
+   "start": 162.87,
+   "end": 169.28,
+   "text": "The second is to be lost in thought."
+  },
+  {
+   "start": 169.13,
+   "end": 176.5,
+   "text": "To be lost in thought means to be thinking deeply about something"
+  },
+  {
+   "start": 176.35,
+   "end": 184.3,
+   "text": "and not paying much attention to what's happening around you."
+  },
+  {
+   "start": 184.15,
+   "end": 186.1,
+   "text": "Neither of these is wrong."
+  },
+  {
+   "start": 185.95,
+   "end": 193.09,
+   "text": "Both are completely natural."
+  },
+  {
+   "start": 192.94,
+   "end": 201.58,
+   "text": "Today, we'll simply practice noticing the difference between them."
+  },
+  {
+   "start": 201.43,
+   "end": 206.73,
+   "text": "Let's begin with your sense of hearing."
+  },
+  {
+   "start": 206.58,
+   "end": 212.21,
+   "text": "Right now, become aware of any sounds around you."
+  },
+  {
+   "start": 212.06,
+   "end": 218.55,
+   "text": "Maybe something close, maybe something far away."
+  },
+  {
+   "start": 218.4,
+   "end": 226.93,
+   "text": "Notice these sounds arriving, and then fading."
+  },
+  {
+   "start": 226.78,
+   "end": 240.29,
+   "text": "Just be aware, listening, without needing to name what you hear, or judge it in any way."
+  },
+  {
+   "start": 240.14,
+   "end": 250.06,
+   "text": "Stay here for a moment, simply aware of sound."
+  },
+  {
+   "start": 249.91,
+   "end": 258.32,
+   "text": "At some point, while you were listening, maybe your mind started to wander."
+  },
+  {
+   "start": 258.17,
+   "end": 265.76,
+   "text": "Maybe you became lost in thought, thinking about something else entirely,"
+  },
+  {
+   "start": 265.61,
+   "end": 270.62,
+   "text": "something unrelated to this sound."
+  },
+  {
+   "start": 270.47,
+   "end": 274.74,
+   "text": "If that happened, that's completely fine."
+  },
+  {
+   "start": 274.59,
+   "end": 285.28,
+   "text": "Notice it happened, and gently, without any effort, come back to being aware."
+  },
+  {
+   "start": 285.13,
+   "end": 295.86,
+   "text": "Back to this present sound, this present moment."
+  },
+  {
+   "start": 295.71,
+   "end": 301.2,
+   "text": "Now let's bring awareness to your sense of touch."
+  },
+  {
+   "start": 301.05,
+   "end": 305.68,
+   "text": "Notice where your body meets the surface beneath you."
+  },
+  {
+   "start": 305.53,
+   "end": 313.82,
+   "text": "Become aware of this feeling, this pressure, this contact."
+  },
+  {
+   "start": 313.67,
+   "end": 318.78,
+   "text": "Notice the temperature of the air against your skin."
+  },
+  {
+   "start": 318.63,
+   "end": 328.19,
+   "text": "Be aware of this sensation, simple and present."
+  },
+  {
+   "start": 328.04,
+   "end": 336.43,
+   "text": "Perhaps, again, your mind slipped away, becoming lost in thought,"
+  },
+  {
+   "start": 336.28,
+   "end": 340.65,
+   "text": "following some idea or memory."
+  },
+  {
+   "start": 340.5,
+   "end": 346.07,
+   "text": "If it did, simply notice this, without frustration."
+  },
+  {
+   "start": 345.92,
+   "end": 349.37,
+   "text": "This is completely normal."
+  },
+  {
+   "start": 349.22,
+   "end": 352.79,
+   "text": "Every mind wanders."
+  },
+  {
+   "start": 352.64,
+   "end": 364.36,
+   "text": "Gently, bring your awareness back, back to this moment, back to this feeling of touch."
+  },
+  {
+   "start": 364.21,
+   "end": 370.01,
+   "text": "Now bring awareness to your breath."
+  },
+  {
+   "start": 369.86,
+   "end": 375.81,
+   "text": "Notice the air moving in, and moving out."
+  },
+  {
+   "start": 375.66,
+   "end": 384.41,
+   "text": "Be aware of this rhythm, steady and calm."
+  },
+  {
+   "start": 384.26,
+   "end": 392.43,
+   "text": "If your mind becomes lost in thought while you're noticing your breath, that's okay too."
+  },
+  {
+   "start": 392.28,
+   "end": 397.12,
+   "text": "This happens to everyone."
+  },
+  {
+   "start": 396.97,
+   "end": 405.24,
+   "text": "The moment you notice you were lost in thought, you've already returned to being aware."
+  },
+  {
+   "start": 405.09,
+   "end": 413.45,
+   "text": "That noticing itself is the important part."
+  },
+  {
+   "start": 413.3,
+   "end": 417.09,
+   "text": "Let's try something a little different now."
+  },
+  {
+   "start": 416.94,
+   "end": 423.41,
+   "text": "Bring your awareness to any physical sensation in your body."
+  },
+  {
+   "start": 423.26,
+   "end": 434.93,
+   "text": "Maybe warmth, maybe heaviness, maybe simply stillness."
+  },
+  {
+   "start": 434.78,
+   "end": 441.31,
+   "text": "Stay aware of this feeling for a moment."
+  },
+  {
+   "start": 441.16,
+   "end": 451.65,
+   "text": "And when your mind wanders, and when you become lost in thought, simply notice, gently,"
+  },
+  {
+   "start": 451.5,
+   "end": 456.76,
+   "text": "and come back."
+  },
+  {
+   "start": 456.61,
+   "end": 465.2,
+   "text": "Aware, lost in thought, aware again."
+  },
+  {
+   "start": 465.05,
+   "end": 474.98,
+   "text": "This movement between the two is completely natural."
+  },
+  {
+   "start": 474.83,
+   "end": 480.72,
+   "text": "There's something important to understand here."
+  },
+  {
+   "start": 480.57,
+   "end": 485.78,
+   "text": "Being lost in thought isn't a mistake."
+  },
+  {
+   "start": 485.63,
+   "end": 489.16,
+   "text": "Every mind does this."
+  },
+  {
+   "start": 489.01,
+   "end": 498.72,
+   "text": "What matters is simply noticing when it happens, and gently returning to awareness,"
+  },
+  {
+   "start": 498.57,
+   "end": 505.94,
+   "text": "without judging yourself for wandering in the first place."
+  },
+  {
+   "start": 505.79,
+   "end": 508.28,
+   "text": "Practice this once more."
+  },
+  {
+   "start": 508.13,
+   "end": 516.52,
+   "text": "Bring your awareness fully to this present moment."
+  },
+  {
+   "start": 516.37,
+   "end": 519.6,
+   "text": "Notice your breath."
+  },
+  {
+   "start": 519.45,
+   "end": 523.26,
+   "text": "Notice any sounds."
+  },
+  {
+   "start": 523.11,
+   "end": 532.17,
+   "text": "Notice the feeling of your body, resting."
+  },
+  {
+   "start": 532.02,
+   "end": 538.05,
+   "text": "If you've become lost in thought, that's fine."
+  },
+  {
+   "start": 537.9,
+   "end": 546.0,
+   "text": "Just notice, and come back."
+  },
+  {
+   "start": 545.85,
+   "end": 552.0,
+   "text": "Awareness, and being lost in thought."
+  },
+  {
+   "start": 551.85,
+   "end": 557.96,
+   "text": "Both are part of how your mind naturally works."
+  },
+  {
+   "start": 557.81,
+   "end": 564.58,
+   "text": "Both are welcome here."
+  },
+  {
+   "start": 564.43,
+   "end": 573.19,
+   "text": "Let these gentle words settle into your mind."
+  },
+  {
+   "start": 573.04,
+   "end": 581.15,
+   "text": "I am aware of this present moment."
+  },
+  {
+   "start": 581.0,
+   "end": 589.25,
+   "text": "When my mind wanders, I gently return."
+  },
+  {
+   "start": 589.1,
+   "end": 596.79,
+   "text": "I don't need to judge my thoughts."
+  },
+  {
+   "start": 596.64,
+   "end": 600.71,
+   "text": "I am calm."
+  },
+  {
+   "start": 600.56,
+   "end": 607.67,
+   "text": "I am here, right now."
+  },
+  {
+   "start": 607.52,
+   "end": 616.58,
+   "text": "Take another slow breath, and let these words settle a little deeper."
+  },
+  {
+   "start": 616.43,
+   "end": 623.76,
+   "text": "Stay here for a while longer, simply practicing awareness."
+  },
+  {
+   "start": 623.61,
+   "end": 626.26,
+   "text": "Notice sounds."
+  },
+  {
+   "start": 626.11,
+   "end": 627.98,
+   "text": "Notice your breath."
+  },
+  {
+   "start": 627.83,
+   "end": 632.62,
+   "text": "Notice your body, resting."
+  },
+  {
+   "start": 632.47,
+   "end": 639.44,
+   "text": "And whenever you notice you've become lost in thought, simply come back, gently,"
+  },
+  {
+   "start": 639.29,
+   "end": 645.3,
+   "text": "without any struggle."
+  },
+  {
+   "start": 645.15,
+   "end": 651.82,
+   "text": "This is a skill that grows stronger with each small return."
+  },
+  {
+   "start": 651.67,
+   "end": 657.74,
+   "text": "Every time you notice you were lost in thought, and gently come back to awareness,"
+  },
+  {
+   "start": 657.59,
+   "end": 664.38,
+   "text": "you're practicing something valuable,"
+  },
+  {
+   "start": 664.23,
+   "end": 672.39,
+   "text": "something that will serve you far beyond this quiet moment."
+  },
+  {
+   "start": 672.24,
+   "end": 680.41,
+   "text": "When you feel ready, start to bring a little more awareness back to the room around you."
+  },
+  {
+   "start": 680.26,
+   "end": 686.49,
+   "text": "Notice the surface beneath you."
+  },
+  {
+   "start": 686.34,
+   "end": 695.42,
+   "text": "Notice your breath, still slow and steady."
+  },
+  {
+   "start": 695.27,
+   "end": 701.18,
+   "text": "Let your fingers move first, just slightly."
+  },
+  {
+   "start": 701.03,
+   "end": 703.86,
+   "text": "Then your toes."
+  },
+  {
+   "start": 703.71,
+   "end": 712.8,
+   "text": "Small movements, gentle and slow."
+  },
+  {
+   "start": 712.65,
+   "end": 716.68,
+   "text": "Take your time."
+  },
+  {
+   "start": 716.53,
+   "end": 725.87,
+   "text": "There's no hurry to leave this awareness behind."
+  },
+  {
+   "start": 725.72,
+   "end": 735.64,
+   "text": "Whenever you're ready, let your eyes open softly."
+  },
+  {
+   "start": 735.49,
+   "end": 742.68,
+   "text": "Carry this awareness with you, into the rest of your day."
+  },
+  {
+   "start": 742.53,
+   "end": 752.72,
+   "text": "And whenever you notice your mind has become lost in thought, remember, you can always,"
+  },
+  {
+   "start": 752.57,
+   "end": 758.28,
+   "text": "gently, come back."
+  },
+  {
+   "start": 758.13,
+   "end": 762.32,
+   "text": "You are aware."
+  },
+  {
+   "start": 762.17,
+   "end": 766.53,
+   "text": "You are calm."
+  },
+  {
+   "start": 766.38,
+   "end": 809.0,
+   "text": "And you are exactly where you need to be."
+  }
+ ]
+}

@@ -1,0 +1,572 @@
+{
+ "source": "faster-whisper small.en word timestamps aligned to script phrases",
+ "matchedWords": 808,
+ "scriptWords": 815,
+ "cues": [
+  {
+   "start": 0.54,
+   "end": 2.03,
+   "text": "Hi."
+  },
+  {
+   "start": 1.88,
+   "end": 5.64,
+   "text": "Welcome back."
+  },
+  {
+   "start": 5.49,
+   "end": 13.03,
+   "text": "Wherever you're sitting right now, let yourself sink into it a little."
+  },
+  {
+   "start": 12.88,
+   "end": 19.3,
+   "text": "You don't need to fix your posture or find the \"perfect\" position."
+  },
+  {
+   "start": 19.15,
+   "end": 27.37,
+   "text": "Just wherever you are, let your body relax."
+  },
+  {
+   "start": 27.22,
+   "end": 30.79,
+   "text": "Close your eyes if that feels right."
+  },
+  {
+   "start": 30.64,
+   "end": 37.53,
+   "text": "Or just soften your gaze, looking at nothing in particular."
+  },
+  {
+   "start": 37.38,
+   "end": 40.01,
+   "text": "No effort needed."
+  },
+  {
+   "start": 39.86,
+   "end": 45.38,
+   "text": "Just a few minutes, for you."
+  },
+  {
+   "start": 45.23,
+   "end": 46.24,
+   "text": "Breathe in\u2026"
+  },
+  {
+   "start": 46.09,
+   "end": 54.68,
+   "text": "and let it go."
+  },
+  {
+   "start": 54.53,
+   "end": 56.14,
+   "text": "One more time."
+  },
+  {
+   "start": 55.99,
+   "end": 57.32,
+   "text": "In\u2026"
+  },
+  {
+   "start": 57.16,
+   "end": 65.19,
+   "text": "and out."
+  },
+  {
+   "start": 65.04,
+   "end": 70.76,
+   "text": "I want you to imagine somewhere quiet today."
+  },
+  {
+   "start": 70.61,
+   "end": 79.32,
+   "text": "Not a place you have to build carefully in your mind, just somewhere that feels good."
+  },
+  {
+   "start": 79.17,
+   "end": 81.94,
+   "text": "A path, maybe."
+  },
+  {
+   "start": 81.79,
+   "end": 84.76,
+   "text": "Trees on either side."
+  },
+  {
+   "start": 84.61,
+   "end": 91.07,
+   "text": "The kind of walk that doesn't lead anywhere in particular."
+  },
+  {
+   "start": 90.92,
+   "end": 101.64,
+   "text": "And somewhere along this path, you hear water."
+  },
+  {
+   "start": 101.49,
+   "end": 104.7,
+   "text": "The sound of the water is not loud."
+  },
+  {
+   "start": 104.55,
+   "end": 110.9,
+   "text": "Just a gentle, constant sound, close by."
+  },
+  {
+   "start": 110.75,
+   "end": 117.13,
+   "text": "You follow it, and you find stream."
+  },
+  {
+   "start": 116.98,
+   "end": 122.23,
+   "text": "A stream is a small, narrow river."
+  },
+  {
+   "start": 122.08,
+   "end": 129.33,
+   "text": "The water flows gently over the small rocks and stones."
+  },
+  {
+   "start": 129.18,
+   "end": 134.49,
+   "text": "You can usually see through the clear water."
+  },
+  {
+   "start": 134.34,
+   "end": 140.02,
+   "text": "You can see the stones underneath."
+  },
+  {
+   "start": 139.87,
+   "end": 146.56,
+   "text": "The sunlight may shine on the water and make it sparkle."
+  },
+  {
+   "start": 146.41,
+   "end": 150.75,
+   "text": "So peaceful."
+  },
+  {
+   "start": 150.6,
+   "end": 154.19,
+   "text": "You sit down next to the stream."
+  },
+  {
+   "start": 154.04,
+   "end": 162.66,
+   "text": "Maybe on the grass or on a rock that's just the right size."
+  },
+  {
+   "start": 162.51,
+   "end": 167.0,
+   "text": "For a moment, just watch it."
+  },
+  {
+   "start": 166.85,
+   "end": 171.96,
+   "text": "There's nothing complicated happening here."
+  },
+  {
+   "start": 171.81,
+   "end": 174.94,
+   "text": "Water moving."
+  },
+  {
+   "start": 174.79,
+   "end": 178.04,
+   "text": "Light moving with it."
+  },
+  {
+   "start": 177.89,
+   "end": 188.46,
+   "text": "A small, simple sound that doesn't ask anything of you."
+  },
+  {
+   "start": 188.31,
+   "end": 192.21,
+   "text": "Breathe in."
+  },
+  {
+   "start": 192.06,
+   "end": 199.27,
+   "text": "Let your shoulders drop a little more."
+  },
+  {
+   "start": 199.12,
+   "end": 201.95,
+   "text": "Streams are strange like that."
+  },
+  {
+   "start": 201.8,
+   "end": 208.15,
+   "text": "So small, so quiet, and yet they never really stop."
+  },
+  {
+   "start": 208.0,
+   "end": 214.8,
+   "text": "They just keep going, around whatever's in the way."
+  },
+  {
+   "start": 214.65,
+   "end": 222.11,
+   "text": "Stay with it a little longer."
+  },
+  {
+   "start": 221.96,
+   "end": 230.29,
+   "text": "Now imagine getting up, slowly, and walking alongside this same water."
+  },
+  {
+   "start": 230.14,
+   "end": 231.81,
+   "text": "Not far."
+  },
+  {
+   "start": 231.66,
+   "end": 241.11,
+   "text": "Just following it, the way it curves, the way it moves through the trees."
+  },
+  {
+   "start": 240.96,
+   "end": 244.79,
+   "text": "And little by little, without you really noticing when it happened,"
+  },
+  {
+   "start": 244.64,
+   "end": 248.91,
+   "text": "the stream has changed."
+  },
+  {
+   "start": 248.76,
+   "end": 251.27,
+   "text": "It's wider now."
+  },
+  {
+   "start": 251.12,
+   "end": 252.75,
+   "text": "Deeper."
+  },
+  {
+   "start": 252.6,
+   "end": 260.15,
+   "text": "The sound is different too, fuller, a little more present."
+  },
+  {
+   "start": 260.0,
+   "end": 263.43,
+   "text": "This is a river."
+  },
+  {
+   "start": 263.28,
+   "end": 271.31,
+   "text": "A river is what a stream becomes once it grows, much bigger, much deeper,"
+  },
+  {
+   "start": 271.16,
+   "end": 275.75,
+   "text": "carrying far more water."
+  },
+  {
+   "start": 275.6,
+   "end": 281.23,
+   "text": "You find another place to sit, closer to the water now."
+  },
+  {
+   "start": 281.08,
+   "end": 284.95,
+   "text": "It moves differently than before."
+  },
+  {
+   "start": 284.8,
+   "end": 289.21,
+   "text": "There's more weight to it, more presence."
+  },
+  {
+   "start": 289.06,
+   "end": 291.43,
+   "text": "But it's still calm."
+  },
+  {
+   "start": 291.28,
+   "end": 292.13,
+   "text": "It's just\u2026"
+  },
+  {
+   "start": 291.98,
+   "end": 296.4,
+   "text": "more."
+  },
+  {
+   "start": 296.25,
+   "end": 298.94,
+   "text": "Watch it for a moment."
+  },
+  {
+   "start": 298.79,
+   "end": 303.64,
+   "text": "Notice how it doesn't fight anything."
+  },
+  {
+   "start": 303.49,
+   "end": 310.48,
+   "text": "Rocks, bends, whatever's in the way, the river just moves around them."
+  },
+  {
+   "start": 310.33,
+   "end": 314.79,
+   "text": "It never seems to struggle."
+  },
+  {
+   "start": 314.64,
+   "end": 316.79,
+   "text": "Breathe in\u2026"
+  },
+  {
+   "start": 316.64,
+   "end": 327.36,
+   "text": "and out, slowly."
+  },
+  {
+   "start": 327.21,
+   "end": 332.52,
+   "text": "There's something almost funny about it, if you think about it."
+  },
+  {
+   "start": 332.37,
+   "end": 340.44,
+   "text": "The stream you sat beside a few minutes ago, quiet, small, easy to overlook,"
+  },
+  {
+   "start": 340.29,
+   "end": 346.94,
+   "text": "is the exact same water as this river in front of you now."
+  },
+  {
+   "start": 346.79,
+   "end": 350.64,
+   "text": "Nothing about it changed on purpose."
+  },
+  {
+   "start": 350.49,
+   "end": 358.4,
+   "text": "It just kept moving, and it grew."
+  },
+  {
+   "start": 358.25,
+   "end": 364.3,
+   "text": "Maybe that's worth sitting with for a second."
+  },
+  {
+   "start": 364.15,
+   "end": 370.33,
+   "text": "You don\u2019t have to be like a big river all the time."
+  },
+  {
+   "start": 370.18,
+   "end": 384.91,
+   "text": "Some days, you\u2019re more like a quiet stream, small, gentle, and making very little sound."
+  },
+  {
+   "start": 384.76,
+   "end": 391.73,
+   "text": "On other days, without even trying, you feel stronger, more full of energy,"
+  },
+  {
+   "start": 391.58,
+   "end": 395.13,
+   "text": "more like this river."
+  },
+  {
+   "start": 394.98,
+   "end": 397.61,
+   "text": "Neither one is better."
+  },
+  {
+   "start": 397.46,
+   "end": 404.33,
+   "text": "They're just different moments of the same water."
+  },
+  {
+   "start": 404.18,
+   "end": 409.69,
+   "text": "Let yourself stay here a little longer, beside the river."
+  },
+  {
+   "start": 409.54,
+   "end": 413.69,
+   "text": "Not thinking about anything in particular."
+  },
+  {
+   "start": 413.54,
+   "end": 423.69,
+   "text": "Just noticing how it keeps moving, patiently, the same way it probably has for years,"
+  },
+  {
+   "start": 423.54,
+   "end": 432.78,
+   "text": "long before you sat down here, and long after you'll leave."
+  },
+  {
+   "start": 432.63,
+   "end": 433.62,
+   "text": "Breathe in."
+  },
+  {
+   "start": 433.47,
+   "end": 441.83,
+   "text": "And out."
+  },
+  {
+   "start": 441.68,
+   "end": 445.91,
+   "text": "There\u2019s something peaceful about water like this."
+  },
+  {
+   "start": 445.76,
+   "end": 449.83,
+   "text": "It doesn\u2019t need to know where it\u2019s going."
+  },
+  {
+   "start": 449.68,
+   "end": 459.03,
+   "text": "It just keeps flowing, trusting that the way will come."
+  },
+  {
+   "start": 458.88,
+   "end": 465.76,
+   "text": "You can borrow a little of that trust right now."
+  },
+  {
+   "start": 465.61,
+   "end": 471.56,
+   "text": "Let your body feel as relaxed as the river."
+  },
+  {
+   "start": 471.41,
+   "end": 479.84,
+   "text": "Not stiff or still like a rock, just calm and steady like moving water."
+  },
+  {
+   "start": 479.69,
+   "end": 487.31,
+   "text": "Always moving a little, but never lost."
+  },
+  {
+   "start": 487.16,
+   "end": 493.89,
+   "text": "A few quiet words, if you'd like them."
+  },
+  {
+   "start": 493.74,
+   "end": 501.7,
+   "text": "I can be small and quiet, like a stream."
+  },
+  {
+   "start": 501.55,
+   "end": 508.44,
+   "text": "I can be full and steady, like a river."
+  },
+  {
+   "start": 508.29,
+   "end": 513.38,
+   "text": "Either way, I'm still moving forward."
+  },
+  {
+   "start": 513.23,
+   "end": 519.52,
+   "text": "I'm exactly where I need to be right now."
+  },
+  {
+   "start": 519.37,
+   "end": 523.72,
+   "text": "Take one more slow breath."
+  },
+  {
+   "start": 523.57,
+   "end": 527.36,
+   "text": "Let it settle."
+  },
+  {
+   "start": 527.21,
+   "end": 532.28,
+   "text": "Stay beside this river for as long as you like."
+  },
+  {
+   "start": 532.13,
+   "end": 536.26,
+   "text": "There's no reason to hurry away from it."
+  },
+  {
+   "start": 536.11,
+   "end": 544.48,
+   "text": "The water isn't going anywhere, and neither do you need to."
+  },
+  {
+   "start": 544.33,
+   "end": 552.14,
+   "text": "When you feel like coming back, just start noticing small things again."
+  },
+  {
+   "start": 551.99,
+   "end": 557.34,
+   "text": "The weight of your body against whatever's supporting you."
+  },
+  {
+   "start": 557.19,
+   "end": 562.9,
+   "text": "The sound of the room around you, if there is one."
+  },
+  {
+   "start": 562.75,
+   "end": 568.75,
+   "text": "Your breath, still slow."
+  },
+  {
+   "start": 568.6,
+   "end": 572.65,
+   "text": "Move your fingers a little first."
+  },
+  {
+   "start": 572.5,
+   "end": 576.39,
+   "text": "Then maybe your feet."
+  },
+  {
+   "start": 576.24,
+   "end": 579.22,
+   "text": "Nothing sudden."
+  },
+  {
+   "start": 579.07,
+   "end": 584.94,
+   "text": "And when you're ready, just open your eyes."
+  },
+  {
+   "start": 584.79,
+   "end": 588.64,
+   "text": "No rush."
+  },
+  {
+   "start": 588.49,
+   "end": 594.8,
+   "text": "You can come back to this river anytime, actually."
+  },
+  {
+   "start": 594.65,
+   "end": 600.98,
+   "text": "It's always there, somewhere quiet in your mind,"
+  },
+  {
+   "start": 600.83,
+   "end": 612.14,
+   "text": "whether you need it as a small stream today, or as something fuller, and steadier."
+  },
+  {
+   "start": 611.99,
+   "end": 652.0,
+   "text": "Either way, you're doing just fine."
+  }
+ ]
+}

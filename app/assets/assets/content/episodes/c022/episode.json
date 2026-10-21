@@ -1,0 +1,70 @@
+{
+  "id": "c022",
+  "slug": "paying-attention-to-the-moment",
+  "title": "Paying Attention to the Moment",
+  "summary": "Come back to the present: to be aware, to be lost in thought.",
+  "durationSeconds": 809,
+  "access": "premium",
+  "published": true,
+  "number": 21,
+  "catalogNumber": "022",
+  "theme": "horizon",
+  "script": "Hello, and welcome. Take a moment now, just to arrive here, wherever you are.\nFind a position that feels comfortable, sitting or lying down, whichever your body prefers today. Let yourself settle in, without rushing.\nYou can close your eyes gently, or let them rest softly, unfocused, looking downward.\nFor these next few minutes, nothing else needs your attention. Just this quiet space, and a little time with yourself.\nFeel the surface beneath you, supporting your body completely. Let your shoulders soften. Let your hands rest.\nTake a slow breath in… and let it out.\nOnce more. In… and out.\nToday, we're going to explore two very different states of mind. Your mind moves between these two states all day long, often without you noticing.\nThe first is to be aware. To be aware means to pay attention to what's happening or to know something. You can be aware of your body, which means you're paying attention to how your body feels. \nThe second is to be lost in thought. To be lost in thought means to be thinking deeply about something and not paying much attention to what's happening around you.\nNeither of these is wrong. Both are completely natural. Today, we'll simply practice noticing the difference between them.\nLet's begin with your sense of hearing. Right now, become aware of any sounds around you. Maybe something close, maybe something far away.\nNotice these sounds arriving, and then fading. Just be aware, listening, without needing to name what you hear, or judge it in any way.\nStay here for a moment, simply aware of sound.\nAt some point, while you were listening, maybe your mind started to wander. Maybe you became lost in thought, thinking about something else entirely, something unrelated to this sound.\nIf that happened, that's completely fine. Notice it happened, and gently, without any effort, come back to being aware. Back to this present sound, this present moment.\nNow let's bring awareness to your sense of touch. Notice where your body meets the surface beneath you. Become aware of this feeling, this pressure, this contact.\nNotice the temperature of the air against your skin. Be aware of this sensation, simple and present.\nPerhaps, again, your mind slipped away, becoming lost in thought, following some idea or memory. If it did, simply notice this, without frustration. This is completely normal. Every mind wanders. Gently, bring your awareness back, back to this moment, back to this feeling of touch.\nNow bring awareness to your breath. Notice the air moving in, and moving out. Be aware of this rhythm, steady and calm.\nIf your mind becomes lost in thought while you're noticing your breath, that's okay too. This happens to everyone. The moment you notice you were lost in thought, you've already returned to being aware. That noticing itself is the important part.\nLet's try something a little different now. Bring your awareness to any physical sensation in your body. Maybe warmth, maybe heaviness, maybe simply stillness.\nStay aware of this feeling for a moment.\nAnd when your mind wanders, and when you become lost in thought, simply notice, gently, and come back. Aware, lost in thought, aware again. This movement between the two is completely natural.\nThere's something important to understand here. Being lost in thought isn't a mistake. Every mind does this. What matters is simply noticing when it happens, and gently returning to awareness, without judging yourself for wandering in the first place.\nPractice this once more. Bring your awareness fully to this present moment. Notice your breath. Notice any sounds. Notice the feeling of your body, resting.\nIf you've become lost in thought, that's fine. Just notice, and come back.\nAwareness, and being lost in thought. Both are part of how your mind naturally works. Both are welcome here.\nLet these gentle words settle into your mind.\nI am aware of this present moment.\nWhen my mind wanders, I gently return.\nI don't need to judge my thoughts.\nI am calm.\nI am here, right now.\nTake another slow breath, and let these words settle a little deeper.\nStay here for a while longer, simply practicing awareness. Notice sounds. Notice your breath. Notice your body, resting. And whenever you notice you've become lost in thought, simply come back, gently, without any struggle.\nThis is a skill that grows stronger with each small return. Every time you notice you were lost in thought, and gently come back to awareness, you're practicing something valuable, something that will serve you far beyond this quiet moment.\nWhen you feel ready, start to bring a little more awareness back to the room around you. Notice the surface beneath you. Notice your breath, still slow and steady.\nLet your fingers move first, just slightly. Then your toes. Small movements, gentle and slow.\nTake your time. There's no hurry to leave this awareness behind.\nWhenever you're ready, let your eyes open softly.\nCarry this awareness with you, into the rest of your day. And whenever you notice your mind has become lost in thought, remember, you can always, gently, come back.\nYou are aware. You are calm. And you are exactly where you need to be.",
+  "vocabulary": [
+    {
+      "word": "to be aware",
+      "definition": "to pay attention to what’s happening or to know something"
+    },
+    {
+      "word": "to be lost in thought",
+      "definition": "to be thinking deeply about something and not paying much attention to what’s happening around you"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex01",
+      "sentence": "To notice what is happening around me, I try _____ of my surroundings.",
+      "options": [
+        "to be lost in thought",
+        "to be unaware",
+        "to be aware"
+      ],
+      "correctAnswer": "to be aware"
+    },
+    {
+      "id": "ex02",
+      "sentence": "When I focus on a memory and forget what is happening around me, I tend _____.",
+      "options": [
+        "to be lost in thought",
+        "to be aware",
+        "to stay present"
+      ],
+      "correctAnswer": "to be lost in thought"
+    },
+    {
+      "id": "ex03",
+      "sentence": "During a long journey, it is easy _____ and stop noticing the view.",
+      "options": [
+        "to be aware",
+        "to be lost in thought",
+        "to stay focused"
+      ],
+      "correctAnswer": "to be lost in thought"
+    },
+    {
+      "id": "ex04",
+      "sentence": "As I listen to the rain, I choose _____ of each sound.",
+      "options": [
+        "to be lost in thought",
+        "to be unaware",
+        "to be aware"
+      ],
+      "correctAnswer": "to be aware"
+    }
+  ],
+  "audioAsset": null,
+  "sourceAudio": "assets/content/episodes/c022/audio.mp3",
+  "audioMd5": "4eafaf688ae31e6ba2952c7de926f699",
+  "source": "Google Drive FINALIZADOS 022 (read-only copy, 2026-10-14)",
+  "streamId": "011"
+}

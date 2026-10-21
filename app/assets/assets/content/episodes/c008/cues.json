@@ -1,0 +1,527 @@
+{
+ "source": "faster-whisper small.en word timestamps aligned to script phrases",
+ "matchedWords": 725,
+ "scriptWords": 804,
+ "cues": [
+  {
+   "start": 0.35,
+   "end": 4.12,
+   "text": "Good to have you here."
+  },
+  {
+   "start": 3.97,
+   "end": 9.22,
+   "text": "However you're sitting right now, let that be enough."
+  },
+  {
+   "start": 9.07,
+   "end": 10.66,
+   "text": "No adjusting, no fixing."
+  },
+  {
+   "start": 10.51,
+   "end": 15.76,
+   "text": "Just arrive, exactly as you are."
+  },
+  {
+   "start": 15.61,
+   "end": 20.69,
+   "text": "You can be quiet to yourself."
+  },
+  {
+   "start": 20.54,
+   "end": 28.95,
+   "text": "Let your eyes close, or let them go soft, resting downward."
+  },
+  {
+   "start": 28.8,
+   "end": 30.73,
+   "text": "Nothing to prepare for."
+  },
+  {
+   "start": 30.58,
+   "end": 31.73,
+   "text": "Nothing to get right."
+  },
+  {
+   "start": 31.58,
+   "end": 37.68,
+   "text": "Just you, and a little quiet time."
+  },
+  {
+   "start": 37.53,
+   "end": 42.35,
+   "text": "Breathe in."
+  },
+  {
+   "start": 42.2,
+   "end": 47.46,
+   "text": "Let it out slowly."
+  },
+  {
+   "start": 47.31,
+   "end": 49.3,
+   "text": "One more."
+  },
+  {
+   "start": 49.15,
+   "end": 50.46,
+   "text": "In\u2026"
+  },
+  {
+   "start": 50.31,
+   "end": 57.8,
+   "text": "and out."
+  },
+  {
+   "start": 57.65,
+   "end": 61.28,
+   "text": "I want to tell you something you probably already know,"
+  },
+  {
+   "start": 61.13,
+   "end": 65.88,
+   "text": "but maybe haven't thought about in a while."
+  },
+  {
+   "start": 65.73,
+   "end": 70.36,
+   "text": "Everyone has a voice inside them."
+  },
+  {
+   "start": 70.21,
+   "end": 81.9,
+   "text": "A voice that talks to you, quietly, all day long, especially when something goes wrong."
+  },
+  {
+   "start": 81.75,
+   "end": 87.0,
+   "text": "Let's think about that voice for a minute."
+  },
+  {
+   "start": 86.85,
+   "end": 94.04,
+   "text": "Imagine, just for a second, you did something small today."
+  },
+  {
+   "start": 93.89,
+   "end": 96.14,
+   "text": "Nothing serious."
+  },
+  {
+   "start": 95.99,
+   "end": 98.04,
+   "text": "Maybe you forgot something."
+  },
+  {
+   "start": 97.89,
+   "end": 101.0,
+   "text": "Maybe you said the wrong thing to someone."
+  },
+  {
+   "start": 100.85,
+   "end": 106.28,
+   "text": "Maybe you made a little mistake at work, or at home."
+  },
+  {
+   "start": 106.13,
+   "end": 115.46,
+   "text": "Now notice, in your mind, how that inner voice usually reacts to something like that."
+  },
+  {
+   "start": 115.31,
+   "end": 119.0,
+   "text": "For a lot of people, that voice gets sharp pretty fast."
+  },
+  {
+   "start": 118.85,
+   "end": 126.38,
+   "text": "That's what we'd call being self-critical."
+  },
+  {
+   "start": 126.23,
+   "end": 130.7,
+   "text": "Self-critical means talking to yourself harshly,"
+  },
+  {
+   "start": 130.55,
+   "end": 135.67,
+   "text": "the way you'd never actually talk to someone you cared about."
+  },
+  {
+   "start": 135.52,
+   "end": 146.58,
+   "text": "It sounds like, \"Why did I do that?\" or \"I always mess things up.\" It's quick to blame."
+  },
+  {
+   "start": 146.43,
+   "end": 151.6,
+   "text": "Slow to forgive."
+  },
+  {
+   "start": 151.45,
+   "end": 155.69,
+   "text": "Notice if that voice feels familiar to you."
+  },
+  {
+   "start": 155.54,
+   "end": 161.87,
+   "text": "No need to judge it, just notice it."
+  },
+  {
+   "start": 161.72,
+   "end": 166.26,
+   "text": "Breathe in."
+  },
+  {
+   "start": 166.11,
+   "end": 170.32,
+   "text": "Now, here's something worth imagining."
+  },
+  {
+   "start": 170.17,
+   "end": 173.72,
+   "text": "Picture a close friend of yours."
+  },
+  {
+   "start": 173.57,
+   "end": 176.37,
+   "text": "Someone you actually love."
+  },
+  {
+   "start": 176.22,
+   "end": 179.49,
+   "text": "Now imagine that same friend comes to you,"
+  },
+  {
+   "start": 179.34,
+   "end": 186.6,
+   "text": "and tells you they made that exact same mistake you made earlier today."
+  },
+  {
+   "start": 186.45,
+   "end": 190.59,
+   "text": "What would you actually say to them?"
+  },
+  {
+   "start": 190.44,
+   "end": 191.09,
+   "text": "Chances are,"
+  },
+  {
+   "start": 190.9,
+   "end": 197.26,
+   "text": "you wouldn't say \"you always mess things up.\" You'd probably say something softer."
+  },
+  {
+   "start": 197.11,
+   "end": 206.02,
+   "text": "Something like, \"It's okay, it happens.\" Or \"You're being too hard on yourself."
+  },
+  {
+   "start": 205.87,
+   "end": 210.9,
+   "text": "It\u2019s okay to make mistakes.\""
+  },
+  {
+   "start": 210.75,
+   "end": 211.9,
+   "text": "That kind,"
+  },
+  {
+   "start": 211.75,
+   "end": 224.08,
+   "text": "gentle voice\u2014the one you naturally use with people you love\u2014that\u2019s called being self-compassionate."
+  },
+  {
+   "start": 223.93,
+   "end": 226.51,
+   "text": "Self-compassionate, such a beautiful word."
+  },
+  {
+   "start": 226.36,
+   "end": 234.71,
+   "text": "Being self-compassionate means treating yourself with the same kindness you\u2019d give to a friend:"
+  },
+  {
+   "start": 234.56,
+   "end": 244.49,
+   "text": "warmth instead of judgment, understanding instead of blame."
+  },
+  {
+   "start": 244.34,
+   "end": 253.37,
+   "text": "Repeat with me: \u201cI can be self-compassionate.\u201d"
+  },
+  {
+   "start": 253.22,
+   "end": 260.4,
+   "text": "Breathe out slowly."
+  },
+  {
+   "start": 260.25,
+   "end": 262.02,
+   "text": "Here's the interesting part."
+  },
+  {
+   "start": 261.87,
+   "end": 265.64,
+   "text": "You already know how to be self-compassionate."
+  },
+  {
+   "start": 265.49,
+   "end": 269.31,
+   "text": "You do it all the time, for other people."
+  },
+  {
+   "start": 269.16,
+   "end": 271.31,
+   "text": "The voice isn't missing."
+  },
+  {
+   "start": 271.16,
+   "end": 277.8,
+   "text": "It's just usually pointed somewhere else, away from yourself."
+  },
+  {
+   "start": 277.65,
+   "end": 286.94,
+   "text": "Let's practice pointing it inward, just for these few minutes."
+  },
+  {
+   "start": 286.79,
+   "end": 290.58,
+   "text": "Think again about that small mistake from earlier."
+  },
+  {
+   "start": 290.43,
+   "end": 292.4,
+   "text": "Or if nothing comes to mind,"
+  },
+  {
+   "start": 292.25,
+   "end": 299.71,
+   "text": "think of any small thing about yourself you sometimes judge a little too harshly."
+  },
+  {
+   "start": 299.56,
+   "end": 303.51,
+   "text": "Now, instead of reacting the old way,"
+  },
+  {
+   "start": 303.36,
+   "end": 309.38,
+   "text": "try speaking to yourself the way you'd speak to that friend."
+  },
+  {
+   "start": 309.23,
+   "end": 318.13,
+   "text": "Silently, in your mind, try saying something like, \"It's okay."
+  },
+  {
+   "start": 317.98,
+   "end": 329.14,
+   "text": "You're allowed to make mistakes.\" Or simply, \"You're doing your best.\""
+  },
+  {
+   "start": 328.99,
+   "end": 334.9,
+   "text": "Notice how that feels, even if it feels a little unfamiliar,"
+  },
+  {
+   "start": 334.75,
+   "end": 338.06,
+   "text": "even a little strange at first."
+  },
+  {
+   "start": 337.91,
+   "end": 341.5,
+   "text": "That's completely normal."
+  },
+  {
+   "start": 341.35,
+   "end": 346.43,
+   "text": "Kindness toward yourself can feel awkward if you're not used to it,"
+  },
+  {
+   "start": 346.28,
+   "end": 351.9,
+   "text": "like a muscle that hasn't been used in a while."
+  },
+  {
+   "start": 351.75,
+   "end": 356.26,
+   "text": "Breathe in."
+  },
+  {
+   "start": 356.11,
+   "end": 361.05,
+   "text": "You don't need to believe these words perfectly, right away."
+  },
+  {
+   "start": 360.9,
+   "end": 364.77,
+   "text": "You're just practicing."
+  },
+  {
+   "start": 364.62,
+   "end": 375.44,
+   "text": "Just letting your inner voice soften, a little, right now."
+  },
+  {
+   "start": 375.29,
+   "end": 381.84,
+   "text": "Self-critical thoughts often show up automatically, fast, and loud."
+  },
+  {
+   "start": 381.69,
+   "end": 388.28,
+   "text": "Self-compassionate thoughts usually need a little more effort, at least at first."
+  },
+  {
+   "start": 388.13,
+   "end": 390.74,
+   "text": "They're quieter."
+  },
+  {
+   "start": 390.59,
+   "end": 393.31,
+   "text": "Gentler."
+  },
+  {
+   "start": 393.16,
+   "end": 399.17,
+   "text": "They take a moment to choose."
+  },
+  {
+   "start": 399.02,
+   "end": 429.33,
+   "text": "But every time you choose them, they get a little easier to find."
+  },
+  {
+   "start": 429.18,
+   "end": 432.34,
+   "text": "Breathe out."
+  },
+  {
+   "start": 432.19,
+   "end": 432.84,
+   "text": "Imagine, for a moment, that you\u2019re holding your own hand,"
+  },
+  {
+   "start": 432.5,
+   "end": 433.15,
+   "text": "like you would hold the hand of someone you want to comfort."
+  },
+  {
+   "start": 432.53,
+   "end": 433.18,
+   "text": "You don't actually need to hold your hand."
+  },
+  {
+   "start": 432.53,
+   "end": 433.18,
+   "text": "Just imagine the warmth and comfort of that feeling."
+  },
+  {
+   "start": 432.53,
+   "end": 433.18,
+   "text": "Let yourself receive a little of your own kindness right now."
+  },
+  {
+   "start": 432.53,
+   "end": 444.31,
+   "text": "A few words, if you'd like to keep them."
+  },
+  {
+   "start": 444.16,
+   "end": 450.41,
+   "text": "I don't have to be perfect to be worthy of kindness."
+  },
+  {
+   "start": 450.26,
+   "end": 458.73,
+   "text": "I can talk to myself the way I'd talk to someone I love."
+  },
+  {
+   "start": 458.58,
+   "end": 467.59,
+   "text": "Mistakes don't make me any less deserving of care."
+  },
+  {
+   "start": 467.44,
+   "end": 473.87,
+   "text": "I am allowed to be gentle with myself."
+  },
+  {
+   "start": 473.72,
+   "end": 478.46,
+   "text": "I am doing my best, and that is enough."
+  },
+  {
+   "start": 478.31,
+   "end": 487.11,
+   "text": "Take one more slow breath in."
+  },
+  {
+   "start": 486.96,
+   "end": 491.22,
+   "text": "Stay with this feeling a little longer if you'd like."
+  },
+  {
+   "start": 491.07,
+   "end": 499.01,
+   "text": "There's no rush to leave this softness behind."
+  },
+  {
+   "start": 498.86,
+   "end": 506.64,
+   "text": "When you're ready to come back, start noticing small, real things again."
+  },
+  {
+   "start": 506.49,
+   "end": 510.18,
+   "text": "Whatever is supporting your body right now."
+  },
+  {
+   "start": 510.03,
+   "end": 512.56,
+   "text": "Any sound nearby."
+  },
+  {
+   "start": 512.41,
+   "end": 520.51,
+   "text": "Your breath, still slow, still yours."
+  },
+  {
+   "start": 520.36,
+   "end": 525.73,
+   "text": "Move your fingers first, gently."
+  },
+  {
+   "start": 525.58,
+   "end": 529.12,
+   "text": "Then your feet."
+  },
+  {
+   "start": 528.97,
+   "end": 536.74,
+   "text": "Whenever it feels right, let your eyes open."
+  },
+  {
+   "start": 536.59,
+   "end": 548.92,
+   "text": "That kind voice inside you, the one you just practiced listening to, it's always there."
+  },
+  {
+   "start": 548.77,
+   "end": 552.4,
+   "text": "It doesn't disappear when this meditation ends."
+  },
+  {
+   "start": 552.25,
+   "end": 595.0,
+   "text": "It's simply waiting for you to reach for it, especially on the days you need it the most."
+  }
+ ]
+}

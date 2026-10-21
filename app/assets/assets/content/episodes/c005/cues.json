@@ -1,0 +1,632 @@
+{
+ "source": "faster-whisper small.en word timestamps aligned to script phrases",
+ "matchedWords": 936,
+ "scriptWords": 962,
+ "cues": [
+  {
+   "start": 0.22,
+   "end": 5.02,
+   "text": "Hello, lovely English learner."
+  },
+  {
+   "start": 4.87,
+   "end": 9.81,
+   "text": "Take a moment to settle in."
+  },
+  {
+   "start": 9.66,
+   "end": 15.15,
+   "text": "It doesn\u2019t matter where you are or what kind of day you\u2019ve had."
+  },
+  {
+   "start": 15.0,
+   "end": 21.59,
+   "text": "Right now, you can just be here."
+  },
+  {
+   "start": 21.44,
+   "end": 24.52,
+   "text": "Find a comfortable position."
+  },
+  {
+   "start": 24.37,
+   "end": 30.06,
+   "text": "You can sit down or lie down, whatever feels good for you today."
+  },
+  {
+   "start": 29.91,
+   "end": 39.29,
+   "text": "And just give yourself permission to slow down a little."
+  },
+  {
+   "start": 39.14,
+   "end": 47.03,
+   "text": "I\u2019m here with you, and for the next few minutes, I\u2019ll help you quiet your mind and relax,"
+  },
+  {
+   "start": 46.88,
+   "end": 50.98,
+   "text": "okay?"
+  },
+  {
+   "start": 50.83,
+   "end": 53.0,
+   "text": "You can gently close your eyes."
+  },
+  {
+   "start": 52.85,
+   "end": 56.48,
+   "text": "Or, if you\u2019d rather keep them open,"
+  },
+  {
+   "start": 56.33,
+   "end": 64.41,
+   "text": "just let your eyes rest softly on something in front of you."
+  },
+  {
+   "start": 64.26,
+   "end": 69.51,
+   "text": "There\u2019s nowhere else you need to be right now."
+  },
+  {
+   "start": 69.36,
+   "end": 76.1,
+   "text": "Just stay here with me for a moment."
+  },
+  {
+   "start": 75.95,
+   "end": 79.6,
+   "text": "Notice what\u2019s under your body."
+  },
+  {
+   "start": 79.45,
+   "end": 84.16,
+   "text": "Maybe it\u2019s a chair, a bed, or the floor."
+  },
+  {
+   "start": 84.01,
+   "end": 88.25,
+   "text": "Feel it supporting you."
+  },
+  {
+   "start": 88.1,
+   "end": 92.27,
+   "text": "Let your shoulders relax."
+  },
+  {
+   "start": 92.12,
+   "end": 96.58,
+   "text": "Let your hands rest."
+  },
+  {
+   "start": 96.43,
+   "end": 105.39,
+   "text": "And now, take a slow breath in\u2026"
+  },
+  {
+   "start": 105.24,
+   "end": 111.92,
+   "text": "Today, we're going to explore two very different states."
+  },
+  {
+   "start": 111.77,
+   "end": 116.84,
+   "text": "Your mind and body move between these two states constantly,"
+  },
+  {
+   "start": 116.69,
+   "end": 120.78,
+   "text": "sometimes without you even noticing."
+  },
+  {
+   "start": 120.63,
+   "end": 126.48,
+   "text": "The first state is to be active."
+  },
+  {
+   "start": 126.33,
+   "end": 134.79,
+   "text": "To be active means to be busy doing things, moving, or thinking about many things."
+  },
+  {
+   "start": 134.64,
+   "end": 140.95,
+   "text": "The second state is to rest."
+  },
+  {
+   "start": 140.8,
+   "end": 147.26,
+   "text": "To rest means to stop what you\u2019re doing for a while, relax,"
+  },
+  {
+   "start": 147.11,
+   "end": 153.94,
+   "text": "and let your body and mind become calm."
+  },
+  {
+   "start": 153.79,
+   "end": 158.32,
+   "text": "Right now, notice your mind."
+  },
+  {
+   "start": 158.17,
+   "end": 160.15,
+   "text": "Is it busy?"
+  },
+  {
+   "start": 160.0,
+   "end": 164.02,
+   "text": "Is it active, moving from thought to thought?"
+  },
+  {
+   "start": 163.87,
+   "end": 166.44,
+   "text": "That's completely normal."
+  },
+  {
+   "start": 166.29,
+   "end": 172.78,
+   "text": "Minds are often active, especially after a long day."
+  },
+  {
+   "start": 172.63,
+   "end": 181.96,
+   "text": "Let's gently guide your mind from being active, toward resting."
+  },
+  {
+   "start": 181.81,
+   "end": 185.2,
+   "text": "Start with your breath."
+  },
+  {
+   "start": 185.05,
+   "end": 192.97,
+   "text": "Notice it moving in, and moving out."
+  },
+  {
+   "start": 192.82,
+   "end": 199.31,
+   "text": "This simple noticing already begins to slow things down."
+  },
+  {
+   "start": 199.16,
+   "end": 201.73,
+   "text": "Breathing in slowly\u2026"
+  },
+  {
+   "start": 201.58,
+   "end": 209.88,
+   "text": "and breathing out slowly."
+  },
+  {
+   "start": 209.73,
+   "end": 216.88,
+   "text": "Notice how your breath, all by itself, doesn't need to be active."
+  },
+  {
+   "start": 216.73,
+   "end": 226.08,
+   "text": "It simply flows, gently, at its own steady pace."
+  },
+  {
+   "start": 225.93,
+   "end": 231.25,
+   "text": "Let your body flow this same rhythm."
+  },
+  {
+   "start": 231.1,
+   "end": 234.32,
+   "text": "Let your shoulders rest."
+  },
+  {
+   "start": 234.17,
+   "end": 238.42,
+   "text": "Let your hands rest."
+  },
+  {
+   "start": 238.27,
+   "end": 246.92,
+   "text": "Let your legs feel heavy, and still."
+  },
+  {
+   "start": 246.77,
+   "end": 253.5,
+   "text": "If your mind feels active right now, with a lot of thoughts, that\u2019s okay."
+  },
+  {
+   "start": 253.35,
+   "end": 255.64,
+   "text": "You don\u2019t need to stop your thoughts."
+  },
+  {
+   "start": 255.49,
+   "end": 259.36,
+   "text": "Just notice them."
+  },
+  {
+   "start": 259.21,
+   "end": 267.25,
+   "text": "And slowly, without trying too hard, let your body rest."
+  },
+  {
+   "start": 267.1,
+   "end": 274.84,
+   "text": "Your mind can take a little more time to become calm."
+  },
+  {
+   "start": 274.69,
+   "end": 277.31,
+   "text": "Take another breath in\u2026"
+  },
+  {
+   "start": 277.16,
+   "end": 283.86,
+   "text": "and out."
+  },
+  {
+   "start": 283.71,
+   "end": 289.48,
+   "text": "Imagine, for a moment, that your mind is like a busy street, full of movement,"
+  },
+  {
+   "start": 289.33,
+   "end": 290.76,
+   "text": "full of sound."
+  },
+  {
+   "start": 290.61,
+   "end": 298.74,
+   "text": "And your breath is like a quiet room nearby, where you can step in, and rest,"
+  },
+  {
+   "start": 298.59,
+   "end": 304.02,
+   "text": "whenever you choose."
+  },
+  {
+   "start": 303.87,
+   "end": 312.61,
+   "text": "Right now, step gently into that quiet room."
+  },
+  {
+   "start": 312.46,
+   "end": 321.79,
+   "text": "Notice how it feels here, calmer, softer, slower."
+  },
+  {
+   "start": 321.64,
+   "end": 325.98,
+   "text": "You don't need to close the busy street outside."
+  },
+  {
+   "start": 325.83,
+   "end": 331.54,
+   "text": "It can stay there, active, as it always is."
+  },
+  {
+   "start": 331.39,
+   "end": 340.34,
+   "text": "You're simply choosing, for this moment, to rest."
+  },
+  {
+   "start": 340.19,
+   "end": 344.17,
+   "text": "Bring your attention to your body."
+  },
+  {
+   "start": 344.02,
+   "end": 349.63,
+   "text": "Notice any place that still feels active, tense, or alert."
+  },
+  {
+   "start": 349.48,
+   "end": 351.69,
+   "text": "Maybe your shoulders."
+  },
+  {
+   "start": 351.54,
+   "end": 353.31,
+   "text": "Maybe your face."
+  },
+  {
+   "start": 353.16,
+   "end": 355.96,
+   "text": "Maybe your hands."
+  },
+  {
+   "start": 355.81,
+   "end": 361.99,
+   "text": "Gently invite that part to rest."
+  },
+  {
+   "start": 361.84,
+   "end": 370.93,
+   "text": "Not by force, but by simply allowing it."
+  },
+  {
+   "start": 370.78,
+   "end": 374.71,
+   "text": "Let it soften, just a little more."
+  },
+  {
+   "start": 374.56,
+   "end": 379.83,
+   "text": "Take a breath in\u2026"
+  },
+  {
+   "start": 379.68,
+   "end": 386.28,
+   "text": "and out."
+  },
+  {
+   "start": 386.13,
+   "end": 395.25,
+   "text": "Notice how your body can rest, even if your mind still holds a few active thoughts."
+  },
+  {
+   "start": 395.1,
+   "end": 398.98,
+   "text": "The two don't need to match perfectly."
+  },
+  {
+   "start": 398.83,
+   "end": 407.7,
+   "text": "Your body can lead the way, showing your mind how to slow down."
+  },
+  {
+   "start": 407.55,
+   "end": 410.86,
+   "text": "Let's continue."
+  },
+  {
+   "start": 410.71,
+   "end": 417.76,
+   "text": "Bring your awareness to your chest, rising and falling gently with each breath."
+  },
+  {
+   "start": 417.61,
+   "end": 425.64,
+   "text": "Notice how naturally this movement happens, without effort,"
+  },
+  {
+   "start": 425.49,
+   "end": 431.26,
+   "text": "without needing to be active at all."
+  },
+  {
+   "start": 431.11,
+   "end": 438.56,
+   "text": "Let your whole body settle a little more."
+  },
+  {
+   "start": 438.41,
+   "end": 444.7,
+   "text": "If a thought arrives, active and quick, simply notice it,"
+  },
+  {
+   "start": 444.55,
+   "end": 449.28,
+   "text": "the way you might notice a bird flying past a window."
+  },
+  {
+   "start": 449.13,
+   "end": 451.22,
+   "text": "You don't need to follow it."
+  },
+  {
+   "start": 451.07,
+   "end": 460.22,
+   "text": "You can simply let it pass, and return to resting."
+  },
+  {
+   "start": 460.07,
+   "end": 463.41,
+   "text": "Take another slow breath in\u2026"
+  },
+  {
+   "start": 463.26,
+   "end": 469.83,
+   "text": "and out."
+  },
+  {
+   "start": 469.68,
+   "end": 482.1,
+   "text": "There\u2019s something important to remember: Resting doesn\u2019t mean that nothing is happening."
+  },
+  {
+   "start": 481.95,
+   "end": 485.48,
+   "text": "Your heart is still beating."
+  },
+  {
+   "start": 485.33,
+   "end": 487.65,
+   "text": "You\u2019re still breathing."
+  },
+  {
+   "start": 487.5,
+   "end": 495.22,
+   "text": "Your body is still working quietly, even while you rest."
+  },
+  {
+   "start": 495.07,
+   "end": 506.96,
+   "text": "Rest simply means slowing down and allowing your body and mind to be calm for a while."
+  },
+  {
+   "start": 506.81,
+   "end": 514.83,
+   "text": "Let your body stay here and rest for a little longer."
+  },
+  {
+   "start": 514.68,
+   "end": 518.42,
+   "text": "You don\u2019t need to be active right now."
+  },
+  {
+   "start": 518.27,
+   "end": 521.49,
+   "text": "You don\u2019t need to hurry."
+  },
+  {
+   "start": 521.34,
+   "end": 528.96,
+   "text": "Just enjoy this quiet moment."
+  },
+  {
+   "start": 528.81,
+   "end": 535.23,
+   "text": "And let these gentle words stay with you."
+  },
+  {
+   "start": 535.08,
+   "end": 545.33,
+   "text": "If you like, you can repeat them out loud or just say them quietly in your mind."
+  },
+  {
+   "start": 545.18,
+   "end": 549.43,
+   "text": "Here we go:"
+  },
+  {
+   "start": 549.28,
+   "end": 557.84,
+   "text": "I can rest, even when my mind feels busy."
+  },
+  {
+   "start": 557.69,
+   "end": 566.22,
+   "text": "My body knows how to slow down."
+  },
+  {
+   "start": 566.07,
+   "end": 574.82,
+   "text": "I don't need to control every thought."
+  },
+  {
+   "start": 574.67,
+   "end": 579.39,
+   "text": "I am calm."
+  },
+  {
+   "start": 579.24,
+   "end": 587.91,
+   "text": "I am safe, resting here."
+  },
+  {
+   "start": 587.76,
+   "end": 596.0,
+   "text": "Take another slow breath, and let these words settle a little deeper."
+  },
+  {
+   "start": 595.85,
+   "end": 602.28,
+   "text": "Stay here for a while longer, simply resting."
+  },
+  {
+   "start": 602.13,
+   "end": 607.25,
+   "text": "If your mind becomes active again, that's completely fine."
+  },
+  {
+   "start": 607.1,
+   "end": 619.18,
+   "text": "Just notice, gently, and return to resting, as many times as you need."
+  },
+  {
+   "start": 619.03,
+   "end": 627.95,
+   "text": "This movement between active and rest happens constantly, all day, every day."
+  },
+  {
+   "start": 627.8,
+   "end": 630.28,
+   "text": "There's no need to fight it."
+  },
+  {
+   "start": 630.13,
+   "end": 644.59,
+   "text": "You're simply learning to notice it, and to choose rest, whenever you have the chance."
+  },
+  {
+   "start": 644.44,
+   "end": 652.56,
+   "text": "When you feel ready, slowly notice the room around you again."
+  },
+  {
+   "start": 652.41,
+   "end": 659.86,
+   "text": "Notice what\u2019s under your body, maybe a chair, a bed, or the floor."
+  },
+  {
+   "start": 659.71,
+   "end": 662.02,
+   "text": "Notice your breathing."
+  },
+  {
+   "start": 661.87,
+   "end": 669.52,
+   "text": "It\u2019s still slow and calm."
+  },
+  {
+   "start": 669.37,
+   "end": 674.52,
+   "text": "Let your fingers move first, just slightly."
+  },
+  {
+   "start": 674.37,
+   "end": 676.78,
+   "text": "Then your toes."
+  },
+  {
+   "start": 676.63,
+   "end": 683.99,
+   "text": "Small movements, gentle and unhurried."
+  },
+  {
+   "start": 683.84,
+   "end": 688.24,
+   "text": "Take your time."
+  },
+  {
+   "start": 688.09,
+   "end": 692.12,
+   "text": "There's no need to rush back into being active."
+  },
+  {
+   "start": 691.97,
+   "end": 709.5,
+   "text": "Whenever you're ready, let your eyes open softly, taking in the light around you."
+  },
+  {
+   "start": 709.35,
+   "end": 715.56,
+   "text": "Carry this rest with you, into whatever comes next."
+  },
+  {
+   "start": 715.41,
+   "end": 726.65,
+   "text": "And remember, even in the middle of a busy, active day, you can always return here,"
+  },
+  {
+   "start": 726.5,
+   "end": 737.49,
+   "text": "to this quiet stillness, whenever you need it."
+  },
+  {
+   "start": 737.34,
+   "end": 740.36,
+   "text": "You are calm."
+  },
+  {
+   "start": 740.21,
+   "end": 743.86,
+   "text": "You are rested."
+  },
+  {
+   "start": 743.71,
+   "end": 783.0,
+   "text": "And you are exactly where you need to be."
+  }
+ ]
+}

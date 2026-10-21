@@ -1,0 +1,142 @@
+{
+ "source": "faster-whisper small.en word timestamps aligned to script phrases",
+ "matchedWords": 245,
+ "scriptWords": 253,
+ "cues": [
+  {
+   "start": 8.91,
+   "end": 25.32,
+   "text": "Imagine yourself in a beautiful park."
+  },
+  {
+   "start": 25.17,
+   "end": 33.3,
+   "text": "It's a beautiful sunny day."
+  },
+  {
+   "start": 33.15,
+   "end": 53.84,
+   "text": "Before you start moving, you stretch your body."
+  },
+  {
+   "start": 53.69,
+   "end": 70.18,
+   "text": "You lift your arms above your head and stretch."
+  },
+  {
+   "start": 70.03,
+   "end": 74.52,
+   "text": "To stretch means to move your body or part of your body"
+  },
+  {
+   "start": 74.37,
+   "end": 85.62,
+   "text": "to make your muscles longer and more relaxed."
+  },
+  {
+   "start": 85.47,
+   "end": 89.74,
+   "text": "Now, you start to walk along a quiet path."
+  },
+  {
+   "start": 89.59,
+   "end": 102.5,
+   "text": "You walk slowly, one step at a time."
+  },
+  {
+   "start": 102.35,
+   "end": 126.74,
+   "text": "You look around and notice the trees, the grass, and the flowers around you."
+  },
+  {
+   "start": 126.59,
+   "end": 131.64,
+   "text": "After walking for a while, you decide to move a little faster."
+  },
+  {
+   "start": 131.49,
+   "end": 149.88,
+   "text": "You start to jog."
+  },
+  {
+   "start": 149.73,
+   "end": 166.08,
+   "text": "To jog means to run slowly, usually for exercise."
+  },
+  {
+   "start": 165.93,
+   "end": 169.88,
+   "text": "Now, imagine going a little faster."
+  },
+  {
+   "start": 169.73,
+   "end": 179.3,
+   "text": "You start to run."
+  },
+  {
+   "start": 179.15,
+   "end": 195.2,
+   "text": "You run past the trees and feel the fresh air on your face."
+  },
+  {
+   "start": 195.05,
+   "end": 209.52,
+   "text": "And for just a few seconds, you sprint."
+  },
+  {
+   "start": 209.37,
+   "end": 222.44,
+   "text": "To sprint means to run as fast as you can for a short distance."
+  },
+  {
+   "start": 222.29,
+   "end": 253.16,
+   "text": "You sprint\u2026and then you stop."
+  },
+  {
+   "start": 253.01,
+   "end": 275.04,
+   "text": "Your heart is beating faster now, so you find a bench and take a break."
+  },
+  {
+   "start": 274.89,
+   "end": 289.06,
+   "text": "To take a break means to stop what you\u2019re doing for a short time so you can rest."
+  },
+  {
+   "start": 288.91,
+   "end": 302.54,
+   "text": "You sit down and catch your breath."
+  },
+  {
+   "start": 302.39,
+   "end": 322.18,
+   "text": "To catch your breath means to rest for a moment until you can breathe normally again."
+  },
+  {
+   "start": 322.03,
+   "end": 332.76,
+   "text": "You pick up your water bottle and take a sip of water."
+  },
+  {
+   "start": 332.61,
+   "end": 350.62,
+   "text": "A sip is a small amount of a drink."
+  },
+  {
+   "start": 350.47,
+   "end": 356.72,
+   "text": "You sit quietly for a moment and look around the park."
+  },
+  {
+   "start": 356.57,
+   "end": 370.4,
+   "text": "And now, you\u2019re resting."
+  },
+  {
+   "start": 370.25,
+   "end": 394.0,
+   "text": "Enjoy this quiet moment in the park."
+  }
+ ]
+}

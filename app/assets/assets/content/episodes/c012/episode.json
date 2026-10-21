@@ -1,0 +1,37 @@
+{
+  "id": "c012",
+  "slug": "plane-vocabulary",
+  "title": "Plane Vocabulary",
+  "summary": "A cozy flight: take off, recline, hum, look out the window.",
+  "durationSeconds": 415,
+  "access": "premium",
+  "published": true,
+  "number": 12,
+  "catalogNumber": "012",
+  "theme": "travel",
+  "script": "Listen, the plane is taking off.\nTo take off means to leave the ground and start flying.\nNow, gently imagine you’re fastening your seatbelt and getting comfortable.\nYou carefully recline your seat, finding a cozy position where you can rest.\nTo recline your seat means to move the back of your seat backward.\nThere is a blanket and a pillow waiting for you.\nWrap yourself in the blanket, place the pillow behind your head, and let your body relax.\nListen. You can hear the gentle hum of the plane.\nA hum is a low, continuous sound that you can hear in the background.\nTo make it even more comfortable, imagine you put on a pair of noise-cancelling earbuds so that you can look out the window and enjoy the view.\nAs you look out the window, you can see the beautiful blue sky and the mountains passing slowly below you.\nTo look out the window means to look outside through a window.\nBut when you look at the window, you notice the window itself. You can see that it’s clean, and there is a button you can press to close it.\nYou press the button to close the window, and at the same time, you close your eyes.\nBreathe in… and breathe out…\nEnjoy this cozy flight. Bye.",
+  "vocabulary": [
+    {
+      "word": "to take off",
+      "definition": "to leave the ground and start flying"
+    },
+    {
+      "word": "to recline your seat",
+      "definition": "to move the back of your seat backward"
+    },
+    {
+      "word": "hum",
+      "definition": "a low, continuous sound that you can hear in the background"
+    },
+    {
+      "word": "to look out the window",
+      "definition": "to look outside through a window"
+    }
+  ],
+  "exercises": [],
+  "audioAsset": null,
+  "sourceAudio": "assets/content/episodes/c012/audio.mp3",
+  "audioMd5": "d0f19f1383b06739e9e17ebf6ca25ba4",
+  "source": "Google Drive FINALIZADOS 012 (read-only copy, 2026-10-14)",
+  "streamId": "027"
+}

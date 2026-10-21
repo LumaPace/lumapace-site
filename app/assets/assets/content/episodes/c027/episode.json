@@ -1,0 +1,78 @@
+{
+  "id": "c027",
+  "slug": "a-night-at-the-hotel",
+  "title": "A Night at the Hotel",
+  "summary": "Check in to a cozy hotel: lobby, front desk, hallway, sheets, faucet.",
+  "durationSeconds": 389,
+  "access": "premium",
+  "published": true,
+  "number": 25,
+  "catalogNumber": "027",
+  "theme": "travel",
+  "script": "Hmm, you just arrived at a comfy hotel.\nYou look at the lobby, and it has warm, cozy lightning.\nThe lobby is the area where you find the reception, front desk, seats, and waiting areas.\nYou walk to the front desk to check in. It’s a very calm night at the hotel, so the lobby is quiet and peaceful.\nYou hear the receptionist slowly typing your information into the computer, and you receive your room key.\nListen, you get into the elevator and press the button for the right floor. When you arrive, the elevator stops.\nThe hotel hallway smells so nice, and it feels so peaceful that you walk through it slowly.\nA hallway is a long passage inside a building, with doors or rooms along it. It can also be called a corridor.\nYou open the door to your room and see a big, comfy bed.\nThe bed looks so soft and inviting. It has clean white sheets, fluffy pillows, and a warm blanket.\nSheets cover the bed. You lie on them when you sleep. They’re usually soft and can be white or other colors.\nYou appreciate the room for a while, and then you go to the bathroom and turn on the faucet to fill the Jacuzzi for a bath.\nWe usually take a bath in a bathtub or Jacuzzi and take a shower when there is a shower.\nWhen you get into the Jacuzzi, you feel the warm water relaxing all your muscles.\nYou rest your head on the edge of Jacuzzi and relax as much as possible.\nEnjoy this cozy moment at the hotel. See you soon!",
+  "vocabulary": [
+    {
+      "word": "lobby",
+      "definition": "the area where you find the reception, front desk, seats, and waiting areas"
+    },
+    {
+      "word": "to check in",
+      "definition": "to tell the hotel you have arrived and receive your room key"
+    },
+    {
+      "word": "hallway",
+      "definition": "a long passage inside a building, with doors or rooms along it; it can also be called a corridor"
+    },
+    {
+      "word": "sheets",
+      "definition": "what covers the bed; you lie on them when you sleep"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "practice_1",
+      "sentence": "What is a lobby?",
+      "options": [
+        "A long passage with doors or rooms along it",
+        "The area with the front desk, seats, and waiting areas",
+        "A room where guests take a bath"
+      ],
+      "correctAnswer": "The area with the front desk, seats, and waiting areas"
+    },
+    {
+      "id": "practice_2",
+      "sentence": "Which word can also mean “hallway”?",
+      "options": [
+        "Corridor",
+        "Elevator",
+        "Faucet"
+      ],
+      "correctAnswer": "Corridor"
+    },
+    {
+      "id": "practice_3",
+      "sentence": "What are sheets used for?",
+      "options": [
+        "Filling a Jacuzzi",
+        "Opening a hotel room",
+        "Covering a bed"
+      ],
+      "correctAnswer": "Covering a bed"
+    },
+    {
+      "id": "practice_4",
+      "sentence": "What does “turn on the faucet” mean?",
+      "options": [
+        "Stop the water from running",
+        "Let the water run",
+        "Cover the bed with a blanket"
+      ],
+      "correctAnswer": "Let the water run"
+    }
+  ],
+  "audioAsset": null,
+  "sourceAudio": "assets/content/episodes/c027/audio.mp3",
+  "audioMd5": "0594c4a22d7ce7f15611674ad71c3fa6",
+  "source": "Google Drive FINALIZADOS 027 (read-only copy, 2026-10-14)",
+  "streamId": "c027"
+}

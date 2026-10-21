@@ -1,0 +1,117 @@
+{
+ "source": "faster-whisper small.en word timestamps aligned to script phrases",
+ "matchedWords": 198,
+ "scriptWords": 218,
+ "cues": [
+  {
+   "start": 4.86,
+   "end": 18.17,
+   "text": "Listen, the plane is taking off."
+  },
+  {
+   "start": 18.02,
+   "end": 38.72,
+   "text": "To take off means to leave the ground and start flying."
+  },
+  {
+   "start": 38.57,
+   "end": 68.78,
+   "text": "Now, gently imagine you\u2019re fastening your seatbelt and getting comfortable."
+  },
+  {
+   "start": 68.63,
+   "end": 89.01,
+   "text": "You carefully recline your seat, finding a cozy position where you can rest."
+  },
+  {
+   "start": 88.86,
+   "end": 94.37,
+   "text": "To recline your seat means to move the back of your seat backward."
+  },
+  {
+   "start": 94.22,
+   "end": 151.86,
+   "text": "There is a blanket and a pillow waiting for you."
+  },
+  {
+   "start": 151.71,
+   "end": 167.96,
+   "text": "Wrap yourself in the blanket, place the pillow behind your head, and let your body relax."
+  },
+  {
+   "start": 167.81,
+   "end": 168.46,
+   "text": "Listen."
+  },
+  {
+   "start": 168.29,
+   "end": 171.78,
+   "text": "You can hear the gentle hum of the plane."
+  },
+  {
+   "start": 171.63,
+   "end": 205.12,
+   "text": "A hum is a low, continuous sound that you can hear in the background."
+  },
+  {
+   "start": 204.97,
+   "end": 219.19,
+   "text": "To make it even more comfortable,"
+  },
+  {
+   "start": 219.04,
+   "end": 234.67,
+   "text": "imagine you put on a pair of noise-cancelling earbuds so that you can look out the window and enjoy the view."
+  },
+  {
+   "start": 234.52,
+   "end": 236.59,
+   "text": "As you look out the window,"
+  },
+  {
+   "start": 236.44,
+   "end": 251.4,
+   "text": "you can see the beautiful blue sky and the mountains passing slowly below you."
+  },
+  {
+   "start": 251.25,
+   "end": 270.76,
+   "text": "To look out the window means to look outside through a window."
+  },
+  {
+   "start": 270.61,
+   "end": 277.0,
+   "text": "But when you look at the window, you notice the window itself."
+  },
+  {
+   "start": 276.85,
+   "end": 324.18,
+   "text": "You can see that it\u2019s clean, and there is a button you can press to close it."
+  },
+  {
+   "start": 324.03,
+   "end": 353.55,
+   "text": "You press the button to close the window, and at the same time, you close your eyes."
+  },
+  {
+   "start": 353.4,
+   "end": 354.31,
+   "text": "Breathe in\u2026"
+  },
+  {
+   "start": 354.16,
+   "end": 368.42,
+   "text": "and breathe out\u2026"
+  },
+  {
+   "start": 368.27,
+   "end": 371.16,
+   "text": "Enjoy this cozy flight."
+  },
+  {
+   "start": 371.01,
+   "end": 415.0,
+   "text": "Bye."
+  }
+ ]
+}

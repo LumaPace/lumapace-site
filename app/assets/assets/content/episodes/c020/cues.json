@@ -1,0 +1,487 @@
+{
+ "source": "faster-whisper small.en word timestamps aligned to script phrases",
+ "matchedWords": 755,
+ "scriptWords": 826,
+ "cues": [
+  {
+   "start": 1.23,
+   "end": 3.04,
+   "text": "Hi."
+  },
+  {
+   "start": 2.89,
+   "end": 6.08,
+   "text": "I\u2019m glad you\u2019re here."
+  },
+  {
+   "start": 5.93,
+   "end": 11.82,
+   "text": "Today, we will practice gratitude."
+  },
+  {
+   "start": 11.67,
+   "end": 14.88,
+   "text": "Find a comfortable position."
+  },
+  {
+   "start": 14.73,
+   "end": 19.88,
+   "text": "Sit or lie down in a way that feels good for you."
+  },
+  {
+   "start": 19.73,
+   "end": 26.0,
+   "text": "If you want, you can put your hands in your lap and gently close your eyes."
+  },
+  {
+   "start": 25.85,
+   "end": 32.2,
+   "text": "But if you can\u2019t, that\u2019s okay too."
+  },
+  {
+   "start": 32.05,
+   "end": 33.42,
+   "text": "Inhale slowly."
+  },
+  {
+   "start": 33.27,
+   "end": 42.94,
+   "text": "And exhale, letting your shoulders drop a little as you do."
+  },
+  {
+   "start": 42.79,
+   "end": 45.3,
+   "text": "One more time."
+  },
+  {
+   "start": 45.15,
+   "end": 46.08,
+   "text": "Inhale\u2026"
+  },
+  {
+   "start": 45.93,
+   "end": 54.58,
+   "text": "and exhale."
+  },
+  {
+   "start": 54.43,
+   "end": 57.84,
+   "text": "I want to try something a little different with you today."
+  },
+  {
+   "start": 57.69,
+   "end": 65.16,
+   "text": "Instead of imagining a place, I want you to think of your actual life for a moment."
+  },
+  {
+   "start": 65.01,
+   "end": 66.12,
+   "text": "Something real."
+  },
+  {
+   "start": 65.97,
+   "end": 70.42,
+   "text": "Something small, even."
+  },
+  {
+   "start": 70.27,
+   "end": 73.82,
+   "text": "Inhale again, slowly."
+  },
+  {
+   "start": 73.67,
+   "end": 80.44,
+   "text": "Think of one person in your life."
+  },
+  {
+   "start": 80.29,
+   "end": 85.86,
+   "text": "It doesn't have to be someone big or important in an obvious way."
+  },
+  {
+   "start": 85.71,
+   "end": 87.52,
+   "text": "Maybe it's a friend."
+  },
+  {
+   "start": 87.37,
+   "end": 89.22,
+   "text": "A family member."
+  },
+  {
+   "start": 89.07,
+   "end": 94.02,
+   "text": "Even someone you don't see very often anymore."
+  },
+  {
+   "start": 93.87,
+   "end": 101.2,
+   "text": "Picture their face for a second, clearly, if you can."
+  },
+  {
+   "start": 101.05,
+   "end": 111.56,
+   "text": "Now, quietly, think of one specific thing about them that you are grateful for."
+  },
+  {
+   "start": 111.41,
+   "end": 120.96,
+   "text": "To be grateful for something means to be thankful for something good in your life."
+  },
+  {
+   "start": 120.81,
+   "end": 125.74,
+   "text": "It can be something you have, something someone did for you,"
+  },
+  {
+   "start": 125.59,
+   "end": 129.18,
+   "text": "or something you didn\u2019t expect."
+  },
+  {
+   "start": 129.03,
+   "end": 140.52,
+   "text": "It\u2019s a warm, quiet feeling, like knowing you have something special in your hands."
+  },
+  {
+   "start": 140.37,
+   "end": 145.62,
+   "text": "Maybe you're grateful for a conversation they once had with you."
+  },
+  {
+   "start": 145.47,
+   "end": 152.18,
+   "text": "Maybe just for the fact that they exist in your life at all."
+  },
+  {
+   "start": 152.03,
+   "end": 158.64,
+   "text": "Let that feeling sit in your chest for a moment."
+  },
+  {
+   "start": 158.49,
+   "end": 163.22,
+   "text": "Exhale slowly."
+  },
+  {
+   "start": 163.07,
+   "end": 165.76,
+   "text": "Now think of something much smaller."
+  },
+  {
+   "start": 165.61,
+   "end": 172.88,
+   "text": "Not a person this time, just a small comfort in your life."
+  },
+  {
+   "start": 172.73,
+   "end": 175.78,
+   "text": "Maybe it's your bed."
+  },
+  {
+   "start": 175.63,
+   "end": 179.66,
+   "text": "Maybe it's a warm drink you had recently."
+  },
+  {
+   "start": 179.51,
+   "end": 189.02,
+   "text": "Maybe it's simply having a quiet room to sit in right now, like this one."
+  },
+  {
+   "start": 188.87,
+   "end": 195.88,
+   "text": "Inhale, and as you do, silently say to yourself,"
+  },
+  {
+   "start": 195.73,
+   "end": 206.22,
+   "text": "\"I'm grateful for this.\"  \"I'm grateful for this.\""
+  },
+  {
+   "start": 206.07,
+   "end": 209.2,
+   "text": "Notice how different that feels from just thinking,"
+  },
+  {
+   "start": 209.05,
+   "end": 215.6,
+   "text": "\"this is fine,\" or \"this is normal.\" Gratitude adds something extra."
+  },
+  {
+   "start": 215.45,
+   "end": 225.21,
+   "text": "It takes something ordinary, and quietly says, this actually matters."
+  },
+  {
+   "start": 225.06,
+   "end": 243.56,
+   "text": "Exhale."
+  },
+  {
+   "start": 243.41,
+   "end": 245.4,
+   "text": "Now let\u2019s move to a slightly different feeling: appreciation."
+  },
+  {
+   "start": 245.25,
+   "end": 245.9,
+   "text": "The verb \u201cto appreciate\u201d means to notice how good or how valuable something is."
+  },
+  {
+   "start": 245.45,
+   "end": 253.94,
+   "text": "Instead of looking at something quickly and moving on, you stop and really notice it."
+  },
+  {
+   "start": 253.79,
+   "end": 262.66,
+   "text": "For example, you can say, \u201cI really appreciate your help.\u201d This is another way to say,"
+  },
+  {
+   "start": 262.51,
+   "end": 266.2,
+   "text": "\u201cThank you for your help.\u201d"
+  },
+  {
+   "start": 266.05,
+   "end": 269.84,
+   "text": "Think about a beautiful sunset."
+  },
+  {
+   "start": 269.69,
+   "end": 279.34,
+   "text": "You can look at it for a second and move on, or you can stop and really look at it,"
+  },
+  {
+   "start": 279.19,
+   "end": 286.56,
+   "text": "noticing the colors, the light, and the sky."
+  },
+  {
+   "start": 286.41,
+   "end": 291.52,
+   "text": "Now, think of something in your life that you don\u2019t usually notice."
+  },
+  {
+   "start": 291.37,
+   "end": 299.1,
+   "text": "Maybe your own body, and all the things it does for you every day without you asking."
+  },
+  {
+   "start": 298.95,
+   "end": 306.16,
+   "text": "Think about your lungs, breathing in and out right now."
+  },
+  {
+   "start": 306.01,
+   "end": 316.36,
+   "text": "Think about your heart, beating quietly without you having to do anything."
+  },
+  {
+   "start": 316.21,
+   "end": 325.88,
+   "text": "Inhale slowly, and really notice this breath entering your body."
+  },
+  {
+   "start": 325.73,
+   "end": 334.1,
+   "text": "Exhale, and notice it leaving, just as smoothly."
+  },
+  {
+   "start": 333.95,
+   "end": 339.82,
+   "text": "This happens automatically, thousands of times a day, and most days,"
+  },
+  {
+   "start": 339.67,
+   "end": 344.3,
+   "text": "you probably never even think about it."
+  },
+  {
+   "start": 344.15,
+   "end": 350.72,
+   "text": "Take a moment now, to actually appreciate it."
+  },
+  {
+   "start": 350.57,
+   "end": 356.46,
+   "text": "Not just acknowledge it, but really notice it,"
+  },
+  {
+   "start": 356.31,
+   "end": 364.48,
+   "text": "the way you'd notice something beautiful if you actually stopped to look."
+  },
+  {
+   "start": 364.33,
+   "end": 368.6,
+   "text": "Inhale again."
+  },
+  {
+   "start": 368.45,
+   "end": 376.62,
+   "text": "There's a difference between having good things in your life, and actually noticing them."
+  },
+  {
+   "start": 376.47,
+   "end": 384.3,
+   "text": "Gratitude and appreciation are both without pausing, just for a moment,"
+  },
+  {
+   "start": 384.15,
+   "end": 391.48,
+   "text": "to really see what's already here, instead of always looking toward what's missing,"
+  },
+  {
+   "start": 391.33,
+   "end": 395.74,
+   "text": "or what's next."
+  },
+  {
+   "start": 395.59,
+   "end": 399.48,
+   "text": "Exhale slowly."
+  },
+  {
+   "start": 399.33,
+   "end": 405.1,
+   "text": "Think once more about that person from earlier."
+  },
+  {
+   "start": 404.95,
+   "end": 407.7,
+   "text": "And that small comfort."
+  },
+  {
+   "start": 407.55,
+   "end": 418.42,
+   "text": "And your own breath, moving in, and out, quietly keeping you alive."
+  },
+  {
+   "start": 418.27,
+   "end": 430.06,
+   "text": "Let yourself feel grateful for all of it, together, all at once, right now."
+  },
+  {
+   "start": 429.91,
+   "end": 431.18,
+   "text": "Inhale."
+  },
+  {
+   "start": 431.03,
+   "end": 437.8,
+   "text": "And exhale, long and slow."
+  },
+  {
+   "start": 437.65,
+   "end": 444.42,
+   "text": "A few words, if you'd like to keep them with you."
+  },
+  {
+   "start": 444.27,
+   "end": 452.58,
+   "text": "I am grateful for what is already here."
+  },
+  {
+   "start": 452.43,
+   "end": 462.08,
+   "text": "I can appreciate small things, not just the big ones."
+  },
+  {
+   "start": 461.93,
+   "end": 469.56,
+   "text": "Noticing what I have is its own kind of peace."
+  },
+  {
+   "start": 469.41,
+   "end": 478.74,
+   "text": "I don't need more to feel thankful right now."
+  },
+  {
+   "start": 478.59,
+   "end": 489.96,
+   "text": "I appreciate this quiet moment, exactly as it is."
+  },
+  {
+   "start": 489.81,
+   "end": 494.24,
+   "text": "Take one more slow inhale."
+  },
+  {
+   "start": 494.09,
+   "end": 501.54,
+   "text": "And exhale completely."
+  },
+  {
+   "start": 501.39,
+   "end": 508.58,
+   "text": "Stay here a little longer if you'd like, simply noticing what you're grateful for,"
+  },
+  {
+   "start": 508.43,
+   "end": 542.76,
+   "text": "what you appreciate, without needing to do anything else with these feelings."
+  },
+  {
+   "start": 542.61,
+   "end": 546.48,
+   "text": "When you're ready to come back, start noticing small, real things around you."
+  },
+  {
+   "start": 546.33,
+   "end": 546.98,
+   "text": "Whatever is supporting your body right now."
+  },
+  {
+   "start": 546.33,
+   "end": 546.98,
+   "text": "Any sound nearby."
+  },
+  {
+   "start": 546.33,
+   "end": 546.98,
+   "text": "Your breath, still slow, still yours."
+  },
+  {
+   "start": 546.33,
+   "end": 551.18,
+   "text": "Move your fingers first, gently."
+  },
+  {
+   "start": 551.03,
+   "end": 556.7,
+   "text": "Then your feet."
+  },
+  {
+   "start": 556.55,
+   "end": 565.08,
+   "text": "Whenever it feels right, let your eyes open."
+  },
+  {
+   "start": 564.93,
+   "end": 573.84,
+   "text": "Take this feeling with you for the rest of your day, even if it\u2019s just a little."
+  },
+  {
+   "start": 573.69,
+   "end": 578.58,
+   "text": "You don\u2019t need a big moment to feel grateful."
+  },
+  {
+   "start": 578.43,
+   "end": 586.7,
+   "text": "Sometimes, it can be something as simple as taking a breath and noticing it."
+  },
+  {
+   "start": 586.55,
+   "end": 619.72,
+   "text": "And I\u2019m grateful that you\u2019re here, practicing these meditations, learning English,"
+  },
+  {
+   "start": 619.57,
+   "end": 639.0,
+   "text": "and taking care of your mental health."
+  }
+ ]
+}

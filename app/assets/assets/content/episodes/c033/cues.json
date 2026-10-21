@@ -1,0 +1,552 @@
+{
+ "source": "faster-whisper small.en word timestamps aligned to script phrases",
+ "matchedWords": 778,
+ "scriptWords": 829,
+ "cues": [
+  {
+   "start": 0.7,
+   "end": 11.64,
+   "text": "Hello, and welcome to this \u201clistening to the sounds around you meditation\u201d."
+  },
+  {
+   "start": 11.49,
+   "end": 18.26,
+   "text": "Take a moment to get comfortable and relax."
+  },
+  {
+   "start": 18.11,
+   "end": 25.82,
+   "text": "You can sit on the couch, sit on a pillow, or lie down on your bed."
+  },
+  {
+   "start": 25.67,
+   "end": 33.6,
+   "text": "Find a position that feels comfortable for you today."
+  },
+  {
+   "start": 33.45,
+   "end": 38.7,
+   "text": "There\u2019s no need to sit in a special position."
+  },
+  {
+   "start": 38.55,
+   "end": 46.12,
+   "text": "Just let your body relax and take your time."
+  },
+  {
+   "start": 45.97,
+   "end": 51.04,
+   "text": "When you\u2019re ready, you can gently close your eyes,"
+  },
+  {
+   "start": 50.89,
+   "end": 57.06,
+   "text": "or simply look down and let your eyes relax."
+  },
+  {
+   "start": 56.91,
+   "end": 69.04,
+   "text": "For the next few minutes, you don\u2019t need to go anywhere or do anything."
+  },
+  {
+   "start": 68.89,
+   "end": 82.17,
+   "text": "Just stay here, take a slow breath, and focus on this moment."
+  },
+  {
+   "start": 82.02,
+   "end": 88.69,
+   "text": "Feel the surface beneath you, holding you completely."
+  },
+  {
+   "start": 88.54,
+   "end": 91.31,
+   "text": "Let your shoulders soften."
+  },
+  {
+   "start": 91.16,
+   "end": 96.54,
+   "text": "Let your hands rest."
+  },
+  {
+   "start": 96.39,
+   "end": 102.18,
+   "text": "Take a slow breath in\u2026"
+  },
+  {
+   "start": 102.03,
+   "end": 108.78,
+   "text": "and let it out."
+  },
+  {
+   "start": 108.63,
+   "end": 110.22,
+   "text": "Once more."
+  },
+  {
+   "start": 110.07,
+   "end": 110.72,
+   "text": "In\u2026"
+  },
+  {
+   "start": 110.49,
+   "end": 120.06,
+   "text": "and out."
+  },
+  {
+   "start": 119.91,
+   "end": 126.58,
+   "text": "Today, we're going to explore two words that describe two different worlds,"
+  },
+  {
+   "start": 126.43,
+   "end": 133.04,
+   "text": "the world outside of us, and the world within us."
+  },
+  {
+   "start": 132.89,
+   "end": 138.88,
+   "text": "The first is surroundings."
+  },
+  {
+   "start": 138.73,
+   "end": 146.94,
+   "text": "Surroundings are the people, places, and things around you."
+  },
+  {
+   "start": 146.79,
+   "end": 151.7,
+   "text": "For example, when you sit in a quiet room,"
+  },
+  {
+   "start": 151.55,
+   "end": 159.86,
+   "text": "the room and everything around you are your surroundings."
+  },
+  {
+   "start": 159.71,
+   "end": 166.26,
+   "text": "The second is interior."
+  },
+  {
+   "start": 166.11,
+   "end": 177.02,
+   "text": "\"Interior\" can mean the inside of you, your thoughts, feelings, or emotions."
+  },
+  {
+   "start": 176.87,
+   "end": 183.6,
+   "text": "For example, meditation can help you pay attention to your interior world,"
+  },
+  {
+   "start": 183.45,
+   "end": 188.5,
+   "text": "or what is happening inside you."
+  },
+  {
+   "start": 188.35,
+   "end": 198.7,
+   "text": "Today, we'll move gently between these two worlds, simply by listening."
+  },
+  {
+   "start": 198.55,
+   "end": 203.52,
+   "text": "Let's begin with your surroundings."
+  },
+  {
+   "start": 203.37,
+   "end": 214.75,
+   "text": "Bring your attention to any sounds you can hear right now, outside of your body."
+  },
+  {
+   "start": 214.6,
+   "end": 217.37,
+   "text": "Maybe something close to you."
+  },
+  {
+   "start": 217.22,
+   "end": 220.03,
+   "text": "Maybe something far away."
+  },
+  {
+   "start": 219.88,
+   "end": 228.96,
+   "text": "Maybe silence itself, which has its own quiet sound."
+  },
+  {
+   "start": 228.81,
+   "end": 232.7,
+   "text": "Just listen."
+  },
+  {
+   "start": 232.55,
+   "end": 240.52,
+   "text": "Notice these sounds as they come, and notice them as they disappear."
+  },
+  {
+   "start": 240.37,
+   "end": 244.16,
+   "text": "There\u2019s nothing to identify."
+  },
+  {
+   "start": 244.01,
+   "end": 246.34,
+   "text": "Nothing to name."
+  },
+  {
+   "start": 246.19,
+   "end": 254.81,
+   "text": "Just simple, open listening."
+  },
+  {
+   "start": 254.66,
+   "end": 263.17,
+   "text": "Notice how these sounds belong to your surroundings, existing outside of you,"
+  },
+  {
+   "start": 263.02,
+   "end": 271.9,
+   "text": "independent of your thoughts, independent of your breath."
+  },
+  {
+   "start": 271.75,
+   "end": 279.06,
+   "text": "Stay here for a moment, simply listening to your surroundings."
+  },
+  {
+   "start": 278.91,
+   "end": 295.87,
+   "text": "Now, gently, let's shift your attention inward, to your interior."
+  },
+  {
+   "start": 295.72,
+   "end": 298.83,
+   "text": "Notice your breath."
+  },
+  {
+   "start": 298.68,
+   "end": 307.29,
+   "text": "This sound, this movement, belongs only to you."
+  },
+  {
+   "start": 307.14,
+   "end": 318.02,
+   "text": "It exists inside your body, quiet and constant."
+  },
+  {
+   "start": 317.87,
+   "end": 324.64,
+   "text": "Listen to your breath the way you listened to those sounds around you."
+  },
+  {
+   "start": 324.49,
+   "end": 337.25,
+   "text": "Notice it as it comes, and notice it as it goes, again and again."
+  },
+  {
+   "start": 337.1,
+   "end": 342.41,
+   "text": "This is your interior world."
+  },
+  {
+   "start": 342.26,
+   "end": 349.9,
+   "text": "Quiet, and completely your own."
+  },
+  {
+   "start": 349.75,
+   "end": 352.47,
+   "text": "Take a slow breath in\u2026"
+  },
+  {
+   "start": 352.32,
+   "end": 359.08,
+   "text": "and out."
+  },
+  {
+   "start": 358.93,
+   "end": 364.72,
+   "text": "Now, let's move gently back to your surroundings."
+  },
+  {
+   "start": 364.57,
+   "end": 368.66,
+   "text": "Notice any sounds outside of you once again."
+  },
+  {
+   "start": 368.51,
+   "end": 373.0,
+   "text": "The distant hum of something far away."
+  },
+  {
+   "start": 372.85,
+   "end": 376.96,
+   "text": "The quiet stillness of the room."
+  },
+  {
+   "start": 376.81,
+   "end": 382.64,
+   "text": "Whatever exists around you, right now."
+  },
+  {
+   "start": 382.49,
+   "end": 390.34,
+   "text": "Notice how these sounds continue, whether you're listening or not."
+  },
+  {
+   "start": 390.19,
+   "end": 400.2,
+   "text": "Your surroundings simply exist, patient and constant."
+  },
+  {
+   "start": 400.05,
+   "end": 407.36,
+   "text": "Move your attention back inward now, to your interior."
+  },
+  {
+   "start": 407.21,
+   "end": 412.4,
+   "text": "Notice your heartbeat, if you can feel it."
+  },
+  {
+   "start": 412.25,
+   "end": 417.2,
+   "text": "Notice the quiet rhythm of your breath."
+  },
+  {
+   "start": 417.05,
+   "end": 426.48,
+   "text": "Notice the stillness of your own thoughts, settling gently."
+  },
+  {
+   "start": 426.33,
+   "end": 434.5,
+   "text": "This interior world is always with you, wherever you go,"
+  },
+  {
+   "start": 434.35,
+   "end": 440.7,
+   "text": "wherever your surroundings might change."
+  },
+  {
+   "start": 440.55,
+   "end": 447.17,
+   "text": "Let's practice moving between these two worlds a little more."
+  },
+  {
+   "start": 447.02,
+   "end": 452.93,
+   "text": "Bring your awareness outward, to your surroundings."
+  },
+  {
+   "start": 452.78,
+   "end": 458.15,
+   "text": "Listen carefully."
+  },
+  {
+   "start": 458.0,
+   "end": 467.63,
+   "text": "And now, bring your awareness inward, to your interior."
+  },
+  {
+   "start": 467.48,
+   "end": 473.98,
+   "text": "Listen just as carefully."
+  },
+  {
+   "start": 473.83,
+   "end": 481.84,
+   "text": "Notice how both worlds exist, at the very same time."
+  },
+  {
+   "start": 481.69,
+   "end": 487.36,
+   "text": "Your surroundings, full of sound, full of space."
+  },
+  {
+   "start": 487.21,
+   "end": 498.77,
+   "text": "Your interior, quiet, personal, and steady."
+  },
+  {
+   "start": 498.62,
+   "end": 503.31,
+   "text": "There's something valuable in noticing this difference."
+  },
+  {
+   "start": 503.16,
+   "end": 510.39,
+   "text": "Often, our attention gets pulled entirely outward, toward our surroundings."
+  },
+  {
+   "start": 510.24,
+   "end": 515.78,
+   "text": "We forget our interior world completely."
+  },
+  {
+   "start": 515.63,
+   "end": 526.68,
+   "text": "Other times, we become so lost in our interior thoughts, we forget the world around us."
+  },
+  {
+   "start": 526.53,
+   "end": 535.28,
+   "text": "Today, you've simply practiced noticing both, gently moving between them,"
+  },
+  {
+   "start": 535.13,
+   "end": 542.55,
+   "text": "without needing to choose one over the other."
+  },
+  {
+   "start": 542.4,
+   "end": 550.87,
+   "text": "Let your awareness rest now, somewhere between these two worlds."
+  },
+  {
+   "start": 550.72,
+   "end": 554.47,
+   "text": "Aware of your surroundings."
+  },
+  {
+   "start": 554.32,
+   "end": 559.36,
+   "text": "Aware of your interior."
+  },
+  {
+   "start": 559.21,
+   "end": 561.32,
+   "text": "Both present."
+  },
+  {
+   "start": 561.17,
+   "end": 566.45,
+   "text": "Both welcome."
+  },
+  {
+   "start": 566.3,
+   "end": 573.24,
+   "text": "Let these gentle words settle into your mind."
+  },
+  {
+   "start": 573.09,
+   "end": 576.04,
+   "text": "I am aware of my surroundings."
+  },
+  {
+   "start": 575.89,
+   "end": 584.71,
+   "text": "I am aware of my interior."
+  },
+  {
+   "start": 584.56,
+   "end": 593.48,
+   "text": "Both worlds exist, together, in this moment."
+  },
+  {
+   "start": 593.33,
+   "end": 595.68,
+   "text": "I am calm."
+  },
+  {
+   "start": 595.53,
+   "end": 600.31,
+   "text": "I am present."
+  },
+  {
+   "start": 600.16,
+   "end": 609.58,
+   "text": "Take another slow breath, and let these words settle a little deeper."
+  },
+  {
+   "start": 609.43,
+   "end": 646.9,
+   "text": "Stay here for a while longer, simply noticing both worlds, your surroundings,"
+  },
+  {
+   "start": 646.75,
+   "end": 647.4,
+   "text": "and your interior, existing quietly, side by side."
+  },
+  {
+   "start": 646.75,
+   "end": 647.4,
+   "text": "There's no need to choose between them."
+  },
+  {
+   "start": 646.75,
+   "end": 647.4,
+   "text": "Both are part of your experience, right now, and always."
+  },
+  {
+   "start": 646.75,
+   "end": 652.16,
+   "text": "When you feel ready, begin to bring a little more attention back to your surroundings."
+  },
+  {
+   "start": 652.01,
+   "end": 655.88,
+   "text": "Notice the sounds around you."
+  },
+  {
+   "start": 655.73,
+   "end": 664.11,
+   "text": "Notice the air, the space, the room you're sitting in."
+  },
+  {
+   "start": 663.96,
+   "end": 669.49,
+   "text": "Let your fingers move first, just slightly."
+  },
+  {
+   "start": 669.34,
+   "end": 672.49,
+   "text": "Then your toes."
+  },
+  {
+   "start": 672.34,
+   "end": 677.59,
+   "text": "Small movements, gentle and unhurried."
+  },
+  {
+   "start": 677.44,
+   "end": 683.65,
+   "text": "Take your time."
+  },
+  {
+   "start": 683.5,
+   "end": 691.05,
+   "text": "There's no need to rush this return."
+  },
+  {
+   "start": 690.9,
+   "end": 704.17,
+   "text": "Whenever you're ready, let your eyes open softly, taking in your surroundings once again."
+  },
+  {
+   "start": 704.02,
+   "end": 711.69,
+   "text": "Carry this awareness with you, into the rest of your day."
+  },
+  {
+   "start": 711.54,
+   "end": 728.0,
+   "text": "Notice, from time to time, both worlds, the sounds around you, and the quiet world within."
+  },
+  {
+   "start": 727.85,
+   "end": 730.8,
+   "text": "You are calm."
+  },
+  {
+   "start": 730.65,
+   "end": 734.36,
+   "text": "You are present."
+  },
+  {
+   "start": 734.21,
+   "end": 774.0,
+   "text": "And you are exactly where you need to be."
+  }
+ ]
+}
