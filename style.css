@@ -45,3 +45,29 @@ footer{padding:40px 0;color:var(--muted);font-size:14px;border-top:1px solid var
 footer .wrap{display:flex;flex-wrap:wrap;gap:16px;justify-content:space-between}footer a{color:var(--muted);margin-right:16px}
 .legal main{max-width:740px;margin:48px auto;padding:0 24px}.legal h1{font-size:clamp(38px,6vw,54px)}.legal h2{font-size:28px;margin-top:1.6em}
 .legal .box{background:var(--sage-tint);border-radius:var(--r-lg);padding:24px 28px;margin:24px 0}
+
+/* hero redesign: matches the app's sunrise sky + sage hills */
+.hero2{position:relative;overflow:hidden;padding:64px 0 120px;background:linear-gradient(180deg,#D9D3EF 0%,#EDE3F0 30%,#F6E2CF 62%,#FAF6EF 100%)}
+.sky{position:absolute;inset:0;pointer-events:none}
+.sun{position:absolute;width:180px;height:180px;border-radius:50%;right:-30px;top:-40px;z-index:0;background:radial-gradient(circle at 40% 40%,#F7D98B,#EBC26A 70%);box-shadow:0 0 120px 40px rgba(247,217,139,.45);animation:rise 9s ease-in-out infinite alternate}
+@keyframes rise{from{transform:translateY(8px)}to{transform:translateY(-8px)}}
+.cloud{position:absolute;height:34px;border-radius:40px;background:rgba(255,255,255,.55);filter:blur(6px)}.c1{width:220px;top:10%;left:8%}.c2{width:300px;top:30%;right:4%}
+.hills{position:absolute;left:0;right:0;bottom:0;width:100%;height:200px}
+.hero2-in{position:relative;display:grid;gap:44px;align-items:center}
+@media(min-width:900px){.hero2-in{grid-template-columns:1.05fr .95fr}}
+.hero2 h1{font-size:clamp(44px,7.4vw,76px);color:#2F3A33;letter-spacing:-.01em}
+.hero2 .over{color:var(--sage-deep)}
+.hero2 .lead{font-size:19px;color:#5E5A55;max-width:520px}
+.caption{max-width:440px;margin:24px 0 4px;padding:14px 16px;border-radius:22px;background:rgba(255,255,255,.72);backdrop-filter:blur(10px);box-shadow:0 12px 30px rgba(59,85,71,.12);display:grid;grid-template-columns:auto auto 1fr;gap:6px 8px;align-items:center;font-size:11px}
+.caption .dot{width:8px;height:8px;border-radius:50%;background:var(--sage);animation:pulse 2s infinite}@keyframes pulse{50%{opacity:.35}}
+.cap-l{font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--sage-deep)}.cap-t{color:var(--muted);text-align:right;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.caption p{grid-column:1/-1;margin:4px 0 0;padding:10px 14px;border-radius:14px;background:#F5EFD9;font-family:'Cormorant Garamond',serif;font-size:24px;color:var(--ink)}
+.btn-lg{padding:18px 30px;font-size:17px;border-radius:22px;box-shadow:0 14px 30px rgba(59,85,71,.28)}
+.hero2 .btn.ghost{background:rgba(255,255,255,.6);border-color:rgba(255,255,255,.8)}
+.hero-note{font-size:14px;color:#6E6A64}
+.duo{position:relative;height:540px;max-width:440px;width:100%;margin:0 auto}
+.duo .phone{position:absolute;width:250px}.p-front{left:0;bottom:0;z-index:2}.p-back{right:0;top:0;transform:rotate(4deg);opacity:.96}
+@media(max-width:899px){.hero2{padding:40px 0 110px}.duo{height:470px;max-width:360px}.duo .phone{width:min(215px,56vw)}.sun{width:140px;height:140px;right:-10px;top:-30px}.hero2 .ctas .btn{width:100%;justify-content:center}}
+.top2{background:rgba(237,230,242,.72)}
+.hero2 h1 .nw{white-space:nowrap}.hero2 h1{font-size:clamp(40px,6.2vw,70px)}.duo .phone{z-index:1}.duo .p-front{z-index:2}
+footer .wrap>div:last-child{display:flex;flex-wrap:wrap;gap:6px 16px}footer .wrap>div:last-child a{margin:0;overflow-wrap:anywhere}
