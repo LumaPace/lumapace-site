@@ -36,8 +36,15 @@ if (!window._flutter) {
 }
 _flutter.buildConfig = {"engineRevision":"78fc3012e45889657f72359b005af7beac47ba3d","builds":[{"compileTarget":"dart2js","renderer":"canvaskit","mainJsPath":"main.dart.js"}]};
 
-_flutter.loader.load({
-  serviceWorkerSettings: {
-    serviceWorkerVersion: "3072238846"
-  }
-});
+// No service worker: unregister any old one and clear its caches.
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.getRegistrations().then(function (rs) {
+    rs.forEach(function (r) { r.unregister(); });
+  }).catch(function () {});
+}
+if (window.caches && caches.keys) {
+  caches.keys().then(function (ks) {
+    ks.forEach(function (k) { if (/flutter|assets/i.test(k)) caches.delete(k); });
+  }).catch(function () {});
+}
+_flutter.loader.load();
