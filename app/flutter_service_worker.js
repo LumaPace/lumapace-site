@@ -16,10 +16,10 @@ const RESOURCES = {"canvaskit/chromium/canvaskit.js": "a80c765aaa8af8645c9fb1aae
 "canvaskit/canvaskit.js.symbols": "a3c9f77715b642d0437d9c275caba91e",
 "canvaskit/skwasm.wasm": "7e5f3afdd3b0747a1fd4517cea239898",
 "flutter.js": "24bc71911b75b5f8135c949e27a2984e",
-"flutter_bootstrap.js": "5e3ba4a8d6870680a6424901ea792f3c",
-"index.html": "2ae725424996b5b8a620e44f103d52f6",
-"/": "2ae725424996b5b8a620e44f103d52f6",
-"main.dart.js": "20beebbb22c8ea5d6d7ae166c3dc662b",
+"flutter_bootstrap.js": "3b1ee4c3a64f0bdd2aa7bff7c8d7cf79",
+"index.html": "db237e8f57b6a48821fc055d5513d8cc",
+"/": "db237e8f57b6a48821fc055d5513d8cc",
+"main.dart.js": "5b99475278cf5c224a9dc2d6da26fb40",
 "version.json": "9bbf51e20e7237e15fc0df20ea92fa82",
 "assets/assets/images/lumapace-symbol-transparent.png": "de52fa03a8e6109b0aaef05810382ed7",
 "assets/assets/images/covers/garden.webp": "4fb38089ac10013a4bcb4add65efa572",
@@ -107,7 +107,7 @@ const RESOURCES = {"canvaskit/chromium/canvaskit.js": "a80c765aaa8af8645c9fb1aae
 "icons/Icon-maskable-512.png": "936eeabe4860a4bda635172eb58b3747",
 "manifest.json": "fc4a4b781751b9849695bf37cc491435",
 "favicon.png": "2f8797655aa53e2d48e81be4263b9a62",
-"privacy.html": "27ddfd81eb359ddb560bf83edb0bf3d0",
+"privacy.html": "ad62cb8ddbc0a99a9585cc9e082def96",
 "terms.html": "b93b5d356a4946a257dd10647aff533b"};
 // The application shell files that are downloaded before a service worker can
 // start.
