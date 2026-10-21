@@ -150,3 +150,6 @@ section{padding:88px 0}@media(min-width:900px){section{padding:112px 0}}
 @media(max-width:899px){.flow{gap:10px}}
 .fn{flex:none;width:32px}
 @media(max-width:899px){.getapp .btn-lg{font-size:16px;padding:16px 20px}}
+.gp-or{margin:22px 0 8px;font-size:14px;color:var(--muted)}
+.badge-gp2{display:inline-block;border-radius:12px;transition:opacity .3s}.badge-gp2:hover{opacity:.85}.badge-gp2 img{width:170px;height:auto;margin:0 auto}
+.hero-gp{display:inline-block;margin-left:4px;color:var(--sage-deep);font-weight:500;text-decoration:underline;text-underline-offset:3px;text-decoration-color:rgba(59,85,71,.35)}
