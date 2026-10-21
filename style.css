@@ -80,3 +80,17 @@ footer .wrap>div:last-child{display:flex;flex-wrap:wrap;gap:6px 16px}footer .wra
 .hero-note{font-weight:500;color:var(--sage-deep)}
 @media(max-width:899px){.hero2 .caption{display:none}.hero2 .lead{font-size:17px}.duo{height:400px;max-width:330px}.duo .phone{width:min(190px,50vw)}.hero2-in{gap:28px}}
 .pt-line[hidden]{display:none}
+/* premium phone frame (generic, thin bezel) */
+.phone{position:relative;width:min(260px,62vw);aspect-ratio:390/888;margin:0 auto;padding:7px;border-radius:48px;background:linear-gradient(145deg,#3a3f3c,#151816 55%,#2b2f2d);box-shadow:0 0 0 1px rgba(255,255,255,.08) inset,0 0 0 1.5px #0d0f0e,0 30px 60px -18px rgba(40,55,47,.42),0 12px 24px -12px rgba(40,55,47,.28)}
+.phone::before{content:"";position:absolute;top:15px;left:50%;transform:translateX(-50%);width:28%;height:20px;border-radius:20px;background:#0b0c0c;z-index:3;opacity:1}
+.phone::after{content:"";position:absolute;right:-2.5px;top:22%;width:3px;height:12%;border-radius:0 3px 3px 0;background:#2a2e2c}
+.phone .screen{position:relative;height:100%;border-radius:41px;overflow:hidden;background:#FAF6EF;display:flex;flex-direction:column}
+.phone .sb{flex:0 0 auto;height:4.95%;display:flex;align-items:center;justify-content:space-between;padding:0 9% 0 11%;font:600 11px/1 Inter,system-ui,sans-serif;color:#2c2c2c;letter-spacing:.01em}
+.phone .sb i{width:20px;height:9px;border:1.3px solid #2c2c2c;border-radius:3px;position:relative;opacity:.85}.phone .sb i::after{content:"";position:absolute;inset:1.3px 4px 1.3px 1.3px;background:#2c2c2c;border-radius:1px}
+.phone .screen img{flex:1 1 auto;width:100%;height:auto;min-height:0;object-fit:cover;object-position:top;border-radius:0;aspect-ratio:auto}
+.feat .phone{width:min(250px,60vw)}
+.duo .phone{width:270px}.p-back{transform:rotate(5deg);opacity:1}.p-front{transform:rotate(-2deg)}
+.duo{height:590px;max-width:470px}
+@media(max-width:899px){.duo{height:440px;max-width:350px}.duo .phone{width:min(200px,52vw)}.phone::before{top:11px;height:14px}.phone{border-radius:38px;padding:6px}.phone .screen{border-radius:32px}.phone .sb{font-size:8.5px}.phone .sb i{width:15px;height:7px}}
+.duo{max-width:540px;height:600px}.duo .p-front{width:268px;left:0;bottom:6px}.duo .p-back{width:248px;right:0;top:0}
+@media(max-width:899px){.duo{max-width:340px;height:430px}.duo .p-front{width:190px;left:4px}.duo .p-back{width:178px;right:4px}}
