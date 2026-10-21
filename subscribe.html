@@ -33,7 +33,7 @@ input{width:100%;font:inherit;padding:13px 14px;border:1.5px solid var(--line);b
 <script src="subscribe-config.js"></script>
 <script type="module">
 const C=window.LUMA_SUB, $=s=>document.querySelector(s);
-const P={usd:{annual:'US$59/year',monthly:'US$9/month',annualSub:'US$4.92/month, billed yearly'},brl:{annual:'R$199/year',monthly:'R$29/month',annualSub:'R$16.58/month, billed yearly'}};
+const P={usd:{annual:'US$59.99/year',monthly:'US$9.99/month',annualSub:'US$5.00/month, billed yearly'},brl:{annual:'R$199.90/year',monthly:'R$29.90/month',annualSub:'R$16.66/month, billed yearly'}};
 let cur=(navigator.language||'').startsWith('pt')?'brl':'usd', plan='annual', user=null;
 const paint=()=>{document.querySelectorAll('[data-t]').forEach(e=>e.textContent=P[cur][e.dataset.t]);
  document.querySelectorAll('.choice').forEach(e=>e.classList.toggle('on',e.dataset.p===plan));
@@ -55,7 +55,7 @@ else{
  $('#out').onclick=e=>{e.preventDefault();au.signOut(auth)};
 }
 $('#buy').onclick=()=>{const link=(C.preview&&C.sandboxLinks?C.sandboxLinks:C.purchaseLinks)[plan];
- if(!link||!user){$('#perr').textContent='Checkout is not live yet (preview).';return;}
+ if(!link||!user){$('#perr').textContent='Please sign in first.';return;}
  const u=new URL(link.replace(/\/$/,'')+'/'+encodeURIComponent(user.uid)); if(user.email)u.searchParams.set('email',user.email); u.searchParams.set('package_id',plan==='annual'?'$rc_annual':'$rc_monthly');
  location.href=u.toString();};
 </script></body></html>
