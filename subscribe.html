@@ -1,5 +1,5 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Subscribe · LumaPace</title><meta name="robots" content="noindex"><link rel="icon" href="img/logo.png"><link rel="stylesheet" href="style.css">
+<title>Subscribe · LumaPace</title><meta name="robots" content="noindex"><link rel="icon" href="img/logo.png"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Inter:wght@400;500;600&display=swap"><link rel="stylesheet" href="style.css?v=3">
 <style>
 .sub{max-width:560px;margin:0 auto;padding:48px 24px 72px}.sub .card{margin-top:18px}
 .choice{display:flex;justify-content:space-between;align-items:center;gap:12px;cursor:pointer;border:1.5px solid var(--line);border-radius:var(--r-md);padding:18px 20px;background:var(--paper);margin-top:12px}
@@ -8,13 +8,14 @@
 input{width:100%;font:inherit;padding:13px 14px;border:1.5px solid var(--line);border-radius:var(--r-sm);margin-top:10px;background:var(--cream-soft)}
 .or{text-align:center;color:var(--muted);font-size:13px;margin:14px 0 4px}.small{font-size:13px;color:var(--muted)}.hide{display:none}
 .who{display:flex;justify-content:space-between;align-items:center}.cur{float:right;font-size:13px}
-</style></head><body>
+</style><script async src="https://www.googletagmanager.com/gtag/js?id=G-82XCQ1X3KB"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-82XCQ1X3KB',{anonymize_ip:true});gtag('event','paywall_view',{source:'subscribe_page'});</script></head><body>
 <header class="top"><div class="wrap"><a class="brand" href="/"><img src="img/logo.png" alt="">LumaPace</a></div></header>
 <main class="sub">
 <p class="over">LumaPace Premium</p><h1 style="font-size:46px">Unlock every session.</h1>
 <p class="muted">All Premium episodes, your 30-day plan and progress tracking. One subscription works on the web, Android and iPhone — just sign in with the same account.</p>
 
 <div class="card" id="step-auth"><h3>1. Sign in</h3><p class="small">Your Premium is linked to your LumaPace account.</p>
+<p class="small iab" id="iab" hidden style="background:#F2E3BF;padding:10px 12px;border-radius:12px;color:#3B5547">Using Instagram? Sign in with email below. For Google sign-in, tap ⋯ and choose “Open in browser”.</p>
 <button class="btn full" id="g">Continue with Google</button>
 <div class="or">or with email</div>
 <input id="em" type="email" placeholder="Email" autocomplete="email"><input id="pw" type="password" placeholder="Password (6+ characters)" autocomplete="current-password">
@@ -43,6 +44,7 @@ document.querySelectorAll('.choice').forEach(e=>e.onclick=()=>{plan=e.dataset.p;
 const show=u=>{user=u;$('#step-auth').classList.toggle('hide',!!u);$('#step-plan').classList.toggle('hide',!u);if(u)$('#whoami').textContent='Signed in as '+(u.email||'your account');};
 paint();
 const qs=new URLSearchParams(location.search);
+if(/Instagram|FBAN|FBAV|FB_IAB|Threads/i.test(navigator.userAgent)){$('#iab').hidden=false;const g=$('#g');g.classList.add('ghost');g.parentElement.appendChild(g);const o=document.querySelector('.or');if(o)o.textContent='Sign in with email';}
 if(qs.has('demo')){show({uid:'demo',email:'you@example.com'});if(qs.get('demo')==='plan-m'){plan='monthly';paint()}}
 else{
  const fa=await import('https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js');
@@ -57,5 +59,5 @@ else{
 $('#buy').onclick=()=>{const link=C.purchaseLinks[plan];
  if(!link||!user){$('#perr').textContent='Please sign in first.';return;}
  const u=new URL(link.replace(/\/$/,'')+'/'+encodeURIComponent(user.uid)); if(user.email)u.searchParams.set('email',user.email); u.searchParams.set('package_id',plan==='annual'?'$rc_annual':'$rc_monthly');
- location.href=u.toString();};
+ if(window.gtag)gtag('event','checkout_open',{plan,source:'subscribe_page'}); location.href=u.toString();};
 </script></body></html>
