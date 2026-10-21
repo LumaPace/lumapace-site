@@ -94,4 +94,10 @@ btn.addEventListener('click',function(){if(box.classList.contains('playing')){st
  if(window.gtag)gtag('event','sample_play',{episode:'002'})});
 var st=document.getElementById('sticky'),hero=document.querySelector('.hero2'),hide=[document.getElementById('premium'),document.getElementById('faq'),document.getElementById('get'),document.querySelector('footer')];
 var vis={};if('IntersectionObserver' in window){var io=new IntersectionObserver(function(es){es.forEach(function(e){vis[e.target.id||e.target.tagName]=e.isIntersecting});var show=!vis.hero&&!hide.some(function(h){return vis[h.id||h.tagName]});st.classList.toggle('on',show);st.setAttribute('aria-hidden',!show);st.querySelector('a').tabIndex=show?0:-1});hero.id='hero';io.observe(hero);hide.forEach(function(h){io.observe(h)})}
-})();</script></body></html>
+})();</script><script>/* Warm the web player while the visitor reads (no audio prefetch). */
+window.addEventListener('load',function(){setTimeout(function(){try{var c=navigator.connection;if(c&&(c.saveData||/2g/.test(c.effectiveType||'')))return;
+function pf(u,cors){var l=document.createElement('link');l.rel='prefetch';l.href=u;if(cors)l.crossOrigin='anonymous';document.head.appendChild(l)}
+pf('/app/main.dart.js');
+fetch('/app/flutter_bootstrap.js').then(function(r){return r.text()}).then(function(t){var m=t.match(/"engineRevision":"([0-9a-f]{40})"/);if(!m)return;
+var b='https://www.gstatic.com/flutter-canvaskit/'+m[1]+'/';var ch=!!(window.ImageDecoder&&typeof Intl.v8BreakIterator!=='undefined'&&typeof Intl.Segmenter!=='undefined');var d=ch?b+'chromium/':b;
+pf(d+'canvaskit.js',1);pf(d+'canvaskit.wasm',1)}).catch(function(){})}catch(e){}},1500)});</script></body></html>
