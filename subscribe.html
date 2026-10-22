@@ -8,7 +8,8 @@
 input{width:100%;font:inherit;padding:13px 14px;border:1.5px solid var(--line);border-radius:var(--r-sm);margin-top:10px;background:var(--cream-soft)}
 .or{text-align:center;color:var(--muted);font-size:13px;margin:14px 0 4px}.small{font-size:13px;color:var(--muted)}.hide{display:none}
 .who{display:flex;justify-content:space-between;align-items:center}.cur{float:right;font-size:13px}
-</style><script async src="https://www.googletagmanager.com/gtag/js?id=G-82XCQ1X3KB"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-82XCQ1X3KB',{anonymize_ip:true});gtag('event','paywall_view',{source:'subscribe_page'});</script></head><body>
+</style><script async src="https://www.googletagmanager.com/gtag/js?id=G-82XCQ1X3KB"></script><script>(function(){var K='lp_utm',D=2592e6,F=['utm_source','utm_medium','utm_campaign','utm_content','utm_term'],q=new URLSearchParams(location.search),u={},s=null;F.forEach(function(k){var v=q.get(k);if(v)u[k]=v.slice(0,100)});try{s=JSON.parse(localStorage.getItem(K)||'null')}catch(e){}if(s&&!(Date.now()-s.ts<D))s=null;if(!s&&u.utm_source){s={p:u,ts:Date.now()};try{localStorage.setItem(K,JSON.stringify(s))}catch(e){}}var p=s?s.p:u;window.LP_UTM=p;window.LP_GA=p.utm_campaign?{campaign_source:p.utm_source||'',campaign_medium:p.utm_medium||'',campaign_name:p.utm_campaign,ft_source:p.utm_source||'',ft_medium:p.utm_medium||'',ft_campaign:p.utm_campaign}:{};window.LP_UTM_QS=function(){var r=new URLSearchParams();F.forEach(function(k){if(p[k])r.set(k,p[k])});return r.toString()};window.LP_PLAY_REF=function(){return p.utm_campaign?encodeURIComponent('utm_source='+(p.utm_source||'')+'&utm_medium='+(p.utm_medium||'')+'&utm_campaign='+p.utm_campaign):''}})();
+window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());if(LP_GA.ft_campaign)gtag('set',{ft_source:LP_GA.ft_source,ft_medium:LP_GA.ft_medium,ft_campaign:LP_GA.ft_campaign});gtag('config','G-82XCQ1X3KB',Object.assign({anonymize_ip:true},/[?&]utm_/.test(location.search)?{}:LP_GA));gtag('event','paywall_view',{source:'subscribe_page'});</script></head><body>
 <header class="top"><div class="wrap"><a class="brand" href="/"><img src="img/logo.png" alt="">LumaPace</a></div></header>
 <main class="sub">
 <p class="over">LumaPace Premium</p><h1 style="font-size:46px">Unlock every session.</h1>
@@ -62,6 +63,6 @@ else{
 }
 $('#buy').onclick=()=>{const link=C.purchaseLinks[plan];
  if(!link||!user){$('#perr').textContent='Please sign in first.';return;}
- const u=new URL(link.replace(/\/$/,'')+'/'+encodeURIComponent(user.uid)); if(user.email)u.searchParams.set('email',user.email); u.searchParams.set('package_id',plan==='annual'?'$rc_annual':'$rc_monthly');if(inBR)u.searchParams.set('currency','BRL');
- if(window.gtag)gtag('event','checkout_open',{plan,source:'subscribe_page'}); location.href=u.toString();};
+ const u=new URL(link.replace(/\/$/,'')+'/'+encodeURIComponent(user.uid)); if(user.email)u.searchParams.set('email',user.email); u.searchParams.set('package_id',plan==='annual'?'$rc_annual':'$rc_monthly');if(inBR)u.searchParams.set('currency','BRL');Object.keys(window.LP_UTM||{}).forEach(k=>u.searchParams.set(k,LP_UTM[k]));
+ if(window.gtag)gtag('event','checkout_open',{plan,source:'subscribe_page'});gtag('event','checkout_click',{plan,source:'subscribe_page'}); location.href=u.toString();};
 </script></body></html>
