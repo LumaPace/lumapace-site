@@ -1,4 +1,4 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Subscribe · LumaPace</title><meta name="robots" content="noindex"><link rel="icon" href="img/logo.png"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Inter:wght@400;500;600&display=swap"><link rel="stylesheet" href="style.css?v=3">
 <style>
 .sub{max-width:560px;margin:0 auto;padding:48px 24px 72px}.sub .card{margin-top:18px}
@@ -24,24 +24,26 @@ input{width:100%;font:inherit;padding:13px 14px;border:1.5px solid var(--line);b
 
 <div class="card hide" id="step-plan"><div class="who"><h3 style="margin:0">2. Choose a plan</h3><a href="#" id="out" class="small">Sign out</a></div>
 <p class="small" id="whoami"></p>
-<span class="cur"><a href="#" data-c="usd">USD</a> · <a href="#" data-c="brl">BRL</a></span><div style="clear:both"></div>
+<p class="small" id="localnote" hidden>Price shown in your currency at checkout.</p>
 <div class="choice on" data-p="annual"><div><b>Annual</b> <span class="pill">7 days free</span><div class="small" data-t="annualSub"></div></div><div class="price" data-t="annual"></div></div>
 <div class="choice" data-p="monthly"><div><b>Monthly</b><div class="small">Cancel anytime</div></div><div class="price" data-t="monthly"></div></div>
 <button class="btn full" id="buy">Start 7-day free trial</button>
 <p class="small">Secure checkout by Stripe. Renews automatically until you cancel. Cancel anytime from the link in your receipt email. By subscribing you agree to the <a href="terms.html">Terms</a> and <a href="privacy.html">Privacy Policy</a>.</p>
 <p class="small" id="perr"></p></div>
 </main>
-<script src="subscribe-config.js"></script>
+<script src="subscribe-config.js?v=ad07f95db8"></script>
 <script type="module">
 const C=window.LUMA_SUB, $=s=>document.querySelector(s);
-const P={usd:{annual:'US$59.99/year',monthly:'US$9.99/month',annualSub:'US$5.00/month, billed yearly'},brl:{annual:'R$199.90/year',monthly:'R$29.90/month',annualSub:'R$16.66/month, billed yearly'}};
+const P={usd:{annual:'US$59.99/year',monthly:'US$9.99/month',annualSub:'US$5.00/month, billed yearly'},brl:{annual:'R$199.90/year',monthly:'R$29.90/month',annualSub:'R$16.66/month, billed yearly'},local:{annual:'',monthly:'',annualSub:'Billed yearly, in your currency'}};
 const BRZ=['Sao_Paulo','Bahia','Fortaleza','Recife','Belem','Manaus','Cuiaba','Campo_Grande','Porto_Velho','Boa_Vista','Rio_Branco','Araguaina','Maceio','Santarem','Noronha','Eirunepe'].map(z=>'America/'+z);
 const inBR=(()=>{try{if(BRZ.includes(Intl.DateTimeFormat().resolvedOptions().timeZone))return true}catch(e){}return [navigator.language,...(navigator.languages||[])].some(l=>/(^|-)br$/i.test((l||'').replace('_','-')))})();
-let cur=inBR?'brl':'usd', plan='annual', user=null;
+const US=/^(America\/(New_York|Detroit|Chicago|Denver|Phoenix|Boise|Los_Angeles|Anchorage|Juneau|Sitka|Metlakatla|Yakutat|Nome|Adak|Menominee|Indiana\/.*|Kentucky\/.*|North_Dakota\/.*)|Pacific\/Honolulu|US\/.*)$/;
+const inUS=!inBR&&(()=>{try{return US.test(Intl.DateTimeFormat().resolvedOptions().timeZone)}catch(e){return false}})();
+let cur=inBR?'brl':inUS?'usd':'local', plan='annual', user=null;
 const paint=()=>{document.querySelectorAll('[data-t]').forEach(e=>e.textContent=P[cur][e.dataset.t]);
  document.querySelectorAll('.choice').forEach(e=>e.classList.toggle('on',e.dataset.p===plan));
  $('#buy').textContent=plan==='annual'?'Start 7-day free trial':'Subscribe monthly';};
-document.querySelectorAll('[data-c]').forEach(a=>a.onclick=e=>{e.preventDefault();cur=a.dataset.c;paint()});
+$('#localnote').hidden=cur!=='local';
 document.querySelectorAll('.choice').forEach(e=>e.onclick=()=>{plan=e.dataset.p;paint()});
 const show=u=>{user=u;$('#step-auth').classList.toggle('hide',!!u);$('#step-plan').classList.toggle('hide',!u);if(u)$('#whoami').textContent='Signed in as '+(u.email||'your account');};
 paint();
