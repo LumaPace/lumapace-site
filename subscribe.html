@@ -35,7 +35,9 @@ input{width:100%;font:inherit;padding:13px 14px;border:1.5px solid var(--line);b
 <script type="module">
 const C=window.LUMA_SUB, $=s=>document.querySelector(s);
 const P={usd:{annual:'US$59.99/year',monthly:'US$9.99/month',annualSub:'US$5.00/month, billed yearly'},brl:{annual:'R$199.90/year',monthly:'R$29.90/month',annualSub:'R$16.66/month, billed yearly'}};
-let cur=(navigator.language||'').startsWith('pt')?'brl':'usd', plan='annual', user=null;
+const BRZ=['Sao_Paulo','Bahia','Fortaleza','Recife','Belem','Manaus','Cuiaba','Campo_Grande','Porto_Velho','Boa_Vista','Rio_Branco','Araguaina','Maceio','Santarem','Noronha','Eirunepe'].map(z=>'America/'+z);
+const inBR=(()=>{try{if(BRZ.includes(Intl.DateTimeFormat().resolvedOptions().timeZone))return true}catch(e){}return [navigator.language,...(navigator.languages||[])].some(l=>/(^|-)br$/i.test((l||'').replace('_','-')))})();
+let cur=inBR?'brl':'usd', plan='annual', user=null;
 const paint=()=>{document.querySelectorAll('[data-t]').forEach(e=>e.textContent=P[cur][e.dataset.t]);
  document.querySelectorAll('.choice').forEach(e=>e.classList.toggle('on',e.dataset.p===plan));
  $('#buy').textContent=plan==='annual'?'Start 7-day free trial':'Subscribe monthly';};
@@ -58,6 +60,6 @@ else{
 }
 $('#buy').onclick=()=>{const link=C.purchaseLinks[plan];
  if(!link||!user){$('#perr').textContent='Please sign in first.';return;}
- const u=new URL(link.replace(/\/$/,'')+'/'+encodeURIComponent(user.uid)); if(user.email)u.searchParams.set('email',user.email); u.searchParams.set('package_id',plan==='annual'?'$rc_annual':'$rc_monthly');
+ const u=new URL(link.replace(/\/$/,'')+'/'+encodeURIComponent(user.uid)); if(user.email)u.searchParams.set('email',user.email); u.searchParams.set('package_id',plan==='annual'?'$rc_annual':'$rc_monthly');if(inBR)u.searchParams.set('currency','BRL');
  if(window.gtag)gtag('event','checkout_open',{plan,source:'subscribe_page'}); location.href=u.toString();};
 </script></body></html>
