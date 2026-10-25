@@ -34,7 +34,7 @@ addEventListener("message", eventListener);
 if (!window._flutter) {
   window._flutter = {};
 }
-_flutter.buildConfig = {"engineRevision":"78fc3012e45889657f72359b005af7beac47ba3d","builds":[{"compileTarget":"dart2js","renderer":"canvaskit","mainJsPath":"main.dart.js?v=79c2874d5c"}]};
+_flutter.buildConfig = {"engineRevision":"78fc3012e45889657f72359b005af7beac47ba3d","builds":[{"compileTarget":"dart2js","renderer":"canvaskit","mainJsPath":"main.dart.js?v=d6c164091b"}]};
 
 // No service worker: unregister any old one and clear its caches.
 if ('serviceWorker' in navigator) {
